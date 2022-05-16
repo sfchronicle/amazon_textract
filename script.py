@@ -13,8 +13,8 @@ import math
 # Parse the config 
 cp = configparser.ConfigParser(interpolation=None)
 # read env file based on location
-if os.path.exists('../deploy-engine/.env'): 
-    cp.read('../deploy-engine/.env')  
+if os.path.exists('../../.env'): 
+    cp.read('../../.env')  
 else: # production
     cp.read("/home/ec2-user/Projects/deploy-engine/.env")
 
@@ -35,7 +35,7 @@ os.environ["AWS_SECRET_ACCESS_KEY"] = cp.get('aws', 'textract_pass')
 
 def startJob(s3BucketName, objectName):
     response = None
-    client = boto3.client('textract', region_name='us-west-1')
+    client = boto3.client('textract', region_name='us-east-1')
     response = client.start_document_text_detection(
     DocumentLocation={
         'S3Object': {
@@ -48,7 +48,7 @@ def startJob(s3BucketName, objectName):
 
 def isJobComplete(jobId):
     time.sleep(5)
-    client = boto3.client('textract')
+    client = boto3.client('textract', region_name='us-east-1')
     response = client.get_document_text_detection(JobId=jobId)
     status = response["JobStatus"]
     print("Job status: {}".format(status))
@@ -67,7 +67,7 @@ def getJobResults(jobId):
 
     time.sleep(5)
 
-    client = boto3.client('textract')
+    client = boto3.client('textract', region_name='us-east-1')
     response = client.get_document_text_detection(JobId=jobId)
     
     pages.append(response)
@@ -91,7 +91,7 @@ def getJobResults(jobId):
 
 # Document
 s3BucketName = "sfc-project-files"
-documentName = "GLEN_RI_01.pdf"
+documentName = "restraint-seclusion/pdf/SYR_RI_01.pdf"
 
 jobId = startJob(s3BucketName, documentName)
 print("Started job with id: {}".format(jobId))
@@ -105,3 +105,4 @@ for resultPage in response:
     for item in resultPage["Blocks"]:
         if item["BlockType"] == "LINE":
             print ('\033[94m' +  item["Text"] + '\033[0m')
+            #print(item["Text"])

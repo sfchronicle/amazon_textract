@@ -1,0 +1,1913 @@
+Started job with id: 44defbf3bdefbd09a6dfd27691fe2a3c1572f4ca96355ca6b2c0f58b052dc2e0
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: SUCCEEDED
+Resultset page recieved: 1
+Resultset page recieved: 2
+Resultset page recieved: 3
+Resultset page recieved: 4
+Resultset page recieved: 5
+Resultset page recieved: 6
+Resultset page recieved: 7
+Resultset page recieved: 8
+Resultset page recieved: 9
+Resultset page recieved: 10
+Resultset page recieved: 11
+Resultset page recieved: 12
+Resultset page recieved: 13
+[94m03-12-'18 15:13 FROM- MEACHEM SCHOOL[0m
+[94m3154356216[0m
+[94mT-722 P0001/0001 F-144[0m
+[94mCity of and[0m
+[94mWritten aff Uço[0m
+[94mPosition.[0m
+[94mtype of phyzical used): Cil children's Control[0m
+[94mLesutiona of Meacher,[0m
+[94mall its Mr their Warren[0m
+[94mwhich[0m
+[94mpreseding[0m
+[94mage[0m
+[94mef[0m
+[94mFighting Printing Warren[0m
+[94mthat Fidate[0m
+[94mphysical harm zo thamisles[0m
+[94msaríous to[0m
+[94mi to thansulves aud othes[0m
+[94m1 serjous destruction[0m
+[94mIn[0m
+[94mhrom to and inminant progerty desiguction[0m
+[94mstions thyzinal ham to offress and dasteuction[0m
+[94mriment hamm im and seriows[0m
+[94mto de esselate the[0m
+[94mProtided choices[0m
+[94mReducad demadia Esplain:[0m
+[94minaditation[0m
+[94mBadneed verbal inistantien[0m
+[94mCalming[0m
+[94mStudent was Fig hteg on arrival[0m
+[94mROCEMENT[0m
+[94mto were[0m
+[94mRemoval uf oher atudents[0m
+[94mRequest far amisfance[0m
+[94mof studeut to momer location[0m
+[94mis[0m
+[94mdas[0m
+[94mStudent was fighting, tried to remove stundent[0m
+[94mof[0m
+[94mJONS[0m
+[94mas and of Calm, fo Howing directions[0m
+[94mandior staif that may have[0m
+[94mstudent saw nurse. Small red marks on back;[0m
+[94mepartment of Safety and Security[0m
+[94mndemt Restraimt Use Procedunres[0m
+[94mStand em[0m
+[94mDate of frestraint: 3/27/19 Time begam: 10:00 am Timme ended: 10:05 am[0m
+[94mNature of restraint (describe type of physical restraint used): Arm restract per[0m
+[94mCPI training[0m
+[94mLoca tilon of restraint: Room[0m
+[94mName(s) of staff[0m
+[94mmember(s) administering restraints Karn Hoke t Msa bihlerest[0m
+[94mwitness[0m
+[94mDescription of activity im which stadent was engaged preceding the usse of restraint:[0m
+[94mrunning through School[0m
+[94mStudemt's behavior that prompted the restraint: (Please chack all categories which apply)[0m
+[94mImminent sexious physical harm to themselves[0m
+[94mImminent seirious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physioal harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s that prompted physical restraint: stadent came back CK Room[0m
+[94mSpitting in teachers face Verbally agnalium Swearing[0m
+[94mEfforté mattle to Me-escalate[0m
+[94mengagens other the Student situation: tegung to fight. Kicking me sweaing[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94m.[0m
+[94mo Other[0m
+[94mA Itermatives to restraint that were attempted:[0m
+[94m2[0m
+[94mRemoval of other students[0m
+[94m3 Request for assistance[0m
+[94mthe[0m
+[94m} Other[0m
+[94m} Voluntary removal of student to another location[0m
+[94m'xplain:[0m
+[94mobservations of etudent at end of restraint: student war Cala went to Calming[0m
+[94mCorner,[0m
+[94mote any injuries to stundent and/or staff that may have occurred:[0m
+[94mSTUDENT was SEEN YESENDAY of PAIN in R FOREARM-[0m
+[94m4/v SAME TODAY- MSM CAUSED TO SCEK MARA CANSUCT. Arron[0m
+[94mN MARIAS/ swim MITED[0m
+[94m12-11-'17 14:05 FROM- MEACHEM SCHOOL[0m
+[94m3154356216[0m
+[94mT-586 P0001/0001 F-918[0m
+[94mNo Estack[0m
+[94mCaty Scheol of and Slecumits[0m
+[94mWritter ef Use Prossibures[0m
+[94magais of 12 111/17 hegma: I 1:08 am Time anded: lilliam.[0m
+[94mNatume el restraint type of physical restraint used): CPI Childrens. Control[0m
+[94mPosition[0m
+[94mMeachem[0m
+[94mes administering Mathew Warren[0m
+[94mstadent engraged[0m
+[94mKnocking over Bachairs, lying an the grownd, yelling[0m
+[94mHat grieste which amply)[0m
+[94mTomminent physical harm to thembeires[0m
+[94msuros[0m
+[94mhamm[0m
+[94mto[0m
+[94mofhees[0m
+[94mf[0m
+[94m20 and offress[0m
+[94mI sulous destruction[0m
+[94mIn[0m
+[94mham to thenselva and insuinents sezions pouperty[0m
+[94mIF[0m
+[94minnt salous tilyysical haan to others and firminent as proparity destruscion[0m
+[94mament sulous physical hasm to thansulves and others and forminent secious proparly destinution[0m
+[94mthat Began Punching Warren[0m
+[94m.[0m
+[94mte de essaliate the[0m
+[94mchokes[0m
+[94mRedused damaida Essplain:[0m
+[94m(Verbal[0m
+[94mBadused veabui inistention[0m
+[94mCaluning Eschniques[0m
+[94mOtter[0m
+[94mto wore[0m
+[94mof olhar[0m
+[94mNesquest fhr assisfatuse[0m
+[94msingly[0m
+[94msemoval ofstudent to location[0m
+[94mdaix[0m
+[94mSentry 5 assistance Was requested, offered student reset options[0m
+[94m& plans[0m
+[94met emil of Calm, rese w/ schoo psycholog st[0m
+[94mstuds nt had small hand. red mark on back.[0m
+[94mand/or staff that may have[0m
+[94m05-19-16 15:19 FROM- MEACHEM SCHOOL[0m
+[94m3154356216[0m
+[94mT-492 P0001/0001 F-061[0m
+[94mSyracuse City School of Safefy and[0m
+[94mWrittem Summáry of Restraint Use Procedures[0m
+[94mwate of restraints begen: 12:05pm Time ended: 12:12pm[0m
+[94mNatuge of restgrent time cl Children's trantment[0m
+[94mLocation of Meachem[0m
+[94mName(s) of staff member(s) administering restrainta Mathew Warren[0m
+[94my[0m
+[94mDescuiption of motivital which stadent was engaged immediately preceding the use of restraints[0m
+[94mRunning, kicking hitting[0m
+[94mStudent's behavior that prompted thovestraints (Please cheoks all categories which apply)[0m
+[94mImminent serious physical harm to themaelvos[0m
+[94mdimminent serlous physical harm to others[0m
+[94mImminent setious physion] harm to themsolves and others[0m
+[94mImminent serious property destruction[0m
+[94mserious physical harm to thanselves and imminent secious property dostruction[0m
+[94m1F riment serious physical harm to others and sorious property destruction[0m
+[94mainent serious phynical harm to thamselves and others and serious property destruction[0m
+[94mRxplain[0m
+[94msitilent Behavior(s) that prompted physloa) restraint: Punching Warren[0m
+[94mmatile to de-escalate the situstion:[0m
+[94mProvided choices[0m
+[94md[0m
+[94mReduced domands Explain:[0m
+[94m3[0m
+[94mredirection[0m
+[94m8[0m
+[94mReduced verbal interaction[0m
+[94mo Qalming techniques[0m
+[94mRECEIVED[0m
+[94mOther Called Mother[0m
+[94m'MAY 19 2016[0m
+[94mAlterniatives to restraint that were attempted:[0m
+[94mo Removal of other students[0m
+[94mDEPARTMENT OF SAPETY[0m
+[94mRequest for assistauso,[0m
+[94mOther[0m
+[94mVoluntery removal of student to another location[0m
+[94mExplain: Warrens assistance requested, called[0m
+[94many to student amd/or staff that may have ossurreds[0m
+[94m1mm long cut on upper right[0m
+[94mcheck. Nurse examined bott[0m
+[94m03-01-11 16:59 FROM- HW SMITH SCHOOL[0m
+[94m315-435-6220[0m
+[94mT-468 P0003/0003 F-097[0m
+[94mIncluent New[0m
+[94mH.3.3[0m
+[94mSyracuse City School District-Depactment of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 2/26/2016 Time began: 10:20 AM Time ended: 1027 Am[0m
+[94mNature of restraint (describe type of physical restraint used): Held both wasts and[0m
+[94mmoved. student to another room[0m
+[94mLocation of restraint: Rooms[0m
+[94mName(s) of staff 'member(s) administering restraint: Sentry Olmsted[0m
+[94mDescription of activity in which student was engaged immedjately preceding the use of restraint:[0m
+[94mPhysical Altercation with another student[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physioal harm to othere[0m
+[94mInminont serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent seríous property destruction[0m
+[94mwith another student[0m
+[94mExplain student behavios(s) that prompted physical restraint: Student was actively Fighting[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redircotion[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain:[0m
+[94mObservations of student end of restraite[0m
+[94mat Student was calm and cooperative[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94mStudent complained of leg pain and suffered a bloody nose[0m
+[94m03-22-'16 14:59 FROM- MEACHEM SCHOOL[0m
+[94mT-381 P0005/0005 F-856[0m
+[94mSyrnonse City Saho ol Matrict-Department of Safety and Security[0m
+[94mWritten Summáry of Staff/Student Restraint Use Procedures[0m
+[94mapate of restraints 3/22/16 Time began: 1:39pm Time ended: 1:41pm[0m
+[94mNature of restraint (describe type of physical restraint used): CPI Chil dren's Control[0m
+[94mPosition[0m
+[94mLocation of reatraint: Meacher[0m
+[94mName(s) of staff member(s) administering restra atnits Mathew Warren[0m
+[94mDescription of which student was engaged fumediately proceding the use of restraint:[0m
+[94mEighting retroing directions & contd trying to Fight[0m
+[94mStudent's behavior that prompted thovestraints (Please check all caregories which apply)[0m
+[94mImmitient serious physical harm to themselves[0m
+[94mserious physical harm to others[0m
+[94mImminent sectous physioal hamm to themselves and others'[0m
+[94mImminent sercious property destruction[0m
+[94mInmintent serious physical harm to themselves and fimpinemt secious property destruction[0m
+[94mTraminent serions physical harm to others and serious property destruction[0m
+[94mhinent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain stuident Behavior(s that prompted physica) restraint: Centd at tacking student[0m
+[94mwhen they were seperated[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mo Provided choloes[0m
+[94mD[0m
+[94mReduced demands Explain:[0m
+[94mVerpal redirection[0m
+[94mRECEIVED[0m
+[94m0[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mMAR 2,2 2016[0m
+[94mé[0m
+[94mOther[0m
+[94mDEF ARTMENT OF PUBLIC-SAFETY[0m
+[94mAlternatives to that were attempteds[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance,[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: Removed class during restraint, seperated fight[0m
+[94mOb[0m
+[94mations of atudent at end of mastraints calm, Walked w/ Whren & followed[0m
+[94mdirections[0m
+[94miste any injuries to atedent and/or staff that may have occurred:[0m
+[94mNurse-examined. Small 1cm cut on righte bow[0m
+[94m05-03-'17 09:33 FROM- HW SMITH SCHOOL[0m
+[94m315-435-6220[0m
+[94mT-871 P0001/0001 F-344[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use.Procedures[0m
+[94mDate of restraint: 5/3/17 Time began: 0815[0m
+[94mTime ended: 0820[0m
+[94mNature of restraint (describe type of physical restraint used): Attempted to grab wasts[0m
+[94mfor a cross arm restraint (CPI)[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staffmember(s) administering restraint: sentry Olmsted[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mTrying to punch sentry and spit at them, flailing around[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical hanm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint; Student became physically[0m
+[94magressive and spit at sentry[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mRECEIVED[0m
+[94mCalming techniques[0m
+[94mMAY 08 2017[0m
+[94mOther[0m
+[94mDEPARTMENT OF PUBLIG SACETY[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mAllergic[0m
+[94mExplain: Student was in his planned spot for physical aggression[0m
+[94mObservations of student at end of restraint: Calm[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94mStudent suffered a bump on head[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 4/11/17 Time began: 10:34 AM Time ended: 10:40 Am[0m
+[94mNature of restraint (describe type of physical restraint used): ARM Restraint per CPI[0m
+[94mtraining[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staff member(s) administering restraint: KARIN HOKE (mrs Beck witness)[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94munknown[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mTmiminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mstudent onfloor In hall, Eassisted Carry under arm per CPI & took student with Feacher to[0m
+[94mExplain student behavior(s) that prompted physical restraint: when larried at[0m
+[94mShe had[0m
+[94mEfforts made to de-escalate the situation: hitting Os attempting to bete. Once restraiped to tell his[0m
+[94mWhere became physically aggresive with throwing chairs Kicking[0m
+[94mProvided choices sandt at hmself on the arm and said he was going[0m
+[94mReduced demands Explain: Parents that l but him.[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther Ms. Beck tried Several unsuccessful[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mo Removal of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mall[0m
+[94mRadioed VP Made her aware of Restraint.[0m
+[94mo Voluntary removal of student to another losation[0m
+[94mExplain:[0m
+[94mObservations of student at end of restraint: student Sat in paf chair under per table Ms. Becks approx 3 Request men then[0m
+[94mwas tabento nurse for his own bite Marks parent was nofi fied parent[0m
+[94mstated student has done this bites hemself regularly[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94mRIGHT FOREAM AUMAN BITE MARK 3/4[0m
+[94mRED; GBays MN,MS[0m
+[94mSKIN month[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 1-04-17 Time began:[0m
+[94m1:07pm Time ended: 1:10pm[0m
+[94mNature of restraint (describe type of physical restraint used): Arms held[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staff member(s) administering restraint: Kyle C. Gabriell[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mStudent was throwing tables & chairs[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint:[0m
+[94mand violent with me attempting to re-engage M an alteration.[0m
+[94mwas being aggressive[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: Student was being asked to call home.[0m
+[94mObservations of student at end of restraint: Calmer, still angry talking to parents[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94mScratch on forehead above right eye size of a quater.[0m
+[94mRug burn[0m
+[94miff[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 3/3/17 Time began: 11.20 Am Time ended: 11:24 pro[0m
+[94mNature of restraint (describe type of physical restraint used): ARM Restraint per[0m
+[94mCPI training[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staff member(s) administering restraint: KARIN HORE/Sound worker Witness[0m
+[94mE. LEONARD[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mReflection Sheet[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behayior(s) that prompted physical restraint: Punched Social worker in[0m
+[94mback punched me Several times bit me on Right arm[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbalredirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain:[0m
+[94mObservations of student at end of restraint: student was calm then brought his lunch[0m
+[94mpunched another teacher in the chest, eventually was able to Return to Class[0m
+[94mNote any injuries to student and/or staff that may have accurred:[0m
+[94mSTUDENT NOTES to HAVA BITE MAMS art R FONDARY[0m
+[94mSULFINFUITION phone and[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 5/11/21 Time began: 10003Am Time ended: 10:08Am[0m
+[94mNature of restraint (describe type of physical restraint used): Handle with care[0m
+[94m2 arm restraint[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staff member(s) administering restraint: Sentry Roche[0m
+[94mDescription of activity in which student was, engaged immediately preceding the use of restraint:[0m
+[94mGetting physical with staff members[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical barm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint: Started, throwing chairs[0m
+[94mand becoming hostile towards statt[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain:[0m
+[94mObservations of student at end of restraint: Looking out window teaching trying[0m
+[94mto[0m
+[94m( alm down[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94mRight Knee pain, bilateral shoulder pain, mid chest pain - BAN[0m
+[94msemilar ADD[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 10-20-21 Time began: 12:20[0m
+[94mTime ended: 12:21[0m
+[94mNature of restraint (describe type of physical restraint used): handle with save[0m
+[94mSingic person 2 arm restraint.[0m
+[94mLocation of restraint: room[0m
+[94mName(s) of staff member(s) administering restraint: Cyda[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mtrying to throw Chrir Crit another student[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94ma Explain Chair student behavior(s) at Student that prompted physical restraint: Attenting to throw[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mthe[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain:[0m
+[94mmannees. Observations of student at end of restraint: was upset and threcting[0m
+[94mHe Still[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94mSmall cut on student's right bicep - Buan Mitchell, Rn[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 10/20/24 Time began: 12:25 Time ended: 12:29[0m
+[94mNature of restraint (describe type of physical restraint used): Handle with[0m
+[94mcare single person two arm restrant[0m
+[94mLocation of restraint:[0m
+[94mName(s)[0m
+[94mof staff member(s) administering restraint: Roche[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mDestroying classroom approaching staffix a threatening[0m
+[94mmanner,[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mTX[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint: Destroying office[0m
+[94mtrying to push through staff[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94m2[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: Removed student to another location[0m
+[94mObservations[0m
+[94mof student at end of restraint: upset left with Principal[0m
+[94mto calm DOWN.[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94mSmall cut on student's right bicap. Bucine Mitches[0m
+[94mRn[0m
+[94m03-23-16 15:59 FROM- Frazer School[0m
+[94mT-988 P0001/0002 F-647[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 3/23/16 Time began: 1:54 pm Time ended: 15 6pm[0m
+[94mNature of restraint (describe type of physical restraint used): arms hold down at[0m
+[94mside[0m
+[94mLocation of restraint[0m
+[94mName(s) member(s) administering[0m
+[94mof staff restraint: Pat Carroll (sentry)[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint: Student[0m
+[94mWas Refusing to leve office, Swang with penal, ht my am[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physioal harm to themselves and others and imminent serious property destruction[0m
+[94mDives[0m
+[94mloin hehavintle that prompted physical restraint: Was being removed from[0m
+[94mrefiged to leave, Swring Several finds is/pencil[0m
+[94mEfforts made to de-escalaté the situation:[0m
+[94mProvided choices[0m
+[94m:[0m
+[94mReduced demands Explain:[0m
+[94mRECEIVED[0m
+[94mVerbal rédirection[0m
+[94mo[0m
+[94mReduced verbal interaction[0m
+[94mMAR 2 3 2016[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mDEPARTMENT of PUBLIC SAFETY[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemovel of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: Student left[0m
+[94mrefused to go upstairs, got agressive[0m
+[94mObservations of student at end of réstraint: Was Upset, Fell on floor as he exited[0m
+[94mNote uny to student and/or staff that may have occurred:[0m
+[94mB Ruise to Right elbow/arm on student[0m
+[94m03-23-16 15:59 FROM- Frazer Sohool[0m
+[94mT=988: P0002/0002 P-647[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mStudent Support Services Department[0m
+[94mSharon L. Contreras, Ph.D.[0m
+[94m725 Harrison Street . Syracuse, NY 13210[0m
+[94mSuperintendent of Schaols[0m
+[94mPhane 315-435.4131 Fax 315-435-5838[0m
+[94mSchool Dietriot[0m
+[94mINCIDENT REPORT FORM[0m
+[94mCEIVED[0m
+[94mR 23 2016[0m
+[94mNAME OF PERSON GIVING TESTIMONV Pat Carroll[0m
+[94mDEPARTMENT OF PUBLIC SAFETY[0m
+[94mDATE/TIME OF INCIDENT 3/23/16 154-156 pu DATE/TIME INCIDENT REPORT 3/23/146202pm[0m
+[94mSTATE JOB RESPONSIBILITY IF NOT A STUDENT School Senitry[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY INFORMATION THAT YOU[0m
+[94mTHINK is PERTINENT, SUCH AS, THE TIME OF-DAY, LOCATION, PERSON ON THE-SCENE, CONVERSATION BETWEEN PARTIES,[0m
+[94mETC. AFTER YOU HAVE COMPLETED YOUR STATEMENT; READ IT, SIGN IT AND HAND IT TO THE PRINCIPAL:[0m
+[94mWhile bringing ans ther student to[0m
+[94mI found[0m
+[94mgiving Mrs. Moses a hard time[0m
+[94mrefused to[0m
+[94mleave, eventially getting up and going to[0m
+[94mwhich he then refused to leave after becoming[0m
+[94mcerbally agressive towards our secretary (Mrs. Alverez)[0m
+[94mI put my arm up to direct[0m
+[94mout the door.[0m
+[94min an attempt to avoid my requests,[0m
+[94mpoked my arm with a pencil, breaking the skin[0m
+[94mI then grabbed[0m
+[94marms and brought him out[0m
+[94mof the office. as We exited[0m
+[94mtripped on my foot and fell We Continued to[0m
+[94mtalk in the hallway where Mr. belair walked[0m
+[94mupstary. also/while in the hat was[0m
+[94mSignature:[0m
+[94mPit call[0m
+[94mthrow the penal at Me, missing.[0m
+[94mDate: 3/23/16[0m
+[94mBuilding Principal: If illegible, please'have Information typéd (exactly as written). and signed by the person giving testimony.[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 11/19/18 Time began: 1:05pm_ Time ended: [1:10pm[0m
+[94mNature of restraint (describe type of physical restraint used): I held[0m
+[94min place by his left arm[0m
+[94mwith my right hand in an attempt to keep him from ruining after the other student.[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staff member(s) administering restraint: Nathan Bowers[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mwas involved in a fight with another student.[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint.[0m
+[94mwas very violent hitting another student[0m
+[94mas well as hitting staff members.[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mto[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mJane[0m
+[94mRequest for tassistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: I made several attempts to verbally calm[0m
+[94mdown and calmly walk down to the main office.[0m
+[94mObservations of student at end of restraint: The student was calmer but was complaining about his lip hurting so[0m
+[94mhe was escorted down to the nurse's office.[0m
+[94mNote any injuries to student and/or staff that may have occurred: As I released[0m
+[94mhe began to pull[0m
+[94maway from me causing his head to hit the wall hurting his lower lip. He was seen by the nurse.[0m
+[94mSyracuse City School District[0m
+[94mDepartment of Safety and Security[0m
+[94mIncident / Accident Report[0m
+[94mPerson(s) Involved Information: (CO) Complainant (VI) Victim (PR) Person Reporting (SU) Suspect[0m
+[94mType PR[0m
+[94mName Nathan[0m
+[94mSex Male[0m
+[94mDOB[0m
+[94mPhone[0m
+[94mReport #[0m
+[94mBowers[0m
+[94mAddress (Street, City, St, Zip Code)[0m
+[94mOther Person(s) Information: (PG) Parent/Guardian (OT) Other involved (WI) Witness (VI) Victim[0m
+[94mType[0m
+[94mName[0m
+[94mSex[0m
+[94mDOB[0m
+[94mAddress (Street, City, St, Zip)[0m
+[94mPhone[0m
+[94mWI[0m
+[94mJanet Schuster[0m
+[94mF[0m
+[94mDate/Time ofOccurrence/Reporting/Incident Location/Description:[0m
+[94mDate Occurred[0m
+[94mTime[0m
+[94mDate Reported[0m
+[94mTime[0m
+[94mLocation[0m
+[94m11/19/2018[0m
+[94m1:10pm[0m
+[94m11/19/2018[0m
+[94m1:50pm[0m
+[94mSnecific Area[0m
+[94mVehicle Description[0m
+[94mLicense # & St[0m
+[94mQuantity[0m
+[94mDescription of items taken/damaged:[0m
+[94mValue[0m
+[94mDescription of items taken/damaged:[0m
+[94mValue[0m
+[94mNarrative/Notifications:[0m
+[94mAt approximately 1:05pm I and my partner John Fiermonte were called to[0m
+[94mfor two[0m
+[94mstudents that were fighting. When John and I arrived to the room the students had taken the fight[0m
+[94mto the hallway[0m
+[94mJohn removed the other student from the altercation to the[0m
+[94mmain office while I continued to hold[0m
+[94mupstairs to separate the children and try to calm[0m
+[94mdown.[0m
+[94mproceeded to hit me repeatedly making it necessary to restrain the child in place.[0m
+[94mwas headed up the stairs calling out[0m
+[94mname asking[0m
+[94mto come to her. At[0m
+[94mthis time Ireleased my grip of[0m
+[94mand[0m
+[94mpropelled himself into the wall[0m
+[94mhurting his lip. The school librarian Janet Schuster witnessed the incident.[0m
+[94mtook[0m
+[94mto the main office to complain about me and the student[0m
+[94mwas fighting. Shortly after[0m
+[94mwas escorted to the nurse by John Fiermonte where was checked out and recived and ice pack for[0m
+[94mlip. Mrs. Harlow and Ms. Kirch were further investigating the incident.[0m
+[94mJ[0m
+[94mCompleted by: (print name & sign)[0m
+[94mDate & Time[0m
+[94mReviewed by:[0m
+[94mCopies to:[0m
+[94mPage 1_ of _1[0m
+[94m11/19/2018[0m
+[94mNathan Bowers[0m
+[94m2:02pm[0m
+[94m03-26-19 11:40 FROM-[0m
+[94mT-604 P0002/0003 F-935[0m
+[94mINVESTIGATION REPORT[0m
+[94m(For school use only)[0m
+[94mNAME OF PERSON GIVING TESTIMONY Jonge Didson (Sentry)[0m
+[94mDATE OF BIRTH OF PERSON GIVING TESTIMONY[0m
+[94mHOME ADDRESS[0m
+[94mSTATE JOB RESPONSIBILITY IP NOT A STUDENT Sentry[0m
+[94mWOULD vou BE WILLING TO TESTIFY AT A SUPERINTENDENT'S.HEARING? VES X[0m
+[94mNO[0m
+[94mDATE/TIME OF INCIDENT 3/26/2019 DATE/TIME INCIDENT REPORT 3/26/2019[0m
+[94m0940 hrs[0m
+[94m1024hrs[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY[0m
+[94mINFORMATION THAT YOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE[0m
+[94mSCENE, CONVERSATION BETWEEN PARTIES, WEAPONS USED. ETC. AFTER VOU HAVE COMPLETED YOUR[0m
+[94mSTATEMENT; READ IT, SIGN IT AND HAND IT TO THE PRINCIPAL.[0m
+[94mOn this day March 26, 2019 at 9:40AM. I was called[0m
+[94mto[0m
+[94mroom (Room[0m
+[94mfor clession cossistence[0m
+[94mUpen acrival to the clession . noticed[0m
+[94mstanding[0m
+[94mat in the hall. ecross from the clession. Mc. Dreen had cok watch[0m
+[94miPT can take[0m
+[94m,as well as[0m
+[94missue de[0m
+[94mfor a quick mediation as they seemed to DE having an[0m
+[94mexited the clessroom,[0m
+[94min down the Students to I sent[0m
+[94mto[0m
+[94mthe Bee room till I returned with[0m
+[94mmade[0m
+[94mit to Bec Writer found[0m
+[94mat the bollom of starts next[0m
+[94mto abone that feed to North parking lot. Writer then walked with[0m
+[94mup to Beceipen entry to BIC, Mr. Rodriguez ask[0m
+[94mto wait of in the hallwall[0m
+[94mappeared[0m
+[94mto be more upset Soi[0m
+[94mstayed in Bvs As[0m
+[94mexited[0m
+[94mand ast him unsen[0m
+[94mdes aftert with his right hand. Student was then placed in[0m
+[94mbecame very aggrestive Ma Rodrigues,[0m
+[94ma certraint (See Restraint report) Mr. Day inces called, took[0m
+[94mStudent[0m
+[94mto his office Restraint began at 9:50am. ended 9:55am.[0m
+[94mwas checked by nurse. See reshaint report for nurse notes[0m
+[94m(If nécessary, please use the reverse side)[0m
+[94mSignature: Helph[0m
+[94mDate: 3/26/19[0m
+[94mtive[0m
+[94mBuilding Principal: If Illegible, please hove Information typed (exactly as written) and signed by the person gluing testimony.[0m
+[94m11:41 FROM-[0m
+[94mT-604 P0003/0003 F-935[0m
+[94mSyracuse Clty School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Proceduares[0m
+[94mAAVISE)[0m
+[94mDate of restraint: 3/26/19 Time began 0950hrs Time ended:[0m
+[94m0955hrs[0m
+[94mNature of restraint (describe type of physical restraint used): RCI[0m
+[94mafter[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staff member(s) administering restraint: JORE Dichson/ Joe Rodriguez[0m
+[94mDesoription of activity in which student was engaged immediately preceding the use of restraints Student[0m
+[94mwas cast to be taken out for a quick Mediation, not following directions.[0m
+[94mStudent's behavior that prompted the restraints (Please chacok all categories which amply)[0m
+[94mImminent serlons physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical hamm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and inminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint: Student began to get[0m
+[94maggresive with staff, nekd closed fist with right hind.[0m
+[94mEfforts made to de-ascalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94m0. Other[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94met[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: Ask Mr. Rodriguez to assist with restant, held legs.[0m
+[94mObservations of student at end of trestraint: Student CALMED, and Apological[0m
+[94mNote amy injuries to student and/or staff that may have occurred:[0m
+[94msmall open scratch left elbow. no other injuries or[0m
+[94mclis pain scark[0m
+[94m10-03-'19 13:09 FROM- Seymour Main Office 3154354646[0m
+[94mT-077 P0002/0004 F-111[0m
+[94mINVESTIGATION REPORT[0m
+[94mI[0m
+[94m(For school use only)[0m
+[94mNAME OF PERSON GIVING TESTIMONY[0m
+[94mlorge Diaz-Lafaver[0m
+[94mDATE OF BIRTH OF PERSON GIVING TESTIMONY[0m
+[94mHOME ADDRESS[0m
+[94mSTATE JOB RESPONSIBILITY IF NOT A STUDENT[0m
+[94mSentry[0m
+[94mWOULD YOU BE WILLING TO TESTIFY AT A SUPERINTENDENT'S HEARING? YES[0m
+[94mNO[0m
+[94mDATE/TIME OF INCIDENT 10-3-19/10100AM DATE/TIME INCIDENT REPORT 10-34/11.13.20[0m
+[94mREPORT OF (NCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY[0m
+[94mINFORMATION THAT YOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE[0m
+[94mSCENE, CONVERSATION BETWEEN PARTIES, WEAPONS USED. ETC. AFTER YOU HAVE COMPLETED YOUR[0m
+[94mSTATEMENT; READ IT, SIGN IT AND HAND IT TO THE PRINCIPAL.[0m
+[94mSocial[0m
+[94mworker[0m
+[94mOn this day, October 3. 2019 at 10:00 AM, Writer was called[0m
+[94mby Dean of Students, Mr. whater, Alan with Mr. Abrevto[0m
+[94mPerm[0m
+[94mUpon Arrival Mr. Whalen informed writer and Mr. Abreu[0m
+[94mabout Student,[0m
+[94mwas[0m
+[94mStanding on tables, under tables, threw paper tall at another[0m
+[94mstudent swearing saying "I wish T. would die" and IL[0m
+[94mill[0m
+[94mcorner. At this point social worker Are Abreu decided pocke[0m
+[94mk.il myself with Sknite after school" Choking himself in[0m
+[94mto brink[0m
+[94mto BIC end to talk about the situation.[0m
+[94mBus[0m
+[94mRespect at Abrea to BIC and student writer, and Ricking began up biting onsentry himself,[0m
+[94minto Bic[0m
+[94ma TCI Child Restociate and writer assisted. Time 10:10Am.[0m
+[94mAt this time social worker, Mr. Abreu, trensitioned[0m
+[94mbegan throwing[0m
+[94mDuring the restraint, Mc Abreu , Mc Rodriguer, and writer[0m
+[94mworking. Mr. Rodriguez called mother of student,[0m
+[94mwere continuins frying to calm student Howaler it wasn't[0m
+[94masked ther to camelin. Student began calming down[0m
+[94mand released from reshaint at 10:20[0m
+[94m* Report continues on ace 2...[0m
+[94mgm...[0m
+[94m(If necessary, please use the reverse side)[0m
+[94mSignature:[0m
+[94mzetzer[0m
+[94mDate: 10/3/19[0m
+[94mBuilding Principal: If illegible, please have information typed (exactly as written) and signed by the person giving testimony.[0m
+[94m10-03-'19 13:09 FROM- Seymour Main Office 3154354646[0m
+[94mT-077 P0003/0004 F-111[0m
+[94mINVESTIGATION REPORT[0m
+[94m(For school use only)[0m
+[94mZoft*[0m
+[94mNAME OF PERSON GIVING TESTIMONY[0m
+[94mJorge Diaz-Lafaver[0m
+[94mDATE OF BIRTH OF PERSON GIVING TESTIMONY[0m
+[94mHOME ADDRESS[0m
+[94mSTATE JOB RESPONSIBILITY IF NOT A STUDENT[0m
+[94mSentry[0m
+[94mWOULD YOU BE WILLING TO TESTIFY AT A SUPERINTENDENT'S HEARING? VES[0m
+[94mNO[0m
+[94mDATE/TIME OF INCIDENT 10-11-1010 DATE/TIME INCIDENT REPORT 10-319/1113AM[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY[0m
+[94mINFORMATION THAT YOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE[0m
+[94mSCENE, CONVERSATION BETWEEN PARTIES, WEAPONS USED. ETC. AFTER YOU HAVE COMPLETED YOUR[0m
+[94mSTATEMENT; READ IT, SIGN IT AND HAND IT TO THE PRINCIPAL.[0m
+[94mOnly And a flow minutes have peason at this time[0m
+[94mKicking the well hitting his[0m
+[94mhe started heta[0m
+[94mhis aim. worter trensitioned into a TCL Chik[0m
+[94mMr. Abceu were continuing attempting to calm stddept[0m
+[94mat 10:30AM. Refiguez assisted. Writer, Mr. Rodriguez, and[0m
+[94mdown. Student was NOT calmine classing At 10:37AM[0m
+[94mmother entered BIC and Restraint ended) Herping stall[0m
+[94mwith staff.[0m
+[94mwas called and checked student. Mother had meeting[0m
+[94mgriffer[0m
+[94m(If necessary. please use the reverse side)[0m
+[94mSignature:[0m
+[94mDate: 10/3/19[0m
+[94mBuilding Principal: If Illegible, please have information typed (exactly as written) and signed by the parson giving testimony.[0m
+[94m10-03-119 13:09 FROM- Seymour Main Office[0m
+[94m3154354646[0m
+[94mT-077 P0004/0004 F-111[0m
+[94mSyracuse City School Distriet-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 10-3-19 Time began: Time ended: 1st: 10:20Am[0m
+[94m2ND:10:30am[0m
+[94m2NO: 10:37AM[0m
+[94mNature of restraint (describe type of physical restraint used): TCI Child Restraint[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staff member(s) administering restraint:[0m
+[94mJorge Diaz-Lafaver for Raligy Tradushan[0m
+[94mtables, under table threw paper ball atstudent severing saying "I wish I would die." "After School[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint: Standing on[0m
+[94mI will AK47 kill myself with a knife" schocking himself in "peace" corner. singing about a[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mUmminent serious physical harm to themselves and others[0m
+[94mUminient serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mto staff nerm themselve, throwing desks + Chairs in[0m
+[94mExplain student behavior(s) that prompted physical restraint: Student was attempting[0m
+[94maggresive with[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain;[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mMay[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain:[0m
+[94mObservations of student at end of restraint: wasnt[0m
+[94mMother came in Student to him up. calming down until[0m
+[94mpick[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94msmred endented teeth print - e hand (selfinduced) clo Lshoulder hurting[0m
+[94md[0m
+[94mseen. ice pack.[0m
+[94mLecked.[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 10/24/19 Time began: 12:05[0m
+[94mTime ended: 1206[0m
+[94mNature of restraint (describe type of physical restraint used). Entered the two comba tives[0m
+[94mand used a of PRT.A, l applicalit[0m
+[94mturned, one we[0m
+[94mthuscy here their to tad-and[0m
+[94mLocation of restraint:[0m
+[94mName(s) of staff member(s) administering restraint: Deich Wolfanger[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mWasin Verbalfalmast fight it's sched Then went out and after adiffent person.[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint: fighting with 0 their student[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mo Provided choices[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther cl[0m
+[94msaid Stop but the adva distration was speaking to then[0m
+[94mas we Moving towards it[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mo Removal of other students[0m
+[94mo Request for assistance[0m
+[94mOther[0m
+[94mO Voluntary removal of student to another location[0m
+[94mExplain:[0m
+[94mObservations of student at end of restraint: Student was upsit zask threaten inz Me. He did[0m
+[94mcomplainoga There's tagian/sevitch on L'S head[0m
+[94mNote any injuries to student and/ox staff that may have occurred:[0m
+[94mam farehood.[0m
+[94m06-11-'19 12:06 FROM-[0m
+[94mT-739 P0004/0005 F-179[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mof Staff/Student Restraint Use Procedures[0m
+[94mDate of reséraint: 6/11/19 Time began: 49:15Am Time ended: 2nd.9.29am 1st-9:18AM[0m
+[94m200-9:21am[0m
+[94mNature of restrainst (describe type of physical restraint used): TCI Child Restraint[0m
+[94mLocation of restraint: Principal Nieves Office[0m
+[94mName(s) of staff member(s) administering restraint: lorge Dickson (sentry)[0m
+[94mDeseription of activity in which student was engaged immediately preceding the use of restraint: Student[0m
+[94mto enter alternative Chesrecan because couldn't go[0m
+[94mfield trip[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serions physical harm to thomselves[0m
+[94mImminent sarious physical barn to others[0m
+[94mImminent serious physical harin to themselves and ofhers[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical barm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harin to themselves and others and imminent serious property destruction[0m
+[94mImminent serious physical hajin to others and imminent serious property destruction[0m
+[94mcoor, walk Became aggresive towards (Corking/punching)[0m
+[94mExplain prompted physical restraint: Student[0m
+[94mstudent behavior(s) that[0m
+[94mEfforts made to de escalate the situation:[0m
+[94m% Provided choices[0m
+[94mo Reduced demauds Explain:[0m
+[94mSVerbal redirection[0m
+[94ma[0m
+[94mReduoed verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mo Removal of other students[0m
+[94mRequestfor assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: Principal Nieves cesisted with Restraint[0m
+[94mObservations of student at end of restraints due to neirs. transported by[0m
+[94mstudent could not be seen by Home rising stall mobil[0m
+[94mYovote injuries to student and/or staff that may[0m
+[94mUnit have occurreds 12) stair dime sized[0m
+[94mred any to raised small ant of Swelling[0m
+[94m06-11-'19 12:06 FROM-[0m
+[94mT-739 P0002/0005 F-179[0m
+[94mTT thtez[0m
+[94mINVESTIGATION REPORT[0m
+[94m(For school use only)[0m
+[94mNAME OF PERSON GIVING TESTIMONY Jorge Dickson (Sentry)[0m
+[94mDATE OF BIRTH OF PERSON GIVING TESTIMONY[0m
+[94mHOME ADDRESS[0m
+[94mSTATE JOB RESPONSIBILITY IF NOT A STUDENT Sentry[0m
+[94mWOULD YOU BE WILLING TO TESTIFY AT A SUPERINTENDENT'S HEARING? VES[0m
+[94mNO[0m
+[94mDATE / TIME OF INCIDENT 6/11/19-9:05Am PATE/TIME INCIDENT REPORT 6/11/19.10:30A[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY[0m
+[94mINFORMATION THAT YOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE[0m
+[94mSCENE, CONVERSATION BETWEEN PARTIES, WEAPONS USED. ETC. AFTER YOU HAVE COMPLETED YOUR[0m
+[94mSTATEMENT; READ IT, SIGN IT AND HAND IT TO THE PRINCIPAL.[0m
+[94mOn this classtune 11,2019 at 9:05 Am Waiter cars called to[0m
+[94mroom[0m
+[94mUbon arian to[0m
+[94mwriter noticed[0m
+[94mstudent[0m
+[94mcalled Mc Ortic, what is gongoel. Ortic answere that[0m
+[94mstanding against the brkeny Water[0m
+[94mhe cise. to stay with his class because[0m
+[94mcould not op on[0m
+[94mthe[0m
+[94mCedtrip. Writer tried to virably replaced[0m
+[94mNieves for cosistance. Nieves arrived and triec) to redicent[0m
+[94mto enter the Claps. Student refund Writer called Principal[0m
+[94mthe student as well. Student continued to resise Nieves[0m
+[94mand writer apported student to Principal Nieves Other[0m
+[94mand wall. Writer as well as Nieves continue to[0m
+[94mto tieves didine Student betwore funthing the outor,[0m
+[94m90 to can act in contact with parent/Guardian Open entry[0m
+[94mtoward writer, and views Writer[0m
+[94mvirbally addinet Student then became agarestic[0m
+[94mtrans into a TCI Child 9:15AM 11st[0m
+[94mRestraint), with Vieves assisting Student beganselling[0m
+[94mscreaming. writer, and Nieus continued by to virtally[0m
+[94mredirect, and calm student cown. Student continue[0m
+[94m* Report Continues on Investigation Report Page 2%[0m
+[94m(If necessary, please Peverse side)[0m
+[94mSignature:[0m
+[94mDate: 6/11/19[0m
+[94mBuilding Principal: If illegible, please have information typed (exoctly as written) and signed by the person giving testimony.[0m
+[94m06-11-'19 12:06 FROM-[0m
+[94mT-739 P0003/0005 F-179[0m
+[94mINVESTIGATION REPORT[0m
+[94m(For school use only)[0m
+[94mNAME OF PERSÓN GIVING TESTIMONY lorge Dickson (Sentry)[0m
+[94mDATE OF BIRTH OF PERSON GIVING TESTIMONY[0m
+[94mHOME ADDRESS[0m
+[94mSTATE JOB RESPONSIBILITY IF NOT A STUDENT Sentry[0m
+[94mWOULD YOU BE WILLING TO TESTIFY AT A SUPERINTENDENT'S HEARING? YES x[0m
+[94mNO[0m
+[94mDATE / TIME OF INCIDENT 6/1/19-9:05am DATE/TIME INCIDENT REPORT (6/11/19-10:30Am[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY[0m
+[94mINFORMATION THAT YOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE[0m
+[94mSCENE, CONVERSATION BETWEEN PARTIES, WEAPONS USED. ETC. AFTER YOU HAVE COMPLETED YOUR[0m
+[94mSTATEMENT; READ IT, SIGN IT AND HAND IT TO THE PRINCIPAL.[0m
+[94mNieves and writer releced[0m
+[94mWieves apt in contact with Mother) Alter the first necksalt[0m
+[94mfrom the restraint at 9:18AM.[0m
+[94mended[0m
+[94minformed mother be would request a mobite Sentry to[0m
+[94mess being equesive towars Nieves[0m
+[94magain started punching the walland chor again[0m
+[94mbring him home writer was then informal by Nieves,[0m
+[94mto call or request a transport for suspensionilinate called[0m
+[94ma mobile unit transport[0m
+[94mat this time[0m
+[94mis[0m
+[94ma TCT Child) Reshanit at 9:21AM (2ND) writer, cs well[0m
+[94mantinuing to kick staff. Writer then transitioned into[0m
+[94mas Neves continued again to true and virbally ce-[0m
+[94mand (Howith). screaming. at 9:29 am once sentry Transport paper[0m
+[94mdirect didentiand to so Student Mobil Spic arrived Focky[0m
+[94mwork was completed. Student[0m
+[94mwas esasted to the[0m
+[94mmobile Hewith sentry our by writer, Principal Nieves mobile Sentry[0m
+[94m* Student was not able to be seen bit[0m
+[94mNursing start due to student being transport[0m
+[94mShomeswiter went to nurse[0m
+[94mSignature: Azeland[0m
+[94m(If necessary, please use the reverse side)[0m
+[94mDate: 6/11[0m
+[94mBuilding Principal: If illegible, pleose have information typed (exactly os written) and signed by the person giving testimony.[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 10/25/21 Time began: 2:12[0m
+[94mTime ended: 2:16[0m
+[94mNature[0m
+[94mof restraint (describe type of physical restraint used): PRT/CFI "Barber[0m
+[94mLocation of restraint: Classroom[0m
+[94mName(s) of staff member(s) administering restraint: sentry inday sam Bybee[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mfilting SITCE stabing Objects in Class with[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint: report Attach[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mo Provided choices[0m
+[94mo[0m
+[94mReduced demands Explain:[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mthe[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain:[0m
+[94mObservations of student at end of restraint: 3till Capptive[0m
+[94mNote any injuries to student and/or staff that may have occurred:[0m
+[94mcuki NCK See Mise Student Stated[0m
+[94mBusted up.[0m
+[94mApproximately around 2:08 there was a call over the radio for a sentry to room[0m
+[94mfor[0m
+[94mAs I got to the room[0m
+[94mhad scissors in[0m
+[94mhand and was trying to cut the curtain[0m
+[94mmetal. I asked[0m
+[94mto hand me the scissors[0m
+[94msaid no and ran to the other side of the[0m
+[94mclassroom and started to stab holes in the cardboard boxes. During this time, I was calling for[0m
+[94massistance on many occasions, Minutes later Mr. Blake comes in the room to help me. He was[0m
+[94mable to get the scissors out of[0m
+[94mhand.[0m
+[94mscreams those are mine and began to punch[0m
+[94mand kick Mr. Blake. So, I put[0m
+[94min the PRT Standing Hold restraint to get[0m
+[94mout of the[0m
+[94mroom. Once we were out of the room in the hallway[0m
+[94mwas kicking and stomping on my[0m
+[94mshoes trying to get out of the restraint.[0m
+[94mforced himself towards the locker[0m
+[94mverbal abused me[0m
+[94mand other staff. Principle Barber arrived to the location to help escort[0m
+[94mto the VP office.[0m
+[94mWe then transported[0m
+[94mto Ms. Ellis office. During this transport[0m
+[94mcontinued to[0m
+[94mstruggle with staff members.[0m
+[94mtried to get away from staff and was combative.[0m
+[94mhad[0m
+[94mpulled away from staff and banged[0m
+[94mhead off the wall prompting myself and Mr. Blake to[0m
+[94mescort[0m
+[94mthe rest of the way to Ms. Ellis office.[0m
+[94mcontinued to resist as we escorted[0m
+[94mAs we were in the office[0m
+[94mwas kicking, and punching Barber and Barber put[0m
+[94min a restraint[0m
+[94mhold (CPI) and handed[0m
+[94moff to me to hold[0m
+[94min that restraint.[0m
+[94mThere were other social[0m
+[94mworkers in the room and his mother was called.[0m
+[94mReport made by Sentry Taliah Lyda[0m
+[94m11-08-19 11:16 FROM- Porter Main Office[0m
+[94m3154354897[0m
+[94mT-111 P0003/0006 F-232[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mHealth Services[0m
+[94mJaime Alicea, Superintendent of Schools[0m
+[94mSTANDARD STUDENT ACCIDENT REPORT FORM[0m
+[94m[Official Document][0m
+[94mKEFP COPY AT SCHOOL GIVE cook[0m
+[94m3. TIME accident occurred: Hour 3:15[0m
+[94ma.m.[0m
+[94mp.m.[0m
+[94mDATE: 11/07/2019[0m
+[94m4. PLACE of accident: (PLEASE BE AS SPECIFIC AS POSSIBLE ASTO LOCATION OF ACCIDENT).[0m
+[94mS. DESCRIPTION of the accident: How did it happen? Anyone else Involved? (Be specific. Use other side of form if necessary).[0m
+[94mwas standing on top of desks. For Students Safety[0m
+[94mwas removed[0m
+[94mfrom on tnp of desk When removed Student began a Struggle with School Sentry[0m
+[94m6. Part of body injured[0m
+[94mhead[0m
+[94mface[0m
+[94mhand[0m
+[94mknee[0m
+[94mother left Shoulder[0m
+[94m7. Describe nature if injury[0m
+[94mscrape[0m
+[94mcut[0m
+[94mburn[0m
+[94mloss of consciousness[0m
+[94mother Screness (hurt to move)[0m
+[94m8. Teacher or other responsible person in charge when accident occurred: Mr. Brooks[0m
+[94mWas above present at scene of accident:[0m
+[94mYes[0m
+[94mNo[0m
+[94mDid the person completing form see accident?[0m
+[94mYes[0m
+[94mNo[0m
+[94m9. WITNESSES? (Please list name(s) and contactinformation}[0m
+[94mMr. Brooks[0m
+[94m10. IMMEDIATE ACTION(S) TAKEN: (Whot was actually done, by whom, at whot time?)[0m
+[94mFirst-aid treatment: Describe: COLD PACK r Assessment[0m
+[94mBy (Name): Judy Wormes[0m
+[94mTime: 325 pm[0m
+[94mParent notified by: By (Name): Andrew Nolan[0m
+[94mTime: 330 pm[0m
+[94mSent to school nurse?[0m
+[94mYes[0m
+[94mNo By (Name):[0m
+[94mTime:[0m
+[94mNurse's comments: Student c/o Discomfort (4) shoulder. STudent c/o Discom Font when ROM[0m
+[94mATTempted. (w shoulder DOes NOT APRear TO Ge OUC of Alignment. NO Bumps, Redness or[0m
+[94mBusing note BiLATeral shoulders APPEARTO 69. equal IN height.[0m
+[94mNurse's signature:[0m
+[94mjuggroens RN[0m
+[94mTime: 340 pm[0m
+[94mSent home?[0m
+[94mYes[0m
+[94mNo By (Name):[0m
+[94mTime:[0m
+[94mReferred to physician?[0m
+[94mYes[0m
+[94mNo[0m
+[94mBy (Name): Andrew Nolan[0m
+[94mTime: 330 ptn[0m
+[94mPhysician's name: Father was told if eath continues for next half have take to a doctor on 11/07/19[0m
+[94mAmbulance summoned?[0m
+[94mYes[0m
+[94mNo[0m
+[94mTime:[0m
+[94mAccompahied by? (Name):[0m
+[94mSent to hospital:[0m
+[94mYes[0m
+[94mNo By (Name):[0m
+[94mTime:[0m
+[94mName of hospital:[0m
+[94mSignature of person completing form: th dhugh[0m
+[94mDate: 11/07/2019[0m
+[94mPlease print name and position: Brandon Amidin School sentry[0m
+[94mPrincipal's name Jennifer (Please King-Recore Print) Signaturs[0m
+[94m725 Harrison Street, Syracuse, NY 13210 T (315) 435-4145 I F (315) 435-4359 I HealthServicesCentraloffice@scsd.us I syracusecityschools.com[0m
+[94m11-08-' 19 11:17 FROM- Porter Main Office[0m
+[94m3154354897[0m
+[94mT-111 P0005/0006 F-232[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mHealth Services[0m
+[94mJaime Alicea, Superintandent of Schools[0m
+[94mPhysical Restraint Incident Documentation Form[0m
+[94mTime/Duration of Physical Restraint: 03:15 pm 45 seconds[0m
+[94mCircumstances that required physical restraint: Standing on top of desks. When removed[0m
+[94mbegan a struggle with School Sentry.[0m
+[94mStaff involved in the physical restraint: Brandon Amidon[0m
+[94mWas the School Sentry or Officer Involved? yes[0m
+[94mDescription and location of physical restraint:[0m
+[94mwas placed in the primary restraint[0m
+[94mtechnique restracted as trained by the department of public Safety.[0m
+[94mwas standing on top of desks and removed for Safety. Once[0m
+[94mremoved Student broan a Sminale and was then placed in the restraint[0m
+[94min[0m
+[94mObservers: Mr. Brooks[0m
+[94mHow, when, and by whom were the parents/guardian notified? At 03 30pm at School by[0m
+[94mAndrew Nolan[0m
+[94mForm[0m
+[94mcompleted by (name and position): Brandon Amiden School Sentry[0m
+[94mNurse: Judy Holmer[0m
+[94mTime: 309 pm[0m
+[94mMedical findings (regarding student and staff) Student c/o Discomfond (L) shoulder. student[0m
+[94mc/o Discomfer when ROM Attempted. (4) shoulder Does Not appear To be our[0m
+[94mof Alegannent NO Bumps Rednoss or Brurry Nytal Relational Shoulders Anser[0m
+[94mTo Be equal N haught[0m
+[94m725 Harrison Street, Syracuse, NY 13210 I T (315) 435-4145 F (315) 435-4859 I mearthServices@scsd.us 1 syracusecityschools.com[0m
+[94m1[0m
+[94m11-08-3 19 11:17 FROM- Porter Main Office[0m
+[94m3154354897[0m
+[94mT-111 P0006/0006 F-232[0m
+[94mAdministrator's signature:[0m
+[94mNurse's Signature: Jug Andre um Hohns in[0m
+[94mDate: 11/7/19[0m
+[94mDate: 4/7/19[0m
+[94mPlease use this are to further déscribe the incident including the location and physical restraint utilized.[0m
+[94mBrandon Amidon[0m
+[94mPrint Name of person completing form[0m
+[94m11/08/2019[0m
+[94mSignature[0m
+[94mDate[0m
+[94m725 Harrison Street, Syracuse, NY 13210 1 T (315) 435-4145 I F (315) 435-4859 I HealthServices@scsd,us I syracusecityschools.com[0m
+[94m2[0m
+[94mB/M IDEA - Yas[0m
+[94m504 - NO[0m
+[94mMarion[0m
+[94mknowledged[0m
+[94mIncident Report Form[0m
+[94mUse this form to report accidents, injuries, medical situations, or student behavior incidents. (Incidents involving a crime or[0m
+[94mtraffic incident should be reported directly to the Campus Public Safety office.) If possible, the report should be completed[0m
+[94mwithin 24 hours of the event. Submit completed forms to the President's Office.[0m
+[94mINFORMATION ABOUT THEINCIDENT[0m
+[94mDate of Incident[0m
+[94mTime[0m
+[94mPolice Notified[0m
+[94mYes[0m
+[94mNo[0m
+[94m05/08/19[0m
+[94m1110hrs.[0m
+[94mLocation of incident[0m
+[94mRoom[0m
+[94mDescription of incident (what happened, how it happened, factors leading to the event, etc.) Be as specific as possible[0m
+[94m(attached additional sheets if necessary)[0m
+[94msee attached Form[0m
+[94mWere there any witnesses to the incident?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, attach separate sheet with names, addresses, and phone numbers. see attached Form[0m
+[94mWas the individual injured? If so, describe the injury (laceration, sprain, etc.), the part of body Injured, and any other[0m
+[94minformation known about the resulting injury(ies).[0m
+[94mStudent stated that his head hurt after the incident.[0m
+[94mWas medical treatment provided?[0m
+[94mYes[0m
+[94mNo[0m
+[94mRefused[0m
+[94mIf yes, where was treatment provided:[0m
+[94mon site[0m
+[94mUrgent Care[0m
+[94mEmergency Room[0m
+[94mOther[0m
+[94mIndividual Submitting Report (print name)[0m
+[94mJ.Diamond[0m
+[94mSchool sentry[0m
+[94mSignature[0m
+[94mJohn David[0m
+[94mDate Report Completed[0m
+[94m05/08/19[0m
+[94mFOR OFFICEL SEONLY[0m
+[94mNARRATIVE On May 8, 2019 at approximately 1110hrs. I responded to room[0m
+[94mfor[0m
+[94mreports of a destructive student. Upon arrival, I observed a student,[0m
+[94mknocking[0m
+[94mover chairs, tables, and several papers on the floor. I approached and attempted to make contact[0m
+[94mwith the student when[0m
+[94mpicked up a plastic cabinet off the floor and appeared ready to throw it[0m
+[94mat me. He also has priors for throwing objects at staff. I went to grab[0m
+[94mto prevent[0m
+[94mfrom[0m
+[94mthrowing objects when[0m
+[94mtook a swing at me. I then brought the student down on the table to[0m
+[94mgain control of the situation and because it seemed like a safer way to gain control. I escorted the[0m
+[94mstudent out of the class with resistance and down to the BIC room. When we arrived in the BIC[0m
+[94mroom, the student continued to be unsafe and combative so I applied a CPI restraint on the[0m
+[94mstudent from 1116hrs. to 118hrs. when the student showed signs of calming down. As soon as[0m
+[94mwas fully calmed down and cooperative, I escorted[0m
+[94mto the nurse's office because[0m
+[94mwas complaining of[0m
+[94mhead hurting. Nurse Nancy Trendowski reported that there was no bump[0m
+[94mon the back of[0m
+[94mhead, but the student was given an ice pack. Student remained in the BIC room[0m
+[94mand then returned back to class without further incident.[0m
+[94mSyracuse City School District[0m
+[94mPhysical Restraint Incident Documentation Form[0m
+[94mTime/Duration of Physical Restraint: start: 1116hrs.[0m
+[94mEnd: 1118hrs.[0m
+[94mCircumstances that required physical restraint: student was being combative and[0m
+[94munsafe.[0m
+[94mStaff involved in the physical restraint: J. Diamond[0m
+[94mWas the School Sentry or Officer Involved? yes[0m
+[94mDescription and location of physical restraint: CPI restraint used in the BIC[0m
+[94mRoom.[0m
+[94mObserver's: P. Gleason, M.Walker[0m
+[94mHow, when, and by whom were the parents/guardian notified?[0m
+[94mForm completed by (name and position): I.Diamond School sentry[0m
+[94mNurse: Marry Trend ruske RN[0m
+[94mTime:[0m
+[94m11:39[0m
+[94mMedical findings (tégarding student and staff) student was alert and oriented[0m
+[94mno bump noted on pack of head PERRI. your am[0m
+[94mwe pack , N.t[0m
+[94m"rese's Signature: Parry trendoustei RN[0m
+[94mDate: 5-8-19[0m
+[94mTrator's signature:[0m
+[94mDate:[0m
+[94m'plete and attach the Incident Summary/Statement form)[0m
+[94m03-29-19 15:05 FROM-[0m
+[94mT-608 P0004/0005 F-951[0m
+[94mINVESTIGATION REPORT[0m
+[94m(For school use only)[0m
+[94mNAME OF PERSON GIVING TESTIMONY Jonee Dickson[0m
+[94mDATE OF BIRTH OF PERSON GIVING TESTIMONY[0m
+[94mHOME ADDRES[0m
+[94mSTATE JOB RESPONSIBILITY IF NOT A STUDENT Sentry[0m
+[94mWOULD YOU BE WILLING TO TESTIFY AT A SUPERINTENDENT'S .HEARING? ves x NO[0m
+[94mDATE/TIME OF INCIDENT 3/09/2019 DATE/TIME INCIDENT REPORT 3/29/2019[0m
+[94m1255pm[0m
+[94m1:50pm[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY[0m
+[94mINFORMATION THAT YOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE[0m
+[94mSCENE, CONVERSATION BETWEEN PARTIES, WEAPONS USED. ETC. AFTER YOU HAVE COMPLETED YOUR[0m
+[94mSTATEMENT; READ IT, SIGN-I iT AND HAND IT TO THE PRINCIPAL.[0m
+[94mOn this day, March 29 2019,cit 12:55pm. I was[0m
+[94mcalled by Ms Clark Promise Tone associate to infront[0m
+[94mI the main officefor assistance. Upon arcival I noticed[0m
+[94mthe student and Drought to the nurse B the first[0m
+[94mCrasting around on the Placat spoke with[0m
+[94mrestcaint. After we exparted the nurses office I[0m
+[94mwalked[0m
+[94mback to[0m
+[94mclass. As soon as we got[0m
+[94minlrong of the classroom[0m
+[94mstc sted Crawline on the[0m
+[94maround and screaming. 1 tried to calm student down[0m
+[94mhowever[0m
+[94mstristed Juniorcolous the north till[0m
+[94mas well us Ms Clark tried to calm[0m
+[94mstopped in Act of the noath steriwwell. Pitth myself,[0m
+[94mcown. But then[0m
+[94mturned to hittinc staff. Writer escorted student to[0m
+[94mBI C room. Updn entry to BIC, Student continued[0m
+[94mto his staff and after twice to hite writers arms.[0m
+[94mStudent started turning derdesks, Writer as well cs[0m
+[94mthen turnedito taking shoes of and threw them at Ms. Clerk.[0m
+[94mBIC room instructor administered a TCI Restraintinghich[0m
+[94mat (olpm-ended at 162 am. Nieves was notified. Student was[0m
+[94mbegan[0m
+[94mChecked by Nurse See Reshaint Report for Nurses com ments[0m
+[94m(If nécessary, please use the reverse side)[0m
+[94mSignature: System[0m
+[94mDate: 3/29/2019[0m
+[94mBuilding Principal: If Illegible, please have information typed (exactly as written) and signed by the person giving testimony.[0m
+[94m03-29-319 15:06 FROM-[0m
+[94mT-608 P0005/0005 F-951[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mDate of restraint: 3/29/19 Time begam: Bolhrs[0m
+[94mTime ended: 1302 hrs[0m
+[94mNature of restraint (describe type of physical restraint used): TCI[0m
+[94mLocation of restraint: BIC[0m
+[94mName(s) staff member(s) administering restraint: Jorge Dickson (Sentry) Totoe Prodriguez[0m
+[94mof[0m
+[94mDescription of activity in which student was engaged immediately preceding the use of restraint:[0m
+[94mStudent was being unsate in hallway Krawing around,and[0m
+[94mrunning in the halls. Hitting Staff.[0m
+[94mStament" wehavior that promptet the restrainti (Please check categarias which apply)[0m
+[94mAmminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm to themselves and others[0m
+[94m<imminent serious property destruction[0m
+[94mIImmineut serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain student behavior(s) that prompted physical restraint: Student was hitting Staff/[0m
+[94mtrying to bite staff/throwing shoes at staff, turning every desks[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mReduced demands Explain;[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mo[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: be Radrigier assisted with restrant/CALLED Principal[0m
+[94mObservations of student at end of[0m
+[94mJames Neves restraint: to BIC Room Student CALMED[0m
+[94mit[0m
+[94mNote any injuries to student and/or staff that may have occurredà[0m
+[94mshallen[0m
+[94mno injury noted, no marks on Swellon it this time[0m
+[94mc/o wrist hurting cold compress applieds ph[0m
+[94m06-18-18 15:20 FROM- MEACHEM SCHOOL[0m
+[94m3154356216[0m
+[94mT-884 P0001/0001 F-420[0m
+[94mSyracuse City School District-Department of Safety and Security[0m
+[94mWritten Summary of Staff/Student Restraint Use Procedures[0m
+[94mfor[0m
+[94mDate of restraint: 6/18/18 Time began: 10:59am Time ended: 11:00am[0m
+[94mNature of restraint (describe type of physical restraint used): CPI Children's[0m
+[94mControl Position[0m
+[94mif voletinal[0m
+[94mName(s) of staff member(s) administering restraint: Mathew Warren[0m
+[94mDescription of activity in which student, was engaged immediately preceding the use of restraint:[0m
+[94mClimbing fire doors, taunting/trying to fight other studen ts, running outside[0m
+[94mStudent's behavior that prompted the restraint: (Please check all categories which apply)[0m
+[94mImminent serious physical harm to themselves[0m
+[94mImminent serious physical harm to others[0m
+[94mImminent serious physical harm w themselves and others[0m
+[94mImminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and imminent serious property destruction[0m
+[94mImminent serious physical harm to others and imminent serious property destruction[0m
+[94mImminent serious physical harm to themselves and others and imminent serious property destruction[0m
+[94mExplain[0m
+[94mstudent behavior(s) that prompted physical restraint: Tried to bite Warren[0m
+[94mEfforts made to de-escalate the situation:[0m
+[94mProvided choices[0m
+[94mo[0m
+[94mReduced demands Explain:[0m
+[94mRECEIVED[0m
+[94mVerbal redirection[0m
+[94mReduced verbal interaction[0m
+[94mCalming techniques[0m
+[94mOther called for assistance[0m
+[94mDEPARTAMENT OF pest to SAFETI[0m
+[94mAlternatives to restraint that were attempted:[0m
+[94mRemoval of other students[0m
+[94mRequest for assistance[0m
+[94mOther[0m
+[94mVoluntary removal of student to another location[0m
+[94mExplain: Crase student n° timns starbent 4/95 sunnina[0m
+[94mA 4cm Scab Was pulled 077 stu dents right arm[0m
+[94mNurse cleaned & Provided & band-aid[0m
+[94mfiller[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mOffice of Student Support Services[0m
+[94mJalme Alicea, Superintendent of schools[0m
+[94mPhysical Restraint Documentation form[0m
+[94mTime/Duration of Physical Restraint: S minuly[0m
+[94mStaff involved in the physical restraint: M, Kranborg / MI. Avery, Mr. clinic[0m
+[94mWhich restraint was used (Please describe the restraint)[0m
+[94mWas the School Sentry or Resource Officer involved?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, name(s):[0m
+[94mDescription and location of physical restraint: clessroon[0m
+[94mDid anyone observe the restraint?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, name(s): All upton, Ar Bick[0m
+[94mHow, when and by whom were the parents notified? phone[0m
+[94mForm[0m
+[94mcompleted by: Ken Krenebuly Position: reach -[0m
+[94mNurse: W.[0m
+[94mTime: 11:55[0m
+[94mMedical findings (regarding student and staff): complained of night arm pain and that it[0m
+[94mwas swollen. UPON assessment, no swelling[0m
+[94mnoted slight redness on Upper arm.[0m
+[94mitc Pack applied Nobrising[0m
+[94mSignature:[0m
+[94mor bleeding noted at this[0m
+[94mtime.[0m
+[94mNurse's Signature: Laver would[0m
+[94mAdministrator's Signature: Lions L.Coh[0m
+[94mSep. 2017[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mJaime Alícea, Superintendent of Schools[0m
+[94mMcGarthy @ Beard[0m
+[94mLisa Upton, Principal[0m
+[94mINCIDENT REPORT FORM[0m
+[94mNAME OF PERSON GIVING TESTIMONY[0m
+[94mKen Krombbey[0m
+[94mOBSERVERS: Mis upton, MI. Clark, M1. Brace,[0m
+[94mSTATE JOB RESPONSIBILITY IF NOT A STUDENT[0m
+[94mteach[0m
+[94mDATE/TIME OF INCIDENT 11/7/2020 11:30m DATE/TIME_ INCIDENT REPORT 1/17/2020 Id! 30pm[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR ÓWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY[0m
+[94mINFORMATION THAT YOU THINK IS PERTINENT, SUCH ÁS, THE TIME OF DAY, LOCATION, PERSON ON[0m
+[94mTHE SCENE, CONVERSATION BETWEEN PARTIES, ETC, AFTER YOU HAVE COMPLETED YOUR[0m
+[94mSTATEMENT; READ iT, SIGN IT AND HAND IT.TO THE PRINCIPAL.[0m
+[94mstartd to push/licen Chavs 5 physical will N,[0m
+[94mHe Then pushed into Method sied T held[0m
+[94mStading up for my safety.[0m
+[94mstarted to[0m
+[94m![0m
+[94mpush Me and fight me. and[0m
+[94mfell to the floor. MI Avey /[0m
+[94mclark[0m
+[94mcame[0m
+[94mto cssist , he[0m
+[94mheld[0m
+[94mfor S The NUSC[0m
+[94mcome[0m
+[94mto[0m
+[94mlock[0m
+[94mct[0m
+[94mand[0m
+[94mGrandmath[0m
+[94mwcs[0m
+[94mArlines[0m
+[94mSignature:[0m
+[94mkijm please[0m
+[94mDate:[0m
+[94m1/17/2024[0m
+[94mBullding Principal: If illegible, have information typed (exactly as written) and signed by the[0m
+[94mperson giving testimony.[0m
+[94m220 W. Kennedy St., Syracuse, NY 13205[0m
+[94mI[0m
+[94mT (315) 435-5855[0m
+[94msyracusecltyschools.com[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mOffice of Student Support Services[0m
+[94mJaime Alicea, Superintendent of Schools[0m
+[94mPhysical Restraint Documentation Form[0m
+[94mTime/Duration of Physical Restraint: 5 minutes[0m
+[94mStaff involved in the physical restraint: P. Cald well[0m
+[94mWhich restraint was used (Please describe the restraint) small child against[0m
+[94mwall[0m
+[94mWas the School Sentry or Resource Officer involved?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, name(s):[0m
+[94mDescription and location of physical restraint: classion 15) cornes[0m
+[94mDid anyone observe the restraint? Yes[0m
+[94mNo[0m
+[94mIf yes,[0m
+[94mname(s): B. S Metzger Johnston[0m
+[94mHow, when and by whom were the parents notified? Miss Vergara called mom[0m
+[94mForm completed by Position: Teachy[0m
+[94mNurse: LW[0m
+[94mTime: 1:37[0m
+[94mMedical findings student and states right forearm hurts. slight reaness[0m
+[94m(regarding staff): noted no brising/bleeding ICe pact[0m
+[94mapplied. NO other medical finding[0m
+[94mSignature: famile artified[0m
+[94mNurse's Signature: Lavin wall[0m
+[94mAdministrator's Signature: Risa upton[0m
+[94mSep. 2017[0m
+[94mSYRACUSE CITY SCHOOLDISTRICT[0m
+[94mJalme Alicea, Superintendent ofSchools[0m
+[94mMcCarthy@Beard[0m
+[94mMaria Cimino, Principal[0m
+[94mIncident Report Form[0m
+[94mNAME OF PERSON GIVING TESTIMAMY[0m
+[94mP.Caldwell[0m
+[94mOBSERVERS:[0m
+[94mB. Metzger S Johnston[0m
+[94mSTATE RESPONSIBILITY IF NOT A STUDENT Teacher[0m
+[94mJOB[0m
+[94mDATE /TIME OF INCIDENT 10/8/19[0m
+[94mDATE/TIME[0m
+[94mINCIDENT REPORT 10/8/19[0m
+[94m9:30 AM[0m
+[94mREPORT OF INCIDENT[0m
+[94m1:00[0m
+[94mSUMMARIZE IN YOUR OWN WORD HE DEMAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY INFORMATION THAT[0m
+[94m10: 00 AM[0m
+[94mYOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE SCENE, CONVERSATIQN BETWEEN[0m
+[94mPARTIES, ETC. AFTER/YOU.HAVE COMPLETED YOUR STATEMENT; READ II, SIGN IT AND HAND IT TO THE PRINCIPAL.[0m
+[94mDuring Morning Meeting[0m
+[94mbegan[0m
+[94msexual comments. then started talkin[0m
+[94mtalking about cocaine and inappropriate[0m
+[94mabout other students mothers and[0m
+[94mthreatening to kick students' asses, Miss[0m
+[94mcaldwell escarted[0m
+[94mto the corner[0m
+[94mto Reset but[0m
+[94mcontinued to esc alate.[0m
+[94mSupport was called[0m
+[94mcalmed dow[0m
+[94mbut then became upset again and started[0m
+[94mflipping chairs and desks.[0m
+[94mwas removed[0m
+[94mand calmed down, At 1:00[0m
+[94magain became[0m
+[94mSignature to class and came bact itto Class[0m
+[94maggressvve and had to be need. Date:[0m
+[94mreturned[0m
+[94mBullding Principal: testimony.[0m
+[94mIf Illegible, Camela proutine please have information typed (exact) Caldwill as written) and signed b the person giving[0m
+[94m10/8/19[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mOffice of Student Support Services[0m
+[94mJaime Alicea, Superintendent of Schools[0m
+[94mPhysical Restraint Documentation Form[0m
+[94mTime/Duration of Physical Restraint: 9:05, 9:30, 9:45, 10:00[0m
+[94mStaff involved in the physical restrains.Juan Perez[0m
+[94mWhich[0m
+[94mrestraint was used (Please describe the restraint) child Safety against the WALL Restraint.[0m
+[94mWas the School Sentry or Resource Officer involved?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, name(s):[0m
+[94mDescription and location of physical restraint: Classroom[0m
+[94mDid anyone observe the restraint?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, name(s): Matthew AlFieri, Alyssa.Clink,[0m
+[94mMichael Clark Avery Brooks, MARY T.[0m
+[94mHow, when and by whom were the parents notified? Classroom Teac her(Mr. AlFiericalled mom In[0m
+[94mForm completed by: Juicin uin Pever[0m
+[94mthe OFFICE.[0m
+[94mPosition:T.A.[0m
+[94mNurse: IN[0m
+[94mTime: 10:22[0m
+[94mMedical findings (regarding student and staff): Full vounge of motion in both[0m
+[94mextremities. small circur cuts on night[0m
+[94m(Please document and obtain lignatures[0m
+[94mUpper arm, appear new. Denies pain in[0m
+[94marms legs. states ribs slightly hurt[0m
+[94mSignature: Isan[0m
+[94mon left side. Denies ice.[0m
+[94mNurse's[0m
+[94mSignature: Laven wall[0m
+[94mAdministrator's Signature: disaupt[0m
+[94mSep. 2017[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mJalme Alicea, Superintendent of Schools[0m
+[94mMcCarthy@Beard[0m
+[94mMaria Cimino, Principal[0m
+[94mNAME[0m
+[94mOF PERSON GIVING TESTIMONY Perez[0m
+[94mOBSERVERS: Matthew ALTier, Alyssa Clark, MANT, Michael Clark, Avery Brooks.[0m
+[94mSTATE RESPONSIBILITY IF NOT STUDENT T.A.[0m
+[94mJOB A[0m
+[94mDATE/ TIME OF INCIDENT 10/18/19[0m
+[94mDATE/TIME INCIDENT REPORT 10/18/19 - 10:30 A.M.[0m
+[94m105, 9:30, 9:45, 10:00 A.m.[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY INFORMATION THAT[0m
+[94mYOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE SCENE, CONVERSATION BETWEEN[0m
+[94mPARTIES, ETC, AFTER YOU HAVE COMPLETED YOUR STATEMENT; READ IT, SIGN IT AND HAND IT TO THE PRINCIPAL.[0m
+[94mDuring ELA.Student[0m
+[94mWAS told By[0m
+[94mClnssroom Teacher (M.Alteri) to do Classroom work, which[0m
+[94mrefused to do Classoom work.[0m
+[94mRefused[0m
+[94mto Follow Teacher's directions so[0m
+[94mtook it upun himself[0m
+[94mto Climb on winsurs, throw Chairs around the Classroom,fitting[0m
+[94mStnEF, Spit at StriFF, kick StAFF opening ClASSroom[0m
+[94mWindaws, Climbing On Window Seal .[0m
+[94mWAS not[0m
+[94mbeing SAFe and not Following Reasonable ReQuest.[0m
+[94mContinued to be unsate So[0m
+[94mWAS Put in a[0m
+[94mChild Safety Restraintl ingle T.C.I. Child Restrant till[0m
+[94mWAS Calm[0m
+[94m-[0m
+[94mSignature: J By[0m
+[94mnd SaFe.[0m
+[94mDate: 10/15/19[0m
+[94mBullding Principal: If Illegible, please have Information typed (exactly as written) and signed by the person giving testimony.[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mOffice of Student Support Services[0m
+[94mJaime Alicea, Superintendent of Schools[0m
+[94mPhysical Restraint Documentation form[0m
+[94mTime/Duration of Physical Restralnt: 8 minutes[0m
+[94mStaff involved in the physical restraint: Ken Klannost, Done kine[0m
+[94mWhich restralnt was used (Please describe the restraint)[0m
+[94mWas the School Sentry or Resource Officer involved?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yés, name(s):[0m
+[94mDescription and location of physical restraint: Clissican[0m
+[94mDid anyone observe the restraint?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, name(s): Michella nixr[0m
+[94mHow, when and by whom were the parents notified?[0m
+[94mForm completed by:[0m
+[94mPosition:[0m
+[94mNurse: w[0m
+[94mTime: 10:15[0m
+[94mMedical findings (regarding student and staff): small red manes on both forearms in the[0m
+[94mshape of fingerprints. Mild reaness. ND[0m
+[94mbleeding or brising at this time. stated[0m
+[94mthat[0m
+[94mleft shoulder nust. ICC Pack[0m
+[94mSignature: Anthony[0m
+[94mapplied. said hit her head on[0m
+[94mthe[0m
+[94msmall floor bump Also from right runing of aware. it firenead. around.[0m
+[94mon side[0m
+[94mNurse's Signature: Laun walf[0m
+[94mIce Pack. caplied. mom[0m
+[94mAdministrator's Signature: his Up[0m
+[94mSep. 2017[0m
+[94mSYRACUSE CITY SCHOOL DISTRICT[0m
+[94mOffice of Student Support Services[0m
+[94mJalme Alicea, Superintendent of Schools[0m
+[94mPhysical Restraint Documentation form[0m
+[94mTime/Duration of Physical Restraint: 35 minutes[0m
+[94mStaff involved in the physical restraint: l. Caldwill[0m
+[94mWhich[0m
+[94mrestraint was used (Please describe the restraint) small child against wall[0m
+[94mWas the School Sentry or Resource Officer involved?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, name(s):[0m
+[94mDescription and location of physical restraint: classroom[0m
+[94mDid anyone observe the restraint?[0m
+[94mYes[0m
+[94mNo[0m
+[94mIf yes, name(s): B. Metzger ABrazal[0m
+[94mHow, when and by whom were the parents notified?[0m
+[94mForm completed by: Pladdwell Position: Teacher[0m
+[94mNurse: IN[0m
+[94mTime: 11:25[0m
+[94mMedical findings (regarding student and staff): Full range of motion in both unper/lowe[0m
+[94m(Please dooume and redness onboth forearms. Asked for[0m
+[94mextremities. NO buising bieeding. slight[0m
+[94mSignature: Cold will[0m
+[94mice,ice Pack applies[0m
+[94mNurse's Signature: farm waly[0m
+[94mAdministrator's Signature: hisauptor[0m
+[94mSep. 2017[0m
+[94mwill JUHUOL RISTRICT[0m
+[94mJaime Allcea, SuperIntendent of Schools[0m
+[94mMcCarthy@Beard[0m
+[94mIncident Report Form[0m
+[94mNAME OF PERSON GIVING TEST/MONY[0m
+[94mP. Caldwell[0m
+[94mOBSERVERS: B Mitzger Skelly A Brazell[0m
+[94mSTATE[0m
+[94mJOB RESPONSIBILITY IF NOT A STUDENT Teacher[0m
+[94mDATE / TIME OF INCIDENT 10/28/19[0m
+[94mDATE/TIME INCIDENT REPORT 10/28/19[0m
+[94mREPORT OF INCIDENT[0m
+[94mSUMMARIZE IN YOUR OWN WORDS THE DETAILS OF THE INCIDENT OR OFFENSE. INCLUDE ANY INFORMATION THAT[0m
+[94mYOU THINK IS PERTINENT, SUCH AS, THE TIME OF DAY, LOCATION, PERSON ON THE SCENE, CONVERSATION BETWEEN[0m
+[94mPARTIES, ETC. AFTER YOU HAVE COMPLETED YOUR STATEMENT; READ IT, SIGN IT AND HAND IT TO THE PRINCIPAL.[0m
+[94mbecame very defiant durs g[0m
+[94mand did not finish[0m
+[94mwork[0m
+[94mstarted Swinging weighted balls[0m
+[94maround , yelling then started shrowing[0m
+[94mobjects around ! the room Miss Caldw[0m
+[94mexceted[0m
+[94mto the Calw down corner[0m
+[94mand tried to Reset[0m
+[94mbeams[0m
+[94mbrite Started to scratch Miss[0m
+[94mverbally aggressive threarned to[0m
+[94mCaldwell Miss Caldwell had to hold[0m
+[94mwhile Support was called[0m
+[94mSignature: Camela Caldwall Date: 10/28/19[0m
+[94mBuilding Principal: If Illegible, please have information typed (exactly as written) and signed by the person giving testimony.[0m
