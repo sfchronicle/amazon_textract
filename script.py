@@ -101,8 +101,9 @@ if(isJobComplete(jobId)):
 #print(response)
 
 # Print detected text
+lines = []
 for resultPage in response:
     for item in resultPage["Blocks"]:
         if item["BlockType"] == "LINE":
-            print ('\033[94m' +  item["Text"] + '\033[0m')
-            #print(item["Text"])
+            lines.append(item['Text'])
+            #print ('\033[94m' +  item["Text"] + '\033[0m')
