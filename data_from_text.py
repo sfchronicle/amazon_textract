@@ -60,9 +60,9 @@ restraint_description = []
 dates = districts['syr']['incident_date']
 times = districts['syr']['incident_time']
 durations = districts['syr']['duration']
-#locations = districts['syr']['location']
+locations = districts['syr']['location']
 types = districts['syr']['restraint_type']
-#staffs = districts['syr']['staff']
+staffs = districts['syr']['staff']
 injuries = districts['syr']['injury']
 incident_des = districts['syr']['incident_description']
 restraint_des = districts['syr']['restraint_description']
@@ -102,20 +102,20 @@ for incident in bigList:
     if any(des in line for des in restraint_des):
       restraint_description.append(line)      
 
-print(incident_date)
+print(incident_date[1])
 print('--------------------------------')
-print(incident_time)
+print(incident_time[1])
 print('--------------------------------')
-print(restraint_duration)
+print(restraint_duration[1])
 print('--------------------------------')
-print(restraint_location)
+print(restraint_location[1])
 print('--------------------------------')
-print(restraint_type)
+print(restraint_type[1])
 print('--------------------------------')
-print(staffs)
+print(staffs[1])
 print('--------------------------------')
-print(injury)
+print(injury[1])
 print('--------------------------------')
-print(incident_description)
+print(incident_description[1])
 print('--------------------------------')
-print(restraint_description)
+print(restraint_description[1])
