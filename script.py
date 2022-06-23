@@ -98,7 +98,7 @@ def getJobResults(jobId):
 
 # Document
 s3BucketName = "sfc-project-files"
-district_name = 'TROY'
+district_name = 'ASSS/ASSS_SI'
 prefix =f'restraint-seclusion/{district_name}/'
 
 # get file names of all pdfs in S3 folder
@@ -106,7 +106,7 @@ file_names = []
 result = client.list_objects_v2(Bucket=s3BucketName, Prefix=prefix)
 for item in result['Contents']:
     files = item['Key'].split('/')
-    files = files[2].replace('.pdf','')
+    files = files[3].replace('.pdf','')
     print(files)
     file_names.append(files)  
 #print(file_names)
@@ -135,5 +135,5 @@ for file in file_names[1:]: # the first file name is '', so we should start from
 print(len(all_lines))
 
 #district_folder = "/restraint-seclusion/text/"
-object = s3.Object(s3BucketName,f'restraint-seclusion/text/{district_name}.json').put(Body=json.dumps(all_lines))
+object = s3.Object(s3BucketName,f'restraint-seclusion/text/{district_name}2000_2199.json').put(Body=json.dumps(all_lines))
 

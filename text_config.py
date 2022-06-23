@@ -183,21 +183,33 @@ districts = {
     'location': "",
     "injury": ""
   },
-  "noco": {
-    "doc_type":'',
-    'school_name':'',
-    "incident_date": "",
-    'incident_time': '',
-    "report_date": "",
-    "time_began": "",
-    "time_ended": "",
-    'duration': '',
-    "restraint_type": "",
-    "staff": "",
-    "incident_description": "",
-    'restraint_description': "",
-    'location': "",
-    "injury": ""
+  "NOCO": {
+    "doc_type":['ASC Time Out Room Log',
+                'Incident Involving an Emergency Intervention',
+                'Incident Involving a Physical Restraint',
+                'Health Office Visit Report'],
+   #'school_name':'',
+    "incident_date": ["Date:"],
+    'incident_time': ['Start Time-'], # look for the first item in the list
+    #"report_date": "",
+    'grade':["Grade:"],
+    'duration': ['Elapsed Time:',
+                  'uration:',
+                  'Duration:'],
+    "restraint_type": ["Emergency Intervention(s) used:",
+                      'Incident Involving a Physical Restraint',
+                      'ASC TIME Out Room',
+                      'ASC Time Out Room'
+                      ],
+    #"staff": "",
+    "description":[ "Circumstances that precipitated use of time out room:",
+                  'Description of Incident: (Please include all relevant detail. Use attachments if necessary.)',
+                  'Description of Incident:'
+                  ],
+    #'restraint_description': "",
+    #'location': "",
+    "injury": ["If yes, please describe.",
+              "Was there any apparent injury to the student(s) or district employee(s)?"]
   },
   "tntp": {
     "doc_type":'',
