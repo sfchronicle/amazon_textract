@@ -119,21 +119,15 @@ districts = {
     'location': "",
     "injury": ""
   },
-  "troy": {
-    "doc_type":'',
-    'school_name':'',
-    "incident_date": "",
-    'incident_time': '',
-    "report_date": "",
-    "time_began": "",
-    "time_ended": "",
-    'duration': '',
-    "restraint_type": "",
-    "staff": "",
-    "incident_description": "",
-    'restraint_description': "",
-    'location': "",
-    "injury": ""
+  "TROY": {
+    "doc_type":['PHYSICAL RETRAINT REPORT','PHYSICAL INTERVENTION/PHYSCIAL RESTRAINT REPORT'],
+    'school_building':['School Bldg:','School:'],
+    "incident_date": ["Date of Incident:"],
+    'start_time': ['Start:'],
+    'end_time':['End:','Time of Incident(length):'],
+    "restraint_type": ["Describe Physical Involvement/Type of Restraint:",'Describe Physical Involvement(be sepecific):'],
+    "description": ["Description of Incident:"],
+    "injury": ["Medical Report/Nurses Note:","Nurse's Observational Report:"]
   },
   "roc": {
     "doc_type":'',
