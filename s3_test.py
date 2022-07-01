@@ -28,7 +28,7 @@ file_names = []
 result = client.list_objects_v2(Bucket=s3BucketName, Prefix=prefix)
 for item in result['Contents']:
     files = item['Key'].split('/')
-    files = files[3].replace('.pdf','')
     print(files)
+    files = files[2].replace('.pdf','')
     file_names.append(files)  
 print(len(file_names))
