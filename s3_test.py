@@ -22,7 +22,7 @@ s3 = session.resource('s3')
 client = boto3.client('s3')
 
 s3BucketName = "sfc-project-files"
-prefix ='restraint-seclusion/ASSS/ASSS_SI/'
+prefix ='restraint-seclusion/SCH'
 
 file_names = []
 result = client.list_objects_v2(Bucket=s3BucketName, Prefix=prefix)
