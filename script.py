@@ -98,7 +98,7 @@ def getJobResults(jobId):
 
 # Document
 s3BucketName = "sfc-project-files"
-district_name = 'SCH'
+district_name = 'BETH'
 prefix =f'restraint-seclusion/{district_name}/'
 
 # get file names of all pdfs in S3 folder
@@ -109,7 +109,6 @@ for item in result['Contents']:
     files = files[2].replace('.pdf','')
     print(files)
     file_names.append(files)  
-print(file_names)
 
 # get all lines from the pdfs and save them into one json file
 all_lines = []

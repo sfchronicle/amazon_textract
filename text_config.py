@@ -1,12 +1,11 @@
 districts = {
-  "syr": 
-    { "doc_name":["Writtem Summáry of Restraint Use Procedures", # We're going to use doc_type to count how many reports are included in a pdf file
+  "SYR": 
+    { "doc_type":["Writtem Summáry of Restraint Use Procedures", # We're going to use doc_type to count how many reports are included in a pdf file
                   'Written Summary of Staff/Student Restraint Use Procedures',
                   'Written Summáry of Staff/Student Restraint Use Procedures',
                   'Written Summary of Staff/Student Restraint Use.Procedures', 
                   'Writter ef Use Prossibures',
                   'Restraimt Use Procedunres',
-                  "INCIDENT REPORT FORM",
                   'INVESTIGATION REPORT',
                   "Incident Report Form",
                   'Physical Restraint Documentation form',
@@ -15,43 +14,29 @@ districts = {
                   'Restraint Documentation Form',
                   'Incident / Accident Report', 
                   'STANDARD STUDENT ACCIDENT REPORT FORM'], 
-
-    'school_name': 'FROM-',
-
-    "incident_date": ["Date of restraint",
-                      'Date of reséraint',
-                      "DATE/TIME OF INCIDENT",
-                      'Date of Incident',
-                      'Date Occurred',
+    "incident_date": ["Date of restraint:",
+                      'Date of reséraint:',
+                      'Date of Incident:',
+                      'Date Occurred:',
                       'apate of restraints',
                       ],
-
-    'incident_time': ['Time'],
-    "report_date": ["DATE/TIME INCIDENT REPORT"],
     "time_began": ["Time began"],
     "time_ended": ["Time ended"],
-    'duration': ['Time/Duration of Physical Restraint'],
-
+    'duration': ['Time/Duration of Physical Restraint:'],
     "restraint_type": ["Nature of restraint (describe type of physical restraint used)",
                         'Which restraint was used (Please describe the restraint)'],
 
-    "staff": ["Name(s) of staff member(s) adminstering restraint",
-            "NAME OF PERSON GIVING TESTIMONY",
-            'Staff involved in the physical restraint',
-              ],
 
-    "incident_description": ["Explain student behavior(s) that prompted physical restraint",
+    "description": ["Explain student behavior(s) that prompted physical restraint",
                             'TO THE PRINCIPAL',
                             'NARRATIVE',
-                            'Narrative / Notifications:'
+                            'Narrative / Notifications:',
+                            'Description and location of physical restraint'
                             ],
-    'restraint_description': ['Description and location of physical restraint'],
-
-    'location': ['Description and location of physical restraint'],
-
     "injury": ["Note any injuries to student and/or staff that may have occured",
               "Information known about the resulting injury(ies)",
               'Medical findings (regarding student and staff)',
+              "Note any injuries to student and/or staff that may have occurred:"
               ] 
 },
 
@@ -103,22 +88,25 @@ districts = {
     'location': "",
     "injury": ""
   },
-  "sul": {
-    "doc_type":'',
-    'school_name':'',
-    "incident_date": "",
-    'incident_time': '',
-    "report_date": "",
-    "time_began": "",
-    "time_ended": "",
-    'duration': '',
-    "restraint_type": "",
-    "staff": "",
-    "incident_description": "",
-    'restraint_description': "",
-    'location': "",
-    "injury": ""
+  "SUL": {
+    "doc_type":['BEHAVIORAL INCIDENT REPORT',
+                "Physical Intervention Incident Report"],
+    'school_name':['Program:',
+                  'Program'],
+    "incident_date": ["Date of Incident:",
+                      "Day, Date and Time of Incident"],
+    'duration': ['Duration of Hold:',
+                  'Duration of hold:'],
+    "restraint_type": ["Type of Hold:",
+                        "Type of hold:",
+                        "Type of Physical Intervention Used:"],
+    'description': ["What Happened?",
+                    "What happened?",
+                    "Happened?",
+                    "Description of Incident"],
+    "injury": ["Nurse Assessment/Observations:" ]
   },
+
   "TROY": {
     "doc_type":['PHYSICAL RETRAINT REPORT','PHYSICAL INTERVENTION/PHYSCIAL RESTRAINT REPORT'],
     'school_building':['School Bldg:','School:'],
@@ -218,21 +206,29 @@ districts = {
     'location': "",
     "injury": ""
   },
-  "sch": {
-    "doc_type":'',
-    'school_name':'',
-    "incident_date": "",
-    'incident_time': '',
-    "report_date": "",
-    "time_began": "",
-    "time_ended": "",
-    'duration': '',
-    "restraint_type": "",
-    "staff": "",
-    "incident_description": "",
-    'restraint_description': "",
-    'location': "",
-    "injury": ""
+  "SCH": {
+    "doc_type":['Report - Incident Involving Therapeutic Physical Restraint',
+                "HEALTH OFFICE",
+                "PHYSICAL RESTRAINT REPORT"],
+    "incident_date": ["Date of incident:",
+                      "Date:"],
+    "school":["Name of School Building:",
+              "Building:"],
+    'duration': ["Complete Time of Restraint"],
+    'start_time':["What time did the physcial restraint begin?",
+                  "What time did the physical restraint begin?"],
+    "end_time":["What time did the physical restraint end?"],
+    "student_id":["Student ID:"],
+    "restraint_type": ["Which TCIS physcial restraint technique was used?"],# next six lines
+    "description": ["interventions used preceding the restraint).",
+                    "'interventions used preçeding the restraint).",
+                    "What led up to the student's unsafe behavior?"], # next five lines
+    'grade':["Grade","Grade:"],
+    "student_injury":["To the Student (nature of injury):",
+                      "List any physical complaints that the student made.",
+                      "Record any signs of injury to the student.",
+                      "Assessment of Student"],
+    "adult_injury":["To Adults (names):"] # next three lines
   },
   "COH": {
     "doc_type":['CPI Physical Restraint and/or Seclusion Incident Report'],
@@ -245,21 +241,30 @@ districts = {
     "restraint_type": ["Nonviolent Physical Crisis Intervention(s) (NPCI) used:"],
     'description': ["Description of student's specific behaviors justifying physical restraint and/or seclusion:"],
   },
-  "glen": {
-    "doc_type":'',
-    'school_name':'',
-    "incident_date": "",
-    'incident_time': '',
-    "report_date": "",
-    "time_began": "",
-    "time_ended": "",
-    'duration': '',
-    "restraint_type": "",
-    "staff": "",
-    "incident_description": "",
-    'restraint_description': "",
-    'location': "",
-    "injury": ""
+  "GLEN": {
+    "doc_type":['Physical Invervention/ Physical Restraint Report',
+                "Physical Intervention/Physical Restraint Report",
+                "Physical Intervention/ Physical Restraint Report",
+                "Critical Incident Report"],
+    "grade":["Grade/Class"],
+    'school_name':['School:'],
+    "incident_date": ["Date of Incident:"],
+    'duration': ['Time of Incident(Length):',
+                'Time of Incident (length):',
+                "Time of Incident (Length):",
+                "Length of Incident:",
+                "Time of Incident (length):"],
+    "restraint_type": ["Describe Physical Involvement(be specific):",
+                        "Describe Physical Involvement (be specific):",
+                      "Type of physical intervention/restraint(if applicable):"],
+    "description": [
+                    "Description of Incident:",
+                    "Description of Incident(be specific):"],
+    "injury": ["Nurse's Observational Report:",
+              "Observational Denus Report:",
+              "Observational Report:",
+              "Nurse's olservational",
+              "Nurse's Observational"] # next line
   },
   "alb": {
     "doc_type":'',
@@ -277,21 +282,17 @@ districts = {
     'location': "",
     "injury": ""
   },
-  "ball": {
-    "doc_type":'',
-    'school_name':'',
-    "incident_date": "",
-    'incident_time': '',
-    "report_date": "",
-    "time_began": "",
-    "time_ended": "",
-    'duration': '',
-    "restraint_type": "",
-    "staff": "",
-    "incident_description": "",
-    'restraint_description': "",
-    'location': "",
-    "injury": ""
+  "BALL": {
+    "doc_type":['Notification of Use of Physical Intervention',
+                "Time Out Room Log"],
+    'school_name':['School:',
+                    'School(BOCES Site):'],
+    "incident_date": ["Incident Date:",
+                      "Date:"],
+    'duration': ['Duration of Restraint:'],
+    'start_time':["Time entered:"],
+    'exit_time':['Time exited:'],
+    "restraint_type": ["Please check which physical interventions were employed:"]
   },
   "kat": {
     "doc_type":'',
@@ -373,19 +374,12 @@ districts = {
     'location': "",
     "injury": ""
   },
-  "bri": {"doc_type":'',
-    'school_name':'',
-    "incident_date": "",
-    'incident_time': '',
-    "report_date": "",
-    "time_began": "",
-    "time_ended": "",
-    'duration': '',
-    "restraint_type": "",
-    "staff": "",
-    "incident_description": "",
-    'restraint_description': "",
-    'location': "",
-    "injury": ""}
+  "BRI": {"doc_type":['Escort/ Restraint',
+                      "ESCORT/RESTRAINT"],
+    "incident_date": ["Date:"],
+    "time_began": ["Start Time:"],
+    "time_ended": ["Stop Time:"],
+    "restraint_type": ["Unsuccessful"], # next five lines
+    "description": ["Precipitating Factors/Description of Escort/Restraint"]}
 }
 

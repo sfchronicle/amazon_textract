@@ -22,13 +22,13 @@ s3 = session.resource('s3')
 client = boto3.client('s3')
 
 s3BucketName = "sfc-project-files"
-prefix ='restraint-seclusion/SCH'
+prefix ='restraint-seclusion/BETH'
 
 file_names = []
 result = client.list_objects_v2(Bucket=s3BucketName, Prefix=prefix)
 for item in result['Contents']:
     files = item['Key'].split('/')
-    print(files)
     files = files[2].replace('.pdf','')
+    print(files)
     file_names.append(files)  
 print(len(file_names))

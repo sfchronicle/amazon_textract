@@ -11,17 +11,11 @@ import re
 
 
 # let's pull data out of the incidents
-district = 'SCH'
+district = 'GLEN'
 
-with open('json/SCH.json') as f:
-  data_1 = json.load(f)
-#print(len(data_1))
+with open('json/GLEN.json') as f:
+  data = json.load(f)
 
-with open('json/SCH_6.json') as f:
-  data_2 = json.load(f)
-#print(len(data_2))
-
-data = data_1[:-27] + data_2
 
 
 # I think Health Office Visit Report is attached to incident report, need to remove them
@@ -33,43 +27,50 @@ print(data[0])
 print('-------------------------------')
 print(data[1])
 print('-------------------------------')
-print(data[180])
+print(data[2])
 print('-------------------------------')
-print(data[181])
+print(data[3])
 print('-------------------------------')
-print(data[182])
+print(data[4])
 print('-------------------------------')
-print(data[183])
-
+print(data[5])
+print('-------------------------------')
+print(data[6])
+print('-------------------------------')
+print(data[7])
+print('-------------------------------')
+print(data[8])
+print('-------------------------------')
+print(data[9])
+print('-------------------------------')
+print(data[10])
+print('-------------------------------')
+print(data[11])
+print('-------------------------------')
+print(data[12])
+print('-------------------------------')
+print(data[13])
 
 doc_type = districts[district]['doc_type']
-school_building = districts[district]['school']
+school_name = districts[district]['school_name']
 incident_date = districts[district]['incident_date']
-student_id = districts[district]['student_id']
-grade = districts[district]['grade']
+grades = districts[district]['grade']
 duration = districts[district]['duration']
-start_time = districts[district]['start_time']
-end_time = districts[district]['end_time']
 types = districts[district]['restraint_type']
-student_injury = districts[district]['student_injury']
-adult_injury = districts[district]['adult_injury']
 description = districts[district]['description']
+injury = districts[district]['injury']
 
 def get_next_line(lst,element):
   index = lst.index(element)
   return lst[index +1]
 
-def get_next_three_lines(lst,element):
+def get_second_line(lst,element):
   index = lst.index(element)
-  return lst[index + 1] + lst[index + 2] + lst[index + 3]
+  return lst[index + 2] 
 
 def get_next_five_lines(lst,element):
   index = lst.index(element)
-  return lst[index + 1] + lst[index + 2] + lst[index + 3] + lst[index + 4] + lst[index + 5]
-
-def get_next_six_lines(lst,element):
-  index = lst.index(element)
-  return lst[index + 1] + lst[index + 2] + lst[index + 3] + lst[index + 4] + lst[index + 5] + lst[index + 6]
+  return lst[index + 1] + lst[index + 2]  + lst[index + 3] + lst[index + 4] +  lst[index + 5]
 
 def has_number(line):
   #return bool(re.search(r'/', line))
@@ -91,20 +92,8 @@ for incident in data:
             incident_dict['date'] = get_next_line(incident,line)
 
 
-    if any(building in line for building in school_building):
-              incident_dict['school_building'] = line + get_next_line(incident,line)
-
-    if any(time in line for time in start_time):
-      if has_number(line):
-        incident_dict['start_time']=line
-      else:
-        incident_dict['start_time'] = get_next_line(incident,line)
-
-    if any(time in line for time in end_time):
-      if has_number(line):
-        incident_dict['end_time']=line
-      else:
-        incident_dict['end_time'] = get_next_line(incident,line)
+    if any(building in line for building in school_name):
+      incident_dict['school_name'] = line + get_next_line(incident,line)
 
     if any(time in line for time in duration):
       if has_number(line):
@@ -112,38 +101,30 @@ for incident in data:
       else:
         incident_dict['duration'] = get_next_line(incident,line)
 
-    if any(time in line for time in student_id):
-      if has_number(line):
-        incident_dict['student_id']=line
-      else:
-        incident_dict['student_id'] = get_next_line(incident,line)
-
-    if any(time in line for time in grade):
+    if any(grade in line for grade in grades):
       if has_number(line):
         incident_dict['grade']=line
       else:
         incident_dict['grade'] = get_next_line(incident,line)
+        
 
-    if any(time in line for time in student_injury):
-        incident_dict['student_injury'] = get_next_line(incident,line)
+    if any(type in line for type in types):
+        incident_dict['restraint_type'] = line + get_next_line(incident,line)
 
-    if any(time in line for time in adult_injury):
-        incident_dict['adult_injury'] = get_next_three_lines(incident,line)
-
-    try:
-      if any(type in line for type in types):
-          incident_dict['restraint_type'] = get_next_six_lines(incident,line)
-    except:
-      pass
 
     if any(des in line for des in description):
       incident_dict['description']  = get_next_five_lines(incident,line)
 
+    if any(injury in line for injury in injury):
+      incident_dict['injury'] = get_next_line(incident,line)
+
   AllIncidents.append(incident_dict)
 
+print("HELLO THERE")
 print(len(AllIncidents))
 
-print('--------------------------------')
+
+print('+++++++++++++++++++++++++++++++++++++++++++')
 print(AllIncidents[0])
 print('--------------------------------')
 print(AllIncidents[1])
@@ -174,5 +155,5 @@ print(AllIncidents[13])
 print('--------------------------------')
 
 
-# df = pd.DataFrame(AllIncidents)
-# df.to_csv('csv/SCH.csv')
+df = pd.DataFrame(AllIncidents)
+df.to_csv('csv/GLEN.csv')
