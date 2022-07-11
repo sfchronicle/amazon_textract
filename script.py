@@ -98,13 +98,13 @@ def getJobResults(jobId):
 
 # Document
 s3BucketName = "sfc-project-files"
-district_name = 'BETH'
+district_name = 'SCH_02'
 prefix =f'restraint-seclusion/{district_name}/'
 
 # get file names of all pdfs in S3 folder
 file_names = []
 result = client.list_objects_v2(Bucket=s3BucketName, Prefix=prefix)
-for item in result['Contents']:
+for item in result['Contents'][1:]:
     files = item['Key'].split('/')
     files = files[2].replace('.pdf','')
     print(files)
@@ -112,7 +112,7 @@ for item in result['Contents']:
 
 # get all lines from the pdfs and save them into one json file
 all_lines = []
-for file in file_names[1:]: # the first file name is '', so we should start from the second one
+for file in file_names: # the first file name is '', so we should start from the second one
     documentName = f"restraint-seclusion/{district_name}/{file}.pdf"
     print(documentName)
 
@@ -135,4 +135,3 @@ print(len(all_lines))
 
 #district_folder = "/restraint-seclusion/text/"
 object = s3.Object(s3BucketName,f'restraint-seclusion/text/{district_name}.json').put(Body=json.dumps(all_lines))
-

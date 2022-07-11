@@ -13,15 +13,10 @@ import re
 # let's pull data out of the incidents
 district = 'SCH'
 
-with open('json/SCH.json') as f:
-  data_1 = json.load(f)
+with open('json/SCH_02.json') as f:
+  data = json.load(f)
 #print(len(data_1))
 
-with open('json/SCH_6.json') as f:
-  data_2 = json.load(f)
-#print(len(data_2))
-
-data = data_1[:-27] + data_2
 
 
 # I think Health Office Visit Report is attached to incident report, need to remove them
@@ -33,13 +28,23 @@ print(data[0])
 print('-------------------------------')
 print(data[1])
 print('-------------------------------')
-print(data[180])
+print(data[2])
 print('-------------------------------')
-print(data[181])
+print(data[3])
 print('-------------------------------')
-print(data[182])
+print(data[4])
 print('-------------------------------')
-print(data[183])
+print(data[5])
+print('-------------------------------')
+print(data[6])
+print('-------------------------------')
+print(data[7])
+print('-------------------------------')
+print(data[8])
+print('-------------------------------')
+print(data[9])
+print('-------------------------------')
+print(data[10])
 
 
 doc_type = districts[district]['doc_type']
@@ -92,7 +97,7 @@ for incident in data:
 
 
     if any(building in line for building in school_building):
-              incident_dict['school_building'] = line + get_next_line(incident,line)
+              incident_dict['school_building'] = line 
 
     if any(time in line for time in start_time):
       if has_number(line):
@@ -143,7 +148,7 @@ for incident in data:
 
 print(len(AllIncidents))
 
-print('--------------------------------')
+print('+++++++++++++++++++++++++++++++++++++++++++++')
 print(AllIncidents[0])
 print('--------------------------------')
 print(AllIncidents[1])
@@ -174,5 +179,5 @@ print(AllIncidents[13])
 print('--------------------------------')
 
 
-# df = pd.DataFrame(AllIncidents)
-# df.to_csv('csv/SCH.csv')
+df = pd.DataFrame(AllIncidents)
+df.to_csv('csv/SCH_02.csv')
