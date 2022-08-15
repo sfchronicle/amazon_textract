@@ -1,0 +1,1388 @@
+,Table: Table_1,id
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_01_Page_214
+"('4/30 ', nan, '11:00 ', '11:10 ', '10 ', '1 ')",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_214
+"('Date ', 'Student ', 'Staff ', 'Time In ', 'Time out ', 'Total time ', 'Door open/closed ')",,SCH_SI_02_Page_132
+"('22 ', nan, nan, '8:49 ', '9:15 ', '24 ', 'Clonel ')",,SCH_SI_02_Page_132
+"('3/22 ', nan, nan, '9:15 ', '920 ', '5 ', 'open ')",,SCH_SI_02_Page_132
+"('3/30 ', nan, nan, '10:10 ', '10:18 ', '8 ', 'closed ')",,SCH_SI_02_Page_132
+"('3/31 ', nan, nan, '944 ', '10:00 ', '13 ', 'closed ')",,SCH_SI_02_Page_132
+"('3/31 ', nan, nan, '10:17 ', '10:40 ', '23 ', 'closed ')",,SCH_SI_02_Page_132
+"('3/31 ', nan, nan, '10:40 ', '10:44 ', '4 ', 'open ')",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_132
+"(nan, 'Date ', 'Student Name ', 'Time entered room ', 'Time exited room ', 'Total length of time* ', 'Supervised ', 'by: ', '(T) Jeacher (S)tudent directed ', 'Complia nce with BIP ', 'Imminent risk of harm to (S) elf (0) thers ', 'Antecedent (S)elf-regulation (A) cademic frustration (P) eer Issues (G) uided break ')",,SCH_SI_02_Page_091
+"(nan, '24 ', nan, '930 ', '945 ', '15 ', nan, nan, '+ ', 'V ', '5/0 ', 'S ')",,SCH_SI_02_Page_091
+"(nan, 'allay ', nan, '9:45 ', '9:50 ', 'is ', nan, nan, 'T ', 'X J ', '8/8 ', 'S ')",,SCH_SI_02_Page_091
+"(nan, '24 ', nan, '9:51 ', '1004 ', '15 ', nan, nan, 'T ', 'X V ', 'O ', 'S ')",,SCH_SI_02_Page_091
+"(nan, '2/24 ', nan, '1005 ', '1015 ', '10 ', nan, nan, 'T ', 'X ', 'S ', 'S ')",,SCH_SI_02_Page_091
+"(nan, '21 ', nan, '1:35 ', '1:50 ', '15 ', nan, nan, 'T ', 'X ', '5 ', '5 ')",,SCH_SI_02_Page_091
+"(nan, '/26 ', nan, '9:15 ', '930 ', '15 ', nan, nan, '+ ', 'X ', '5 ', '5 ')",,SCH_SI_02_Page_091
+"(nan, '26 ', nan, '9.35 ', '950 ', 'IS ', nan, nan, 'I ', 'X V ', '5/0 ', 'S ')",,SCH_SI_02_Page_091
+"(nan, '26 ', nan, '950 ', '1000 ', '10 ', nan, nan, 'T ', 'X V ', '5/5 ', 'S ')",,SCH_SI_02_Page_091
+"(nan, '26 ', nan, '1008 ', '1023 ', '15 ', nan, nan, 'T ', 'X V ', '8/0 ', 'S ')",,SCH_SI_02_Page_091
+"(nan, '210 ', nan, '1023 ', '1031 ', '8 ', nan, nan, 'T ', 'X V ', '0 ', 'S ')",,SCH_SI_02_Page_091
+"(nan, '26 ', nan, '11"" ', ""11'25 "", '15 ', nan, nan, 'T ', 'X V ', '0 ', 'S ')",,SCH_SI_02_Page_091
+"('it ', '26 ', 'a ', '11:25 ', '1133 ', '16 ', '5 ', nan, '+ ', 'X V ', '0 ', '5 ')",,SCH_SI_02_Page_091
+"(nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_091
+"(nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_091
+"(nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_091
+"(nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_091
+"(nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_091
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_071
+"('5/22 ', nan, '1237 ', '1234 ', '2min ', 'X ', nan, nan)",,SCH_SI_01_Page_071
+"('5/23 ', 'X ', '10200 ', nan, nan, 'X ', nan, nan)",,SCH_SI_01_Page_071
+"('5/23 ', 'X ', '10 00 ', '1108 ', '9 min ', 'X ', nan, nan)",,SCH_SI_01_Page_071
+"('5/23 ', 'X ', '1101 ', '1205 ', '8 min ', 'X ', nan, nan)",,SCH_SI_01_Page_071
+"('5/28 ', 'X ', '1209 ', '1215 ', '6 nin ', 'X ', nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_071
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_02_Page_053
+"('1114 ', nan, '8:55 ', '9:15 ', '20 ', 'I ')",,SCH_SI_02_Page_053
+"('11114 ', nan, '11:50 ', '12:10 ', '20 ', '1 ')",,SCH_SI_02_Page_053
+"('1114 ', nan, '12:15 ', ""12'25 "", '10 ', '1 ')",,SCH_SI_02_Page_053
+"('1114 ', nan, '12:30 ', '12:35 ', '5 ', 'I ')",,SCH_SI_02_Page_053
+"('1114 ', nan, '1:40 ', '2:00 ', '20 ', 'I ')",,SCH_SI_02_Page_053
+"('1117 ', nan, '11.30 ', '11:50 ', '70 ', 'I ')",,SCH_SI_02_Page_053
+"('1118 ', nan, '11:40 ', '12:00 ', '20 ', 'I ')",,SCH_SI_02_Page_053
+"('11/8 ', nan, '12:10 ', '12120 ', '10 ', 'I ')",,SCH_SI_02_Page_053
+"('1118 ', nan, '12:25 ', '12:45 ', '20 ', 'I ')",,SCH_SI_02_Page_053
+"('1116 ', nan, '2:50 ', '1:00 ', '10 ', 'I ')",,SCH_SI_02_Page_053
+"('1118 ', nan, '1110 ', '1:20 ', '10 ', 'I ')",,SCH_SI_02_Page_053
+"('11112 ', nan, 'lliss ', '11:30 ', 'is ', 'O ')",,SCH_SI_02_Page_053
+"(nan, nan, nan, 'TRT7 ', nan, nan)",,SCH_SI_02_Page_053
+"(nan, nan, '11:25 ', '11:38 ', nan, nan)",,SCH_SI_02_Page_053
+"(nan, nan, nan, '12 ', '20 ', '0 ')",,SCH_SI_02_Page_053
+"('11/20 ', nan, '7i35 ', '7:50 ', '15 ', 'I ')",,SCH_SI_02_Page_053
+"('11/20 ', nan, 'list ', '200 ', '4 ', 'I ')",,SCH_SI_02_Page_053
+"('11122 L ', nan, '9:02 ', '9:35 ', '18 ', '0 ')",,SCH_SI_02_Page_053
+"(nan, nan, '1:45 ', '1:00 ', '5 ', nan)",,SCH_SI_02_Page_053
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_053
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_053
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_053
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_02_Page_020
+"('11/7 ', nan, '11:21 ', '11:28 ', '7mins ', 'V closed ', nan, nan)",,SCH_SI_02_Page_020
+"('11/7 ', nan, '11:28 ', '11:43 ', '15min ', 'open ', nan, nan)",,SCH_SI_02_Page_020
+"('11/7 ', nan, '11:53 ', '12:00 ', '7min ', 'open ', nan, nan)",,SCH_SI_02_Page_020
+"('11/8 ', nan, '11: 13 ', '11:16 ', '3min ', 'open ', nan, nan)",,SCH_SI_02_Page_020
+"('11/8 ', nan, '11:22 ', '11:25 ', '3min ', 'V closed ', nan, nan)",,SCH_SI_02_Page_020
+"('18 ,,11:25 ,11:35 ,10 min ,closed ,\n1/99 ', nan, '10:30 ', '10:45 ', '15 Omin ', 'closed ', nan, nan)",,SCH_SI_02_Page_020
+"('1/19 ', nan, '10:45 ', '10:51 ', 'lemin ', 'I closed ', nan, nan)",,SCH_SI_02_Page_020
+"('11/20 ', nan, '9:39 ', '9:47 ', '8 mins ', 'closed (hitting start) ', nan, nan)",,SCH_SI_02_Page_020
+"('11/20 ', nan, '9:40 ', '9:58 ', '10min ', 'closed (aggressive) ', nan, nan)",,SCH_SI_02_Page_020
+"('1/20 ,,9:59 ,10:05 ,lomins. ,closed ,\n11/7 ,,12:25 ,12:29 ,4mins. ,open ,\n11/12 ,,8:43 ,8:53 ,10mins ,closed ,\n11/12 ,,8:27 ,8:31 ,4min ,closed ,\n11/14 ,,9:01 ,9:09 ,8min ,closed ,\n/44 ', nan, '10:58 ', '11:06 ', '8mins ', 'Closed ', nan, nan)",,SCH_SI_02_Page_020
+"('1/14 ', nan, '11:06 ', '11:10 ', '4min ', 'open ', nan, nan)",,SCH_SI_02_Page_020
+"('11/14 ', nan, '11:10 ', '11:22 ', '12 mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_020
+"('1/14 ', nan, '11:22 ', '11:26 ', '4mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_020
+"('11/14 ', nan, '11:26 ', '11:31 ', '5min ', 'closed ', nan, nan)",,SCH_SI_02_Page_020
+"('1/4 ', nan, '12:43 ', '12:46 ', '3min. S ', 'open ', nan, nan)",,SCH_SI_02_Page_020
+"('11/18 ', nan, '8:56 ', '8:59 ', '3 mins ', 'open ', nan, nan)",,SCH_SI_02_Page_020
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_02_Page_052
+"('1/22 ', nan, '10:05 ', '10.15 ', '10 ', '/ ')",,SCH_SI_02_Page_052
+"('1122 ', nan, '11:15 ', '11.22 ', '17 ', 'I ')",,SCH_SI_02_Page_052
+"('1122 ', nan, 'lils ', 'lias ', '10 ', '\\ ')",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_052
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_01_Page_002
+"('s) ', nan, '1114 ', '1127 ', 'B ', '1 0 ')",,SCH_SI_01_Page_002
+"('5/2 ', nan, '52 ', '203 ', '11 ', '1 0 ')",,SCH_SI_01_Page_002
+"('517 ', nan, 'III ', '126 ', '15 ', '1 ) 0 ')",,SCH_SI_01_Page_002
+"('5/13. ', nan, '1100 ', '11:17 ', '/7 ', '1 0 ')",,SCH_SI_01_Page_002
+"('5/16 ', nan, '1250 ', '101 ', '11 ', '1 0 ')",,SCH_SI_01_Page_002
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_01_Page_002
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_01_Page_002
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_01_Page_002
+"('Date ', 'Student ', 'Staff ', 'Time In ', 'Time out ', 'Total time ', 'Door open/closed ')",,SCH_SI_02_Page_133
+"('3/1/21 ', nan, nan, '806 ', '8:25 ', '19mirs ', 'closed ')",,SCH_SI_02_Page_133
+"('3/1/21 ', nan, nan, '8:34 ', '8.41 ', 'IMINS ', 'closed ')",,SCH_SI_02_Page_133
+"('0/1/21 ', nan, nan, '8:45 ', '10.00 ', '1hour 15mmus ', 'openand ')",,SCH_SI_02_Page_133
+"('6/4/4 ', nan, nan, '8117 ', '8:25 ', 'gmin ', 'closed ')",,SCH_SI_02_Page_133
+"('3/10/21 ', nan, nan, '9:39 ', '9:46 ', '7min ', 'closer ')",,SCH_SI_02_Page_133
+"('3/10/20 ', nan, nan, '1042 ', '10152 ', 'Dorm ', 'closed ')",,SCH_SI_02_Page_133
+"('3/10/21 ', nan, nan, '11:05 ', nan, '6min ', 'closed ')",,SCH_SI_02_Page_133
+"('3/10/21 ', nan, nan, '11:30 ', '11:42 ', 'Bw ', 'nised ')",,SCH_SI_02_Page_133
+"('3/11/21 ', nan, nan, '8.52 ', '9:00 ', '8 min ', 'clovel. ')",,SCH_SI_02_Page_133
+"('3/11/11 ', nan, nan, '9:08 ', 'academics ', '37min ', 'closed ')",,SCH_SI_02_Page_133
+"('3/12/20 ', nan, nan, '91-30 ', '1015 ', '35mg ', 'closed ')",,SCH_SI_02_Page_133
+"('3-16 ', nan, nan, '10am ', '10:30 ', '10:35 ', 'Closed ')",,SCH_SI_02_Page_133
+"(nan, nan, nan, '10:50 ', '11140 ', '50mm ', 'dead ')",,SCH_SI_02_Page_133
+"('3/19 ', nan, nan, '9:40 ', '9650 ', '10mins ', 'closed ')",,SCH_SI_02_Page_133
+"('3/19 ', nan, nan, '10:09 ', '11:10 ', 'itmus ', 'closed ')",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_133
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation =0 (no adult Interaction needed) ')",,SCH_SI_01_Page_111
+"('6/25 ', nan, '7:40 ', '7:55 ', '15 ', '1 ')",,SCH_SI_01_Page_111
+"('e/25 ', nan, '7:55 ', '8:00 ', '5 ', '1 ')",,SCH_SI_01_Page_111
+"('e/25 ', nan, '8:10 ', '8:25 ', '15 ', ') ')",,SCH_SI_01_Page_111
+"('2/25 ', nan, '8:25 ', '8:35 ', '10 ', '1 ')",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_111
+"('Date ', 'Student Name ', 'Time entered room ', 'Time exited room ', 'Total length of time* ', 'Supervised ', 'by: ', '(T)eacher (S)tudent directed ', 'Complia nce with BIP ', 'Imminent risk of harm to (S)elf (0) thers ', 'Antecedent (S) elf-regulation (A) cademic frustration (P) eer Issues (G) juided break ')",,SCH_SI_02_Page_090
+"('2110 ', nan, '1045 ', '1100 ', '15 ', nan, nan, 'T ', 'X ', 'S ', 'S ')",,SCH_SI_02_Page_090
+"('2/10 ', nan, '1280 ', '1555 ', '15 ', nan, nan, 'T ', 'X ', 'S ', 'S ')",,SCH_SI_02_Page_090
+"('7/10 ', nan, '1255 ', '110 ', '15 ', '01 ', nan, 'T ', 'X ', 'S ', 'S ')",,SCH_SI_02_Page_090
+"('10 ', nan, '110 ', '125 ', '15 ', 'in ', nan, 'T ', 'X ', 'S ', 'S ')",,SCH_SI_02_Page_090
+"('240 ', nan, 'i25 ', '140 ', '15 ', nan, nan, 'T ', 'X ', 'S ', 'S ')",,SCH_SI_02_Page_090
+"('2111 ', nan, '940 ', '946 ', '6 ', nan, nan, 'T ', 'X ', '0 ', 'S ')",,SCH_SI_02_Page_090
+"('2111 ', nan, '1115 ', '1130 ', '15 ', nan, '? ', 'I ', 'X V ', '8 ', 'S ')",,SCH_SI_02_Page_090
+"('2/11 ', nan, '1150 ', '1131 ', '1 ', nan, '8 ', 'I ', 'X V ', 'O ', '5 ')",,SCH_SI_02_Page_090
+"('2112 ', nan, '755 ', '800 ', '5 ', nan, nan, 'T ', 'X V ', '0 ', 'S ')",,SCH_SI_02_Page_090
+"('2/12 ', nan, '1100 ', '1125 ', '5 ', nan, '? ', 'T ', 'X V ', '0 ', 'S ')",,SCH_SI_02_Page_090
+"('2°F 212 ', nan, '1115 ', '1123 ', '8 ', 'NEVER ', 'mg ', '18 ', 'X V ', '0 ', 'S ')",,SCH_SI_02_Page_090
+"('2113 ', nan, '105 ', '1030 ', '15 ', nan, nan, 'T ', 'X V ', '0 ', 'S ')",,SCH_SI_02_Page_090
+"('113 ', nan, '1030 ', '1040 ', 'TO ', nan, nan, 'I ', 'X V I ', '0 ', 'S ')",,SCH_SI_02_Page_090
+"('2713 ', nan, '1:20 ', '1:22 ', '2 ', 'aruan ', 'he ', 'T ', 'X ', '0 ', 'S ')",,SCH_SI_02_Page_090
+"(nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_090
+"('2 113 ', nan, '1:45 ', '2:00 ', 'IS ', nan, nan, 'T ', 'X ', '0 ', 'S ')",,SCH_SI_02_Page_090
+"('2/24 ', nan, '8:58 ', '9.10 ', '12 ', '1. ', nan, 'lds T ', 'X ', 'S ', 'S ')",,SCH_SI_02_Page_090
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door apen will be recorded separately', ' per student plans). ')",,SCH_SI_02_Page_022
+"('11/22 ', nan, 'io 49 ', '1052 Am ', '3 mine ', nan, nan, nan)",,SCH_SI_02_Page_022
+"('11/22 ', nan, '1052 Am ', '11 Am ', '8mins ', 'open closed ', nan, nan)",,SCH_SI_02_Page_022
+"('11 / 22 ', nan, '11Am ', '11 07 Am ', '7 mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_022
+"('11/22 ', nan, '1107 AM ', '11"" Am ', '10 mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_022
+"('11/22 ', nan, '1126 Am ', '1131 Am ', '5 mins ', 'open ', nan, nan)",,SCH_SI_02_Page_022
+"('11/25 ', nan, '8:31 Am ', '8:35 Am ', '4 mins ', 'Closed aggressive ', nan, nan)",,SCH_SI_02_Page_022
+"('11/25 ', nan, '1030 Am ', 'io³3 AM ', '3 mins ', 'open ', nan, nan)",,SCH_SI_02_Page_022
+"('11/25 ', nan, '1033 Am ', '1036 AM ', '3 mins ', 'Closed ', nan, nan)",,SCH_SI_02_Page_022
+"('11/25 ', nan, '038 Am ', '1039 ', '3 min ', 'closed ', nan, nan)",,SCH_SI_02_Page_022
+"('11/25 ', nan, '11041 ', '1043 ', '2 min ', 'went in w/ closed in heagressed ', nan, nan)",,SCH_SI_02_Page_022
+"('11/26 ', nan, '1847 AM ', '850 AM ', '3 mins ', 'Door open - break ', nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_022
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation/with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_072
+"('5-14-19 ', nan, '11:32 ', '11:39 ', '7mit ', nan, nan, nan)",,SCH_SI_01_Page_072
+"('5-28-19 ', nan, '1:20 ', '1:45 ', '25 mid ', 'student expressed 1 ', nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, 'fell ', nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_072
+"('Da.. ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult interaction needed) ', nan)",,SCH_SI_01_Page_113
+"('13 ', nan, '9:50 ', '10:05 ', '15 ', '1 ', nan)",,SCH_SI_01_Page_113
+"('13 ', nan, '10.05 ', '10:20 ', '15 ', '1 *went ', nan)",,SCH_SI_01_Page_113
+"('B ', nan, '11:15 ', '11:30 ', '15 ', 'I ', nan)",,SCH_SI_01_Page_113
+"('13 ', nan, '11:30 ', '11:45 ', '15 ', '1 ', nan)",,SCH_SI_01_Page_113
+"('$14 ', nan, '10:45 ', '11:00 ', '15 ', 'I ', nan)",,SCH_SI_01_Page_113
+"('14 ', nan, '1:00 ', '195 ', '15 ', '\\ ', nan)",,SCH_SI_01_Page_113
+"(nan, nan, '1:15 ', '1:25 ', '10 ', 'I ', nan)",,SCH_SI_01_Page_113
+"(nan, nan, '1:35 ', '1:50 ', '15 ', '1 ', nan)",,SCH_SI_01_Page_113
+"(nan, nan, '1:50 ', '2:05 ', '15 ', '1 ', nan)",,SCH_SI_01_Page_113
+"(nan, nan, '9:35 ', '9:50 ', '15 ', '\\ ', nan)",,SCH_SI_01_Page_113
+"(nan, 'y ', '9:50 ', '10:05 ', '15 ', '\\ ', nan)",,SCH_SI_01_Page_113
+"('6 ', nan, '10:05 ', '10:15 ', '10 ', 'I sleeping ', nan)",,SCH_SI_01_Page_113
+"('30 ', nan, '11:15 ', '11:26 ', '11 ', '1 ', nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_113
+"('Date ', 'Student ', 'Staff ', 'Time In ', 'Time out ', 'Total time ', 'Door open/closed ')",,SCH_SI_02_Page_092
+"('0-2 ', nan, nan, '12:38 ', '12:41 ', '3 ', 'losed ')",,SCH_SI_02_Page_092
+"('103 ', nan, nan, '8:50 ', '9:00 ', '10 ', 'closed / ')",,SCH_SI_02_Page_092
+"('10-3 ', nan, nan, '9:45 ', '10an ', '15 ', 'closed ')",,SCH_SI_02_Page_092
+"('10/4 ', nan, nan, '8:21 ', '8:40 ', '19 ', 'Closed/open ')",,SCH_SI_02_Page_092
+"('10/4 ', nan, nan, '8:41 ', '8:48 ', '7 ', 'Closed/aper ')",,SCH_SI_02_Page_092
+"('10/10 ', nan, nan, '9:05 ', '9:10 ', '5 ', 'closed. ')",,SCH_SI_02_Page_092
+"('10/23 ', nan, nan, '9:35 ', '9:45 ', '10 ', 'Closed ')",,SCH_SI_02_Page_092
+"('10-31 ', nan, nan, '12:15 ', '12:25 ', '15 ', 'closed ')",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_092
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult Interaction needed) ')",,SCH_SI_01_Page_161
+"('10/1 ', nan, '7:55 ', '8:10 ', '15 min ', '1 ')",,SCH_SI_01_Page_161
+"('10/1 ', nan, '8:10 ', '8:17 ', '7 min ', '1 ')",,SCH_SI_01_Page_161
+"('10/1 ', nan, '8:30 ', '8:45 ', '15 min ', '\\ ')",,SCH_SI_01_Page_161
+"('10/1 ', nan, '11:00 ', '11:10 ', '10 min ', '\\ ')",,SCH_SI_01_Page_161
+"('10/3 ', nan, '1:50 ', '2:05 ', '15 min ', '1 ')",,SCH_SI_01_Page_161
+"('10/4 ', nan, '10:35 ', '10:50 ', '15 min ', '\\ ')",,SCH_SI_01_Page_161
+"('10/12 ', nan, '11:35 ', '11:45 ', '10 min ', '\\ ')",,SCH_SI_01_Page_161
+"('10/12 ', nan, '12:30 ', '12:45 ', '15 min ', '\\ ')",,SCH_SI_01_Page_161
+"('10/12 ', nan, '1:22 ', '1:30 ', '8 min ', '\\ ')",,SCH_SI_01_Page_161
+"('10/12 ', nan, '1:30 ', '1:45 ', '15 min ', '1 ')",,SCH_SI_01_Page_161
+"('10/12 ', nan, '1:45 ', '2:00 ', '15 min ', '1 ')",,SCH_SI_01_Page_161
+"('10/12 ', nan, '2:00 ', '2:15 ', '15 min ', 'I ')",,SCH_SI_01_Page_161
+"('10/15 ', nan, '8:25 ', '8:30 ', '5 min ', 'I ')",,SCH_SI_01_Page_161
+"('10/15 ', nan, '9:15 ', '9:30 ', '15 min ', 'I ')",,SCH_SI_01_Page_161
+"('10/15 ', nan, '9:30 ', '9:35 ', '5 min ', '1 ')",,SCH_SI_01_Page_161
+"('10/16 ', nan, '8:25 ', '8:35 ', '10 min ', '1 ')",,SCH_SI_01_Page_161
+"('10116 ', nan, '9:40 ', '9:54 ', '14 min ', 'I ')",,SCH_SI_01_Page_161
+"('10116 ', nan, '1:30 ', '1:45 ', '15 min ', '1 ')",,SCH_SI_01_Page_161
+"('10/16 ', nan, '1:45 ', '1:55 ', '10 min ', '\\ ')",,SCH_SI_01_Page_161
+"('101 17 ', nan, '8:00 ', '8:15 ', '15 min ', '1 ')",,SCH_SI_01_Page_161
+"('10/17 ', nan, '8:15 ', '8:30 ', '15 min ', 'I ')",,SCH_SI_01_Page_161
+"('10/17 ', nan, '8:30 ', '8:45 ', '15 min ', 'I ')",,SCH_SI_01_Page_161
+"('Date ', 'Student ', 'Staff ', 'Time In ', 'Time out ', 'Total time ', 'Door open/closed ')",,SCH_SI_02_Page_131
+"('11 ', nan, nan, '9413 ', '9:21 ', '8mins ', 'closed ')",,SCH_SI_02_Page_131
+"('with ', nan, nan, '8:12 ', '8:44 ', '40mins ', 'clessed ')",,SCH_SI_02_Page_131
+"('4/12 ', nan, nan, '9:18 ', '9:26 ', '8mlus ', 'closed ')",,SCH_SI_02_Page_131
+"('4/13 ', nan, nan, '8:42 ', '9:27 ', '45min ', 'closed ')",,SCH_SI_02_Page_131
+"('4114 ', nan, nan, '10: 15 ', '10:25 ', '10mm ', 'closed ')",,SCH_SI_02_Page_131
+"('4/14 ', nan, nan, '12:00 ', '1225 ', '17min ', 'closed ')",,SCH_SI_02_Page_131
+"('4/14 ', nan, nan, '1230 ', '12:$5 ', '145mins ', 'closed ')",,SCH_SI_02_Page_131
+"('4/19 ', nan, nan, '8:37 ', '9:20 ', '43mnns ', 'Streed ')",,SCH_SI_02_Page_131
+"('4/19 ', nan, nan, '9:50 ', '10:10 ', 'domoss ', 'closed ')",,SCH_SI_02_Page_131
+"('4/19 ', nan, nan, '9:59 ', '1023 ', '24min ', 'closed ')",,SCH_SI_02_Page_131
+"('4/19 ', nan, nan, '1027 ', '1035 ', 'Emin ', 'closed ')",,SCH_SI_02_Page_131
+"('4/20 ', nan, nan, '9:15 ', '9:19 ', '4min ', 'closed ')",,SCH_SI_02_Page_131
+"('4/21 ', nan, nan, '11:28 ', '11:4 ', '13mrs. ', 'closed ')",,SCH_SI_02_Page_131
+"('4/21 ', nan, nan, ""I'll "", '1:55 ', '43mins ', 'cjarlgood ')",,SCH_SI_02_Page_131
+"('In2 ', nan, nan, '8:35 ', '10:00 ', 'the 25mius ', 'closed ')",,SCH_SI_02_Page_131
+"('4/26 ', nan, nan, '8:35 ', '8:41 ', 'emius ', 'closed ')",,SCH_SI_02_Page_131
+"('4/36 ', nan, nan, '9143 ', '9:52 ', '9 mins ', 'closed ')",,SCH_SI_02_Page_131
+"('4/27 ', nan, nan, '11:38 ', '11:45 ', 'Timis ', 'closed ')",,SCH_SI_02_Page_131
+"('4/28 ', nan, nan, '8:34 ', '8:40 ', 'larins ', 'closipol ')",,SCH_SI_02_Page_131
+"('4/28 ', nan, nan, '10:14 ', '10:24 ', 'Thin ', 'closed ')",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_131
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_01_Page_217
+"('4115 ', nan, 'liiD ', 'hils ', '5 ', '0 ')",,SCH_SI_01_Page_217
+"('11115 ', nan, '1:05 ', '1:20 ', 'IS ', '1 ')",,SCH_SI_01_Page_217
+"('4115 ', nan, '1125 ', '1:40 ', 'IS ', '\\ ')",,SCH_SI_01_Page_217
+"('411h ', nan, '120 ', '1100 ', '20 ', nan)",,SCH_SI_01_Page_217
+"('4120 ', nan, ""I'S "", '1135 ', '20 ', '\\ smash Dillabur into Steft ')",,SCH_SI_01_Page_217
+"('4130 ', nan, '12:10 ', '12:20 ', '10 ', '\\ Able to calm ')",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_217
+"(nan, 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_01_Page_112
+"('5/14 ', nan, '1:35. ', '1:40 ', '5 ', '1 ')",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_112
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_01_Page_160
+"('10/28 ', nan, '8.23 ', '8:30 ', '7min ', 'I ')",,SCH_SI_01_Page_160
+"('10/22 ', nan, '8:30 ', '8:45 ', '15 min ', '\\ ')",,SCH_SI_01_Page_160
+"('10/22 ', nan, '9:15 ', '9:26 ', '11 min ', '1 ')",,SCH_SI_01_Page_160
+"('10/22 ', nan, '9:50 ', '10:05 ', '15 min ', '1 ')",,SCH_SI_01_Page_160
+"('10/22 ', nan, '10:05 ', '10:10 ', '5 min ', '\\ ')",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_160
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult Interaction needed) ')",,SCH_SI_01_Page_216
+"('4/8/19 ', nan, '12:30 ', '12:35 ', '5 ', '1 ')",,SCH_SI_01_Page_216
+"('4/15/19 ', nan, '1005 ', ""I'll "", '6 ', '0 ')",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_216
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_01_Page_001
+"('18/24 ', nan, '925 ', '945 ', '20 ', '1 0 ')",,SCH_SI_01_Page_001
+"('10/24 ', nan, '1000 ', '1006 ', '6 ', '1 0 ')",,SCH_SI_01_Page_001
+"('10/24 ', nan, '1026 ', '10=88 ', '2 ', '1- O ')",,SCH_SI_01_Page_001
+"('10/84 ', nan, '1055 ', '1103 ', '7 ', '1 0 ')",,SCH_SI_01_Page_001
+"('10/24 ', nan, '1105 ', '1122 ', 'Zo ', '1 0 ')",,SCH_SI_01_Page_001
+"('10/24 ', nan, '145 ', '1150 ', '5 ', '1 0 ')",,SCH_SI_01_Page_001
+"('10/24 ', nan, '1203 ', '1210 ', '7 ', '1 0 ')",,SCH_SI_01_Page_001
+"('11/24/2018 ', nan, '05 ', '108 ', '3 ', '1 0 ')",,SCH_SI_01_Page_001
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_073
+"('6/14/19 ', nan, '2:07 ', '2:12 ', 'Sminutes ', 'X ', nan, nan)",,SCH_SI_01_Page_073
+"('5141 ', nan, '1.30 ', '1:46 ', '16mm ', 'X ', nan, nan)",,SCH_SI_01_Page_073
+"('5/23/9 ', nan, '203 ', '2:23 ', '20 usin ', 'X I ', nan, nan)",,SCH_SI_01_Page_073
+"('5/23 ', nan, '234 ', '2:350 ', '16 MM ', 'X ', nan, nan)",,SCH_SI_01_Page_073
+"('5/28 ', nan, '1121 ', '1125 ', '4min ', 'X K ', nan, nan)",,SCH_SI_01_Page_073
+"('5128 ', nan, '12.24 ', '12:38 ', '14mh ', 'X You ', nan, nan)",,SCH_SI_01_Page_073
+"('5/e/11 ', nan, '12:40 ', '1:00 ', '22 min ', 'X ', nan, nan)",,SCH_SI_01_Page_073
+"('5/29 ', nan, '1229 ', '1240 ', '11min ', 'X ', nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_073
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_01_Page_014
+"('4/9/9 ', nan, '1214 ', '1225 ', '11 ', '1 0 ')",,SCH_SI_01_Page_014
+"('1/8/19 ', nan, '37 ', '140 ', '3 ', '1 0 ')",,SCH_SI_01_Page_014
+"('1/9/19 ', nan, '10"" ', '101 ', '5 ', '1 0 ')",,SCH_SI_01_Page_014
+"('1/9/19 ', nan, '1017 ', '1023 ', '6 ', '0 ')",,SCH_SI_01_Page_014
+"('1/9/19 ', nan, '1133 ', '1137 ', '4 ', '1 0 ')",,SCH_SI_01_Page_014
+"('1/9/19 ', nan, '1139 ', '1143 ', '4 ', '1 0 ')",,SCH_SI_01_Page_014
+"('1/9/19 ', nan, '1145 ', '1153 ', '8 ', '1 0 ')",,SCH_SI_01_Page_014
+"('1/19 ', nan, '1155 ', '12 °C ', '5 ', '1 0 ')",,SCH_SI_01_Page_014
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_066
+"('6/10 ', nan, '10th ', '1039 ', 'Tminness ', 'X ', nan, nan)",,SCH_SI_01_Page_066
+"('6/19 ', nan, '1038 ', '1044 ', 'Leminsy ', 'X ', nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_066
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_02_Page_036
+"('9/13/19 ', nan, '9:09 ', '9::15 ', '6 ', 'L ', nan, nan)",,SCH_SI_02_Page_036
+"('9/24/19 ', nan, '1000 ', '10°S ', '5 ', 'L ', nan, nan)",,SCH_SI_02_Page_036
+"('9/24/19 ', nan, '1027 ', '1035 ', '8 ', '1 ', nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_036
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_01_Page_059
+"('10/30 ', nan, '843 ', '845 ', '2 ', '1 0 ')",,SCH_SI_01_Page_059
+"('10/30 ', nan, '46 ', '830 ', '4 ', '1 0 ')",,SCH_SI_01_Page_059
+"('10/30 ', nan, '836 ', '847 ', '11 ', '1 0 ')",,SCH_SI_01_Page_059
+"('16/30 ', nan, '850 ', '855 ', '5 ', '1 0 ')",,SCH_SI_01_Page_059
+"('10/30 ', nan, '939 ', '946 ', '7 ', '1 0 ')",,SCH_SI_01_Page_059
+"('10/30 ', nan, '95b ', '1000 ', '4 ', '0 ')",,SCH_SI_01_Page_059
+"('10 730 ', nan, '1000 ', '1012 ', '12 ', '1 0 ')",,SCH_SI_01_Page_059
+"('10/30 ', nan, '1020 ', '10 25 ', '5 ', '1 0 ')",,SCH_SI_01_Page_059
+"('Jate ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation/ with door apen will be recorded separately', ' per student plans). ')",,SCH_SI_02_Page_009
+"('1/10 ', nan, '9:56 ', '9:59 ', '3mins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/10 ', nan, '10:51 ', '11:00 ', 'amins ', 'Closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/10 ', nan, '11:00 ', '11:15 ', '15mins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/10 ', nan, '11:16 ', '11:25 ', '9mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/10 ', nan, '11:47 ', '11:50 ', '3mins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/44 ', nan, '10:26 ', '10:29 ', '3mins ', 'Closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/14 ', nan, '10:32 ', '10:34 ', '2mins ', 'child requested to close then pounced on it ', nan, nan)",,SCH_SI_02_Page_009
+"('1/14 ', nan, '10:56 ', '11:11 ', '15mins. ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/14 ', nan, '11:11 ', '11:26 ', '15mins. ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/10 ', nan, '9:17 ', '9:20 ', '3mins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/10 ', nan, '9:20 ', '9:35 ', '15mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('/10 ', nan, '9:35 ', '9:45 ', '10mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('117 ', nan, '2:00 ', '2.03 ', '3mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/21 ', nan, '1:50 ', '1:53 ', '3mins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/22 ', nan, '10:27 ', '10:37 ', '10mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/27 ', nan, '10:58 ', '11:06 ', '8mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/22 ', nan, '11:06 ', '11:21 ', '15mins ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('1/22 ', nan, '11:21 ', '11:36 ', '15mins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/22 ', nan, '11:37 ', '1152 ', 'ismins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/27 ', nan, '11:53 ', '12:07 ', '14mins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/22 ', nan, '12:07 ', '12:18 ', 'llmins ', 'open ', nan, nan)",,SCH_SI_02_Page_009
+"('1/22 ', nan, '12:30 ', '12:39 ', 'amins ', 'closed ', nan, nan)",,SCH_SI_02_Page_009
+"('Date ', 'Student Name ', 'Time entered room ', 'Time exited room ', 'Total length of time* ', 'Supervised by: ', '(T)eacher (S)tudent directed ', 'Complia nce with BIP ', 'Imminent risk of harm to (S)elf (0) thers ', 'Antecedent (S) Jelf-regulation (A) cademic frustration (P) eer Issues (G)uided break ')",,SCH_SI_01_Page_188
+"('9/28 ', nan, '200 ', '1215 ', '15 ', nan, 'S T ', nan, 'S ', 'GIS ')",,SCH_SI_01_Page_188
+"('9128 ', nan, '12th ', '1230 ', '15 ', nan, 'T ', 'X ', '0 ', 'S ')",,SCH_SI_01_Page_188
+"('9/28 ', nan, '1230 ', '1245 ', '15 ', nan, 'T ', 'X ', '0 ', 'S ')",,SCH_SI_01_Page_188
+"('10/18 ', nan, '8:42 ', '857 ', '15 ', nan, 'S ', 'X ', 's/g ', 'S ')",,SCH_SI_01_Page_188
+"('01/1 ', nan, '857 ', '9:12 ', 'IS ', nan, '5 ', 'X ', 's/o ', 'S ')",,SCH_SI_01_Page_188
+"('of ', nan, '9:12 ', '920 ', '8 ', nan, '5 ', 'X ', '5/0 ', '5 ')",,SCH_SI_01_Page_188
+"('10/4 ', nan, '-100 ', '107 ', '7 ', nan, 'S ', nan, 'S ', 'S ')",,SCH_SI_01_Page_188
+"('10/11 ', nan, '845 ', '900 ', '15 ', nan, 'T ', nan, '0 ', '5 ')",,SCH_SI_01_Page_188
+"('10/11 ', nan, '900 ', '915 ', '15 ', nan, 'Th ', nan, '0 ', 'S ')",,SCH_SI_01_Page_188
+"('10/11 ', nan, '915 ', '930 ', '15 ', nan, 'T ', nan, '0 ', 'S ')",,SCH_SI_01_Page_188
+"('0/11 ', nan, '930 ', '945 ', '15 ', nan, 'T ', nan, '0 ', 'S ')",,SCH_SI_01_Page_188
+"('0/11 ', nan, '945 ', '950 ', '5 ', nan, 'T ', nan, '0 ', 'S ')",,SCH_SI_01_Page_188
+"('0111 ', nan, '1005 ', '1020 ', '15 ', nan, 'T ', nan, '0 ', 'S ')",,SCH_SI_01_Page_188
+"('01/11 ', nan, '1030 ', '1045 ', '15 ', nan, 'T ', nan, '0 ', 'S ')",,SCH_SI_01_Page_188
+"(nan, nan, nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_188
+"('0111 ', nan, '1005 ', '1100 ', '15 ', nan, 'T ', nan, '0 ', 'S ')",,SCH_SI_01_Page_188
+"('011 ', nan, '210 ', '1225 ', '15 ', nan, 'T ', nan, '0 ', 'S ')",,SCH_SI_01_Page_188
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult Interaction needed) ')",,SCH_SI_02_Page_086
+"('9-26-19 ', nan, '11:25 ', '11:40 ', '15min ', '1 ')",,SCH_SI_02_Page_086
+"('9-26-19 ', nan, '11:40 ', '11:52 ', '12 min ', 'I ')",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_086
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_107
+"('9.24 ', nan, '2:10 ', '2:25 ', '15 M ', 'Door closed ', nan, nan)",,SCH_SI_01_Page_107
+"('9.25 ', nan, '1:00 ', '1:15 ', '15 M ', 'Door closed ', nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_107
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_02_Page_125
+"('10-6-20 ', nan, '11:16 ', '11:31 ', '15 ', '/ ')",,SCH_SI_02_Page_125
+"('10-6-20 ', nan, '11:31 ', '11:34 ', '3 ', 'O ')",,SCH_SI_02_Page_125
+"('10/26/20 ', nan, '11:21 ', '11:31 ', '10) ', '/ ')",,SCH_SI_02_Page_125
+"('10/23/20 ', nan, '10:15 ', '10:30 ', '15 ', '/ ')",,SCH_SI_02_Page_125
+"('10/23/20 ', nan, '10:33 ', '10:38 ', '5 ', '/ ')",,SCH_SI_02_Page_125
+"('10/34/20 ', nan, '10:46 ', '10:01 ', '15 ', '/ ')",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_125
+"('Date ', 'Student ', 'Staff ', 'Time In ', 'Time out ', 'Total time ', 'Door open/closed ')",,SCH_SI_01_Page_175
+"('4/1 ', nan, nan, '11:30 ', '11:55 ', '15 mbs. ', 'open ')",,SCH_SI_01_Page_175
+"('1/1 ', nan, nan, '11:55 ', '11:58 ', '3 mins ', 'closed ')",,SCH_SI_01_Page_175
+"('4/9 ', nan, nan, '9:50 ', '9:55 ', 'Smins ', 'Closed ')",,SCH_SI_01_Page_175
+"('4/9 ', nan, nan, '10:55 ', '11:05 ', '10mins ', 'closed ')",,SCH_SI_01_Page_175
+"('4/17 ', nan, nan, '10:54 ', '11:05 ', '11mms. ', 'closed. ')",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_175
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult Interaction needed) ')",,SCH_SI_01_Page_138
+"('1/16/19 ', nan, '11: 15 ', '11:20 ', '5 ', 'I ')",,SCH_SI_01_Page_138
+"('1/16/18 ', nan, '1:00 ', '1:07 ', '7 min ', '/ ')",,SCH_SI_01_Page_138
+"('1/18/198 ', nan, '9:03 ', '9:18 ', '15 ', '/ ')",,SCH_SI_01_Page_138
+"('1/18/19 ', nan, '9:18 ', '9:30 ', '12 ', '/ ')",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_138
+"('Date ', 'Staff ', 'Time In ', 'Time Out ', 'Total Time ')",,SCH_SI_01_Page_106
+"('9/6/18 ', nan, '11 16 ', '1118 ', '2"" "" ')",,SCH_SI_01_Page_106
+"('9/6/18 ', nan, '1207 slook ', 'coper 12"" ', '3"" ')",,SCH_SI_01_Page_106
+"('9/6/18 ', nan, '1213 ', '12:23 ', '9"" ')",,SCH_SI_01_Page_106
+"('9/6/18 ', nan, '12.25 ', '12:34 ', '9"" ')",,SCH_SI_01_Page_106
+"('9/6/18 ', nan, '12:41 ', '12.47 ', '6"" ')",,SCH_SI_01_Page_106
+"('9/6/18 ', nan, '1:06 ', '11 12 ', '6"" ')",,SCH_SI_01_Page_106
+"('9/6/18 ', nan, '2:30 ', '2:40 ', 'ID ')",,SCH_SI_01_Page_106
+"('9/7/18 ', nan, '9:45 ', '10:00 ', '15 ')",,SCH_SI_01_Page_106
+"('9/7/18 ', nan, '10:40 ', '10.45 ', '5 ')",,SCH_SI_01_Page_106
+"('917118 ', nan, '11:00 ', '11:05 ', 'S ')",,SCH_SI_01_Page_106
+"('9/7/18 ', nan, '1:00 ', '1.1.15 ', '15 ')",,SCH_SI_01_Page_106
+"('9/7/18 ', nan, '1:15 ', '1:30 ', '15 ')",,SCH_SI_01_Page_106
+"('9/7/18 ', nan, '2:00 ', '2:05 ', 'In ')",,SCH_SI_01_Page_106
+"('9/7/18 ', nan, '2:30 ', '2:45 ', '15 ')",,SCH_SI_01_Page_106
+"('9/11/18 ', nan, '1001 ', '1004 ', '3 ')",,SCH_SI_01_Page_106
+"('9/11/18 ', nan, '135 ', '145 ', '10 ')",,SCH_SI_01_Page_106
+"('9/17/18 ', nan, '930 ', '9:45 ', '15 ')",,SCH_SI_01_Page_106
+"('9/17/18 ', nan, '2:00 ', '2:10 ', '10 ')",,SCH_SI_01_Page_106
+"('9/18/18 ', nan, '12:20 ', nan, nan)",,SCH_SI_01_Page_106
+"('9/19/18 ', nan, '1054 ', '1059 ', '5 ')",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"(nan, nan, nan, nan, nan)",,SCH_SI_01_Page_106
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs aduit interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_01_Page_202
+"('5/8/19 ', nan, '10:30 ', '10:32 ', '2 ', 'I ')",,SCH_SI_01_Page_202
+"(nan, nan, '9:45 ', '9:50 ', '5 ', 'INSURED ')",,SCH_SI_01_Page_202
+"('5/9/19 ', nan, '10:26 ', '10:40 ', 'u ', 'I ')",,SCH_SI_01_Page_202
+"('5114 ', nan, '11:00 ', '11:05 ', '5 ', 'I ')",,SCH_SI_01_Page_202
+"('5/14 ', nan, '11:10 ', '11:20 ', '10 ', '1 ')",,SCH_SI_01_Page_202
+"('5115 ', nan, 'Diss ', 'NO ', 'IS ', nan)",,SCH_SI_01_Page_202
+"('SIS ', nan, '1:30 ', '1.50 ', '20 ', '/ ')",,SCH_SI_01_Page_202
+"('5/lh ', nan, '9:10 ', '920 ', '10 ', 'I ')",,SCH_SI_01_Page_202
+"('5116 ', nan, '9:45 ', '10:00 ', '15 ', '1 ')",,SCH_SI_01_Page_202
+"('5/20 ', nan, '8:30 ', '8:40 ', '10 ', 'I ')",,SCH_SI_01_Page_202
+"('-10 ', nan, '8:45 ', '9:05 ', '20 ', '1 ')",,SCH_SI_01_Page_202
+"('520 ', nan, '9:25 ', '9:40 ', 'IS ', 'i ')",,SCH_SI_01_Page_202
+"('5hn ', nan, '10.05 ', '1005 ', '20 ', '1 ')",,SCH_SI_01_Page_202
+"('5/21 ', nan, '9:10 ', '9:17 ', '7 ', '1 ')",,SCH_SI_01_Page_202
+"('5/30 ', nan, '10:40 ', '10:50 ', '10 ', 'I ')",,SCH_SI_01_Page_202
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_202
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_202
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_202
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_202
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_202
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_202
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_202
+"('Date ', 'Student ', 'Staff ', 'Time In ', 'Time out ', 'Total time ', 'Door open/closed ')",,SCH_SI_01_Page_174
+"('5-1 ', nan, nan, '9:20 ', '9145 ', nan, 'Clused ')",,SCH_SI_01_Page_174
+"('5-9 ', nan, nan, '8:45 ', '9:05 ', nan, 'Closed/opan ')",,SCH_SI_01_Page_174
+"('5-30 ', nan, nan, '11:50 ', '12:0 ', nan, 'Closed ')",,SCH_SI_01_Page_174
+"('5-31 ', nan, nan, '1:10 ', '1:15 ', nan, 'Closell ')",,SCH_SI_01_Page_174
+"('5-31 ', nan, nan, '9:05 ', '9:15 ', nan, 'closeer. ')",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, '! ')",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_174
+"('Date 1/4/19 ', 'Staff ', 'Time IN 12:30 ', 'Time OUT 12:45 ', 'Total Time 15 min ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_01_Page_139
+"('1/4/19 ', 'L ', '1:10 ', '1:20 ', '15 min ', nan)",,SCH_SI_01_Page_139
+"('1/4/19. ', 'ff ', '1:28 ', '1:40 ', '12 min ', '\\ ')",,SCH_SI_01_Page_139
+"('1/4/19 ', nan, '1:40 ', '1:50 ', '10 min ', '1 ')",,SCH_SI_01_Page_139
+"('1/7/19 ', nan, '8:45 ', '8:56 ', '11 min ', '1 ')",,SCH_SI_01_Page_139
+"('1/7/19 ', nan, '9:02 ', '9:17 ', '15 min ', '\\ ')",,SCH_SI_01_Page_139
+"('1/7/19; ', 'R ', '9:17 ', '9:24 ', '7 min ', '\\ ')",,SCH_SI_01_Page_139
+"('1/7/19 ', nan, '10:05 ', '10:20 ', '15 min ', '/ ')",,SCH_SI_01_Page_139
+"('1/7/19 ', nan, '10:20 ', '10:35 ', '15 min ', '1 ')",,SCH_SI_01_Page_139
+"('1/7/19 ', nan, '10:35 ', '10:45 ', '10 min ', '\\ xurent ')",,SCH_SI_01_Page_139
+"('1/14/19 ', nan, '8:25 ', '8:37 ', '12 min ', 'I ')",,SCH_SI_01_Page_139
+"('11/15/19 ', nan, '10:12 ', '10:15 ', '3 min ', '\\ ')",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_139
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_01_Page_015
+"('1/9/19 ', nan, '1201 ', '1208 ', '7 ', '1 0 ')",,SCH_SI_01_Page_015
+"('1/9/19 ', nan, '1:25 ', '130 ', '5 ', '1 0 ')",,SCH_SI_01_Page_015
+"('1/9/19 ', nan, '755 ', '801 ', '6 ', '1 0 ')",,SCH_SI_01_Page_015
+"('1/10/19 ', nan, '825 ', '828 ', '3 ', '1 0 ')",,SCH_SI_01_Page_015
+"('1/10/19 ', nan, '8 30 ', 'q36 ', '6 ', '1 O ')",,SCH_SI_01_Page_015
+"(nan, nan, '04 ', 'q13 ', '9 ', '1 0 ')",,SCH_SI_01_Page_015
+"('1/19/19 ', nan, '916 16 ', '924 ', '8 ', '1 0 ')",,SCH_SI_01_Page_015
+"('1/1/19 ', nan, '922 ', '948 ', '19 ', '1 0 ')",,SCH_SI_01_Page_015
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_067
+"('6/12 ', nan, '9:08 ', '07:14 ', '6min ', nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_067
+"('Date ', 'Student Name ', 'Time entered room ', 'Time exited room ', 'Total length of time* ', 'Supervised by: ', '(T)eacher (S)tudent directed ', 'Complia nce with BIP ', 'Imminent risk of harm to (S)elf (0) thers ', 'Antecedent (S) Jelf-regulation (A) cademic frustration (P) eer Issues (G) juided break ')",,SCH_SI_01_Page_189
+"('0/11 ', nan, '1225 ', '1270 ', '15 ', nan, 'T ', 'X V ', '0 ', 'S ')",,SCH_SI_01_Page_189
+"('011 ', nan, '120 ', '125 ', '5 ', nan, 'S ', 'X ', 'S ', 'S ')",,SCH_SI_01_Page_189
+"('Plii ', nan, '135 ', '140 ', '15 ', nan, 'T ', 'X ', 'S ', 'S ')",,SCH_SI_01_Page_189
+"('10/11 ', nan, '140 ', '50 ', '15 ', nan, 'T ', 'X ', 'S ', 'S ')",,SCH_SI_01_Page_189
+"('9112 ', nan, '805 ', '825 ', 'P5 ', nan, 'T ', 'X ', '0 ', 'S ')",,SCH_SI_01_Page_189
+"('10/12 ', nan, '825 ', '840 ', '15 ', nan, 'T ', 'X ', 'O ', '5 ')",,SCH_SI_01_Page_189
+"('10/2 ', nan, '840 ', '855 ', '15 ', nan, 'T ', 'X ', '6 ', '5 ')",,SCH_SI_01_Page_189
+"('912 ', nan, '1040 ', '1055 ', '15 ', nan, 'T ', 'X ', '0 ', 'S ')",,SCH_SI_01_Page_189
+"('10/15 ', nan, '845 ', '900 ', '15 ', nan, 'T ', 'X ', '0 ', 'S ')",,SCH_SI_01_Page_189
+"('10/15 ', nan, '900 ', '915 ', '15 ', nan, 'T ', 'X ', '0 ', 'S ')",,SCH_SI_01_Page_189
+"('10/15 ', nan, '950 ', '10 /05 ', 'IS ', nan, nan, 'X ', '6 ', '5 ')",,SCH_SI_01_Page_189
+"('10/15 ', nan, ""10'05 "", '10:20 ', 'IS ', nan, nan, 'X ', 'O ', 'S ')",,SCH_SI_01_Page_189
+"('10/15 ', nan, '10 20 ', '035 ', '15 ', nan, nan, 'X ', '0 ', '5 ')",,SCH_SI_01_Page_189
+"('10/15 ', nan, '1035 ', '11050 ', '15 ', nan, nan, 'X ', '0 ', '5 ')",,SCH_SI_01_Page_189
+"('b/15 ', nan, '1055 ', '1100 ', '10 ', nan, 'T ', 'X ', '0 ', '5 ')",,SCH_SI_01_Page_189
+"('10/15 ', nan, '100 ', '115 ', '15 ', nan, 'T ', 'X ', 'O ', 'S ')",,SCH_SI_01_Page_189
+"(nan, nan, nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_189
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door apen will be recorded separately', ' per student plans). ')",,SCH_SI_02_Page_008
+"('1/10 ', nan, '913 ', '920 ', '7minute ', nan, nan, nan)",,SCH_SI_02_Page_008
+"('1/3 ', 'X ', '839 ', '10.5 ', '96 min ', nan, nan, nan)",,SCH_SI_02_Page_008
+"('1/14 ', 'X ', '816 ', '8 18 ', '3 minute ', nan, nan, nan)",,SCH_SI_02_Page_008
+"('1/22 ', 'X ', '1800 ', ""10'2 "", '12 Minuse ', nan, nan, nan)",,SCH_SI_02_Page_008
+"('1/24 ', 'X ', '1043 ', '1048 ', '5 minuses ', 'X ', nan, nan)",,SCH_SI_02_Page_008
+"('1/24 ', 'X ', '1048 ', '1052 ', '4 minus is ', nan, nan, nan)",,SCH_SI_02_Page_008
+"('1/24 ', 'X ', '1052 ', '11°00 ', '8 minuts ', 'X ', nan, nan)",,SCH_SI_02_Page_008
+"('1/24 ', 'X ', '852 ', 'que ', '8 minutes ', nan, nan, nan)",,SCH_SI_02_Page_008
+"('1/24 ', 'X ', 'quo ', '948 ', '8 minutes ', 'X ', nan, nan)",,SCH_SI_02_Page_008
+"('1/24 ', 'X ', '948 ', '10"" ', '23 minus ', nan, nan, nan)",,SCH_SI_02_Page_008
+"('1/27 ', 'X ', '832 ', '8 33 ', '1 mas C. ', 'X ', nan, nan)",,SCH_SI_02_Page_008
+"('127 ', 'X ', nan, '846 ', '12 Minute ', nan, nan, nan)",,SCH_SI_02_Page_008
+"('1/27 ', 'X ', '8thl ', '8 31 ', '6 mark ', 'X ', nan, nan)",,SCH_SI_02_Page_008
+"('1/27 ', 'X ', '851 ', 'ass ', '39 minult a ', nan, nan, nan)",,SCH_SI_02_Page_008
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_008
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_008
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_008
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_008
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_008
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_008
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_008
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_008
+"('Date ', 'Student ', 'Staff ', 'Time In ', 'Time out ', 'Total time ', 'Door open/closed ')",,SCH_SI_01_Page_176
+"('2 6-19 ', nan, nan, '8:35 ', '8855 ', '20 mins ', 'closed/Thenopen ')",,SCH_SI_01_Page_176
+"('3/13/19 ', nan, nan, '12:25 ', '12:35 ', '10mins ', 'Closed /open ')",,SCH_SI_01_Page_176
+"('3/20/19 ', nan, nan, '8:13 ', '8:30 ', '17 mins ', 'clused ')",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"('/ ', nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_176
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult Interaction needed) ')",,SCH_SI_02_Page_126
+"('10-28-20 ', nan, '9:05 ', '9:20 ', '15 ', '1 ')",,SCH_SI_02_Page_126
+"('10-28-20 ', nan, '9:20 ', '9:30 ', '10 ', 'I ')",,SCH_SI_02_Page_126
+"('10-2820 ', nan, '9:37 ', '9:47 ', '10 ', 'I ')",,SCH_SI_02_Page_126
+"('10-28-20 ', nan, '9:52 ', '9:54 ', '2 ', '0 ')",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_126
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_01_Page_200
+"('6/4 ', nan, '1:20 ', '1.26 ', '6 ', 'I ')",,SCH_SI_01_Page_200
+"('6/5 ', nan, '2.59 ', '1:09 ', '10 ', 'I Aggression ')",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_200
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_104
+"('9.24 ', nan, '10:05 ', '10:10 ', '5m ', 'Doar closed ', nan, nan)",,SCH_SI_01_Page_104
+"('9.28 ', nan, '9:30 ', '9:45 ', '15 ', 'Deer closed ', nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_104
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_02_Page_085
+"('9-13-19 ', nan, '11:45 ', '12:00 ', '15 ', 'I ')",,SCH_SI_02_Page_085
+"('9-13-19 ', nan, '12:00 ', '12:15 ', '15 ', 'I ')",,SCH_SI_02_Page_085
+"('9-13-19 ', nan, '12:15 ', '12:30 ', '15 ', 'I ')",,SCH_SI_02_Page_085
+"('9-13-19 ', nan, '12:30 ', '12:40 ', '10 ', 'I ')",,SCH_SI_02_Page_085
+"('9-13-19 ', nan, '1:00 ', '1:15 ', '15 ', '/ ')",,SCH_SI_02_Page_085
+"('9-13-19 ', nan, '1:15 ', '1:30 ', '15 ', '\\ ')",,SCH_SI_02_Page_085
+"('9-13-19 ', nan, '1:30 ', '1:37 ', '7 ', '\\ ')",,SCH_SI_02_Page_085
+"('9-16-19 ', nan, '12:05 ', '12 :20 ', '15 ', '\\ ')",,SCH_SI_02_Page_085
+"('9-16-19 ', nan, '12 : 20 ', '12:35 ', '15 ', '\\ ')",,SCH_SI_02_Page_085
+"(""'--99 "", nan, '1:30 ', '1:45 ', '15 ', '/ ')",,SCH_SI_02_Page_085
+"('9-16-19 ', nan, '1:45 ', '2:00 ', '15 ', '/ ')",,SCH_SI_02_Page_085
+"('9-18-19 ', nan, '7:45 ', '8:00 ', '15 ', 'I ')",,SCH_SI_02_Page_085
+"('9-18-19 ', nan, '8:00 ', '8:15 ', '15 ', 'I ')",,SCH_SI_02_Page_085
+"('9-20-19 ', nan, '10:30 ', '10:45 ', '15 ', '1 ')",,SCH_SI_02_Page_085
+"('9-20-19 ', nan, '10:45 ', '11:00 ', '15 ', 'I ')",,SCH_SI_02_Page_085
+"('9-26-19 ', nan, '7:48 ', '7:59 ', 'Il min ', '1 ')",,SCH_SI_02_Page_085
+"('9-26-19 ', nan, '9:25 ', '9:40 ', '15 min ', 'I ')",,SCH_SI_02_Page_085
+"('9.26.19 ', nan, '9:40 ', '9:55 ', '15 min ', '/ ')",,SCH_SI_02_Page_085
+"('9-26-19 ', nan, '9:55 ', '10:10 ', '15 min ', '1 ')",,SCH_SI_02_Page_085
+"('9-26-19 ', nan, '10: 10 ', '10:25 ', '15 min ', '/ ')",,SCH_SI_02_Page_085
+"('9-26-19 ', nan, '10:25 ', '10:40 ', '15 min ', '/ ')",,SCH_SI_02_Page_085
+"('- 26-19 ', nan, '10:40 ', '10:55 ', '15 min ', '/ ')",,SCH_SI_02_Page_085
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_01_Page_149
+"('11/1 ', nan, '9:30 ', '9:45 ', '15 min ', '\\ ')",,SCH_SI_01_Page_149
+"('1111 ', nan, '1256 ', 'I: 11 ', '15 min ', '\\ ')",,SCH_SI_01_Page_149
+"('11/5 ', nan, '10:35 ', '10:45 ', '10 min ', '\\ ')",,SCH_SI_01_Page_149
+"('11/5 ', nan, '11:20 ', '11:30 ', '10 min ', ') ')",,SCH_SI_01_Page_149
+"('11/7 ', nan, '8:55 ', '9:10 ', '15 min ', '1 ')",,SCH_SI_01_Page_149
+"('11 7 ', nan, '9:10 ', '9:25 ', 'IS min ', '\\ ')",,SCH_SI_01_Page_149
+"('11/7 ', nan, '9:25 ', '9:30 ', '5 min ', '\\ ')",,SCH_SI_01_Page_149
+"('11/7 ', nan, '9:45 ', '9:55 ', '10 min ', 'I ')",,SCH_SI_01_Page_149
+"('11/7 ', nan, '12:50 ', '1:05 ', '15mm ', '/ ')",,SCH_SI_01_Page_149
+"('11/7 ', nan, '1:45 ', '2:00 ', '15 min ', '\\ ')",,SCH_SI_01_Page_149
+"('11/26 ', nan, '8:02 ', '8:55 ', '3min ', '\\ ')",,SCH_SI_01_Page_149
+"('11/26/26 ', nan, '10:34 ', '10:40 ', 'lemin ', 'I ')",,SCH_SI_01_Page_149
+"('11/27 ', nan, '10:15 ', ""10'30 "", '15 from ', '\\ ')",,SCH_SI_01_Page_149
+"('11/29 ', nan, '10:00 ', '10:05 ', '5 min ', 'I ')",,SCH_SI_01_Page_149
+"('11 /29 ', nan, '11:00 ', '11:05 ', '5 min ', '\\ ')",,SCH_SI_01_Page_149
+"('11/30 ', nan, '10:45 ', '10:50 ', '5 min ', '\\ ')",,SCH_SI_01_Page_149
+"('11/30 ', nan, '10:52 ', '11:00 ', '8 min ', 'I ')",,SCH_SI_01_Page_149
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_149
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_149
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_149
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_149
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_149
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_02_Page_119
+"('Tayles ', nan, '10:04 ', '10:19 ', '15 ', 'X / ')",,SCH_SI_02_Page_119
+"('188/21 ', nan, '10:19 ', '10:25 ', '6 ', 'X / ')",,SCH_SI_02_Page_119
+"('28/21 ', nan, '10:37 ', '10:51 ', '14 ', 'X / ')",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_119
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_098
+"('1911 ', nan, '1204 ', '10 10 ', '10"" is ', nan, nan, nan)",,SCH_SI_01_Page_098
+"('10/1 ', 'C ', '1.05 ', '1610 ', '5 ', nan, nan, nan)",,SCH_SI_01_Page_098
+"('10/3 ', nan, '9', '07 ', '9:10 ', '3 ', nan, nan)",,SCH_SI_01_Page_098
+"('10/3 ', nan, '920 ', '944 ', '24"" ', 'after removal of nickle from mouth ', nan, nan)",,SCH_SI_01_Page_098
+"('1015 ', nan, '10:40 ', '10:52 ', '12"" ', nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, '8:40 ', '8:55 ', '15"" ', nan, nan, nan)",,SCH_SI_01_Page_098
+"('10/25 ', nan, '10:05 ', '10:20 ', '15 ', nan, nan, nan)",,SCH_SI_01_Page_098
+"('/0125 ', nan, '11:30 ', '11:45 ', '15 ', nan, nan, nan)",,SCH_SI_01_Page_098
+"('10/26 ', nan, '1:20 ', '1:40 ', 'HI 20 ', nan, nan, nan)",,SCH_SI_01_Page_098
+"('10/12 ', nan, '1:45 ', '1:50 ', '5"" ', nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_098
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_02_Page_035
+"('9/9/19 ', nan, '11:03 ', '11:16 ', nan, nan, nan, nan)",,SCH_SI_02_Page_035
+"('2/1/19 ', nan, '2:46 ', '3:01 ', '15 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/10/19 ', nan, '8:47 ', '8:019 ', '2 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/10/19 ', nan, '10.39 ', '10:43 ', '4 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/10/19 ', nan, '11:15 ', '11:18 ', '3 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/10/19 ', nan, '12:12 ', '12:16 ', '4 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/12/19 ', nan, '935 ', '939 ', '4 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/12/19 ', nan, '1603 ', '1005 ', '2 ', 'minutes ', nan, nan)",,SCH_SI_02_Page_035
+"('9/13/19 ', nan, '1020 ', '1034 ', '14 min ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/13/19 ', nan, '1034 ', '1047 ', '13 minutes ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/16/19 ', nan, '10:46 ', '10:51 ', nan, nan, nan, nan)",,SCH_SI_02_Page_035
+"(nan, nan, nan, '9:42 ', nan, nan, nan, nan)",,SCH_SI_02_Page_035
+"('1/18/19 ', nan, '10:45 ', '105 ', '\\ ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/18/19 ', nan, '856 ', '858 ', '2 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/18/19 ', nan, '900 ', '903 ', '3 ', 'X ', nan, nan)",,SCH_SI_02_Page_035
+"('9/18/19 ', nan, '914 ', '917 ', '3 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/18/19 ', nan, 'G25 ', '926 ', 'I ', 'X ', nan, nan)",,SCH_SI_02_Page_035
+"('9/18/19 ', nan, 'G35 ', '943 ', '8 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/20/19 9/18/19 ', nan, '1004 ', '10 16 ', '12 ', nan, nan, nan)",,SCH_SI_02_Page_035
+"('9/20/19 9/18/14 ', nan, '1033 ', '1039 ', '6 ', 'X 1 ', nan, nan)",,SCH_SI_02_Page_035
+"('9/25/19 ', nan, '833 ', '840 ', '7 ', 'X - ', nan, nan)",,SCH_SI_02_Page_035
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_035
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_065
+"('6/7 ', nan, '9:05 ', '9:10 ', ""5min' "", 'X ', nan, nan)",,SCH_SI_01_Page_065
+"('6/7 ', nan, '9:26 ', '9:28 ', '2mir) ', 'X ', nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, 'X ', nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_065
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_02_Page_047
+"('216 ', nan, '1:08 ', '11:20 ', '12 ', '/ ')",,SCH_SI_02_Page_047
+"('2110 ', nan, '9:00 ', '9:20 ', '20 ', 'S 1 ')",,SCH_SI_02_Page_047
+"('2/10 ', nan, '9:30 ', '9:50 ', '20 ', 'I ')",,SCH_SI_02_Page_047
+"('2124 ', nan, '8:20 ', '8:40 ', '20 ', '/ ')",,SCH_SI_02_Page_047
+"('2/24 ', nan, '8.50 ', '9:10 ', '20 ', 'I ')",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_047
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_01_Page_028
+"('12/20 ', nan, '805 ', '816 ', '11 ', '1 0 ')",,SCH_SI_01_Page_028
+"('12/20 ', nan, '819 ', '829 ', 'to ', '1 O ')",,SCH_SI_01_Page_028
+"('12/20 ', nan, '837 ', '903 ', '26 checked ', '1 Che 0 not safe ')",,SCH_SI_01_Page_028
+"('12/20 ', nan, '907 ', '927 ', '20 ', '1 O ')",,SCH_SI_01_Page_028
+"('17/20 ', nan, '927 ', '947 ', '20 ', '1 0 ')",,SCH_SI_01_Page_028
+"('12/20 ', nan, '947 ', '957 ', '10 ', '1 0 ')",,SCH_SI_01_Page_028
+"('12/28 ', nan, '1200 ', '1205 ', '5 ', '1 0 ')",,SCH_SI_01_Page_028
+"('2/21 ', nan, '819 ', '825 ', '6 ', '1 / 0 ')",,SCH_SI_01_Page_028
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult interaction needed) ', 'Door Closed = 1 Door Open = 0 ')",,SCH_SI_02_Page_034
+"('9/17 ', nan, '127 ', '129 ', '2 ', 'I ', ') ')",,SCH_SI_02_Page_034
+"('9/17 ', nan, '134 ', '136 ', '2 ', '{ ', ') ')",,SCH_SI_02_Page_034
+"('9/20 ', nan, '1125 ', '1128 ', '3 ', '/ ', '1 ')",,SCH_SI_02_Page_034
+"('9120 ', nan, '1149 ', '11s2 ', '3 ', 'I ', '/ ')",,SCH_SI_02_Page_034
+"('ap 1130 ', nan, '1117 ', '2:31 ', 'I 4 ', 'I ', '/ ')",,SCH_SI_02_Page_034
+"('9/30 ', nan, '1so ', '151 ', 'I ', 'I ', '1 ')",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"(nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_034
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_01_Page_016
+"('1/10/19 ', nan, '1080 ', '1034 ', '4 ', '1 0 ')",,SCH_SI_01_Page_016
+"('1/10/19 ', nan, '1105 ', '11/14 ', '9 ', '1 0 ')",,SCH_SI_01_Page_016
+"('1/10/19) ', nan, '12 00 ', '1203 ', '3 ', '1 0 ')",,SCH_SI_01_Page_016
+"('1/12/19 ', nan, '15 ', '120 ', '5 ', '1 0 ')",,SCH_SI_01_Page_016
+"('1/10/19 ', nan, '130 ', '150 ', '20 ', 'If 0 ')",,SCH_SI_01_Page_016
+"('1/14/19 ', nan, '8 14 ', '8 30 ', '16 ', '1 0 ')",,SCH_SI_01_Page_016
+"('1/14/19 ', nan, '10 00 ', '1005 ', '5 ', '1 0 ')",,SCH_SI_01_Page_016
+"('1/14/18 ', nan, '1147 ', '1158 ', '1.1 ', '1 0 ')",,SCH_SI_01_Page_016
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_02_Page_046
+"('10/25 ', nan, '9:13 ', '9:27 ', '14 ', '1- 0 ')",,SCH_SI_02_Page_046
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_02_Page_046
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_02_Page_046
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_02_Page_046
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_02_Page_046
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_02_Page_046
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_02_Page_046
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_02_Page_046
+"('Date: ', 'Student ', 'Time In ', 'Time Out ', 'Total Time ', 'Purpose De-escalation=1 (needs adult interaction) Relaxation= 0 (no adult interaction needed) ')",,SCH_SI_01_Page_029
+"('12/21 ', nan, '933 ', '950 ', '17 ', '1 0 ')",,SCH_SI_01_Page_029
+"('12/21 ', nan, '10°5 ', '10 10 ', '5 ', '1 0 ')",,SCH_SI_01_Page_029
+"('12/21 ', nan, '11.00 ', '1115 ', '5 ', '1 0 ')",,SCH_SI_01_Page_029
+"('12/21 ', nan, '125 25 ', '1132 ', '7 ', '1 0 ')",,SCH_SI_01_Page_029
+"('12/21 ', nan, '1200 ', '1200 ', '10 ', '1 0 ')",,SCH_SI_01_Page_029
+"('12/4 ', nan, '1222 ', '1230 ', 'X 8 ', '1 0 ')",,SCH_SI_01_Page_029
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_01_Page_029
+"(nan, nan, nan, nan, nan, '1 0 ')",,SCH_SI_01_Page_029
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation = 0 (no adult Interaction needed) ')",,SCH_SI_02_Page_079
+"('10/8/19 ', 'nes ', '10:30 ', '10:45 ', '15 min ', 'I ')",,SCH_SI_02_Page_079
+"('10/8/19 ', nan, '10:45 ', '10:55 ', '10 min ', 'I ')",,SCH_SI_02_Page_079
+"('10/18/19 ', nan, '10:50 ', '11:05 ', '15 min ', 'I ')",,SCH_SI_02_Page_079
+"('10/18/19 ', nan, '11:05 ', '11:20 ', '15 min ', 'I ')",,SCH_SI_02_Page_079
+"('10/18/19 ', nan, '11:20 ', '11:25 ', '5 min ', 'I ')",,SCH_SI_02_Page_079
+"('3/29/19 ', nan, '2:05 ', '2 : 20 ', '15 ', '1 ')",,SCH_SI_02_Page_079
+"('0/29/19 ', nan, '2:20 ', '2:27 ', '7 ', '1 ')",,SCH_SI_02_Page_079
+"('1/30/19 ', nan, '10:05 ', '10:20 ', '15 ', '1 ')",,SCH_SI_02_Page_079
+"('10/30/19 ', nan, '10:20 ', '10:35 ', '15 ', 'I ')",,SCH_SI_02_Page_079
+"(nan, nan, '10:35 ', '1045 ', '10 toomin ', 'I ')",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_079
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs aduit Interaction) Relaxation = 0 (no adult interaction needed) ')",,SCH_SI_02_Page_127
+"('10-20-20 ', nan, '11:19 ', '11:34 ', '15 ', '/ ')",,SCH_SI_02_Page_127
+"('10-20-20 ', nan, '11:34 ', '11:41 ', '7 ', '/ ')",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_127
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult interaction) Relaxation =0 (no adult interaction needed) ')",,SCH_SI_02_Page_084
+"('9-11-19 ', nan, '9:50 ', '10:05 ', 'IS min ', 'I ')",,SCH_SI_02_Page_084
+"('9-11-19 ', nan, '10:05 ', '10:20 ', '15 min ', nan)",,SCH_SI_02_Page_084
+"('9-11-19 ', nan, '10:20 ', '10:35 ', '15 min ', 'I ')",,SCH_SI_02_Page_084
+"('9-11-19 ', nan, '10:35 ', '10:45 ', '10 min ', '\\ ')",,SCH_SI_02_Page_084
+"('9- -19-19 ', nan, '12:45 ', '1:00 ', '15 min ', 'I ')",,SCH_SI_02_Page_084
+"('9-19-19 ', nan, '1:00 ', '1:15 ', '15 min ', '( ')",,SCH_SI_02_Page_084
+"('9-19-19 ', nan, '1:15 ', '1:30 ', '15 min ', '1 ')",,SCH_SI_02_Page_084
+"('9-19-19 ', nan, '1:30 ', '1.45 ', '15 min ', '1 ')",,SCH_SI_02_Page_084
+"('9-19-19 ', nan, '1:45 ', '1:50 ', '5min ', '1 ')",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_02_Page_084
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation / with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_105
+"('9/7 ', nan, '1115 ', '1125 ', '10"" ', 'door closed ', nan, nan)",,SCH_SI_01_Page_105
+"('9/13 ', nan, '1:00 ', '1:15 ', '15 ', 'door closed ', nan, nan)",,SCH_SI_01_Page_105
+"('9/13 ', nan, '1.15 ', '1:30 ', '15 ', 'door closed ', nan, nan)",,SCH_SI_01_Page_105
+"('9/14 ', nan, '1145 ', '1153 ', '8"" ', 'door closed. ', nan, nan)",,SCH_SI_01_Page_105
+"('9/14 ', nan, '238 ', '303 ', '25 ', 'door closed ', nan, nan)",,SCH_SI_01_Page_105
+"('9/18 ', nan, '11.00 ', '11.05 ', '5 ', 'dear closed ', nan, nan)",,SCH_SI_01_Page_105
+"('9/19 ', nan, '1124 ', '1154 ', '30 ', 'door closed ', nan, nan)",,SCH_SI_01_Page_105
+"('9/19 ', nan, '12 ', '1223 ', '23 ', 'door closed ', nan, nan)",,SCH_SI_01_Page_105
+"('9/24 ', nan, '11.00 ', '11:15 ', '15 ', 'deor closed ', nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_105
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Please Check to Confirm: Room was used for De-escalation', ' with the door closed. (Break Room Use for relaxation/ with door open will be recorded separately', ' per student plans). ')",,SCH_SI_01_Page_099
+"('10/16 ', nan, '8:45 ', '8:50 ', '5 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('0/16 ', nan, '8:55 ', '9:00 ', '5 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/16 ', nan, '9:15 ', '9:30 ', '15 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/17 ', nan, '1:50 ', '9:15 ', '25 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/17 ', nan, '9:15 ', '9:45 ', '30 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/17 ', nan, '9:45 ', '9:55 ', '110 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/18 ', nan, '1:25 ', '1:55 ', '30 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/22 ', nan, '10:00 ', '10:15 ', '15 M ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/22 ', nan, '12:35 ', '1240 ', '10 5 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/22 ', nan, '1:51 ', nan, nan, 'Door open ', nan, nan)",,SCH_SI_01_Page_099
+"('10/22 ', nan, '2:06 ', '230 ', '24 ', 'Mom picked up - too ', nan, nan)",,SCH_SI_01_Page_099
+"('10/23 ', nan, 'Two ', nan, nan, 'unsafe for bus ', nan, nan)",,SCH_SI_01_Page_099
+"('10/29 ', nan, '1145 ', '1150 ', '5"" ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/29 ', nan, '1201 ', '1206 ', '5"" ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/29 ', nan, '155 ', '215 ', '20 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"('10/30 ', nan, '10:36 ', '10:42 ', '6 ', nan, nan, nan)",,SCH_SI_01_Page_099
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_099
+"('th ', nan, '10:58 ', nan, nan, nan, nan, nan)",,SCH_SI_01_Page_099
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_099
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_099
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_099
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_099
+"(nan, nan, nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_099
+"('Date ', 'Staff ', 'Time IN ', 'Time OUT ', 'Total Time ', 'Purpose De-escalation = 1 (needs adult Interaction) Relaxation = 0 (no adult Interaction needed) ')",,SCH_SI_01_Page_148
+"('12/11 ', nan, '8:28 ', '9:451 ', '15 min ', '\\ ')",,SCH_SI_01_Page_148
+"('12/11 ', nan, '10:00 ', '10:08 ', '8 min ', '\\ ')",,SCH_SI_01_Page_148
+"('12/12 ', nan, '10:00 ', '10:15 ', '15 ', '\\ ')",,SCH_SI_01_Page_148
+"('12/12 ', nan, '10:15 ', '10:30 ', '15 ', '} ')",,SCH_SI_01_Page_148
+"('12/12 ', nan, '10:30 ', '10:35 ', '5 ', '1 ')",,SCH_SI_01_Page_148
+"('12/20 ', nan, '8:30 ', '8:40 ', '10 ', '\\ ')",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148
+"(nan, nan, nan, nan, nan, nan)",,SCH_SI_01_Page_148

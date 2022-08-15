@@ -1,0 +1,25 @@
+Table: Table_1
+
+Date ,Student Name ,,Time entered room ,Time exited room ,Total length of time* ,Supervised by: ,(T) Jeacher (S)tudent directed ,Complia nce with BIP ,Imminent risk of harm to (S)elf (0) thers ,Antecedent (S) Delf-regulation (A) cademic frustration (P) eer Issues (G) uided break ,
+10/17 ,,,945 ,955 ,10 ,,T ,X ,0 ,S ,
+10417 ,,,10 040 ,1055 ,15 ,,T ,X J ,0 ,S ,
+10/17 ,,,1055 ,1105 ,10 ,,T ,X ,0 ,S ,
+10/17 ,,,1:30 ,145 ,15 ,,T ,X ,0 ,5 ,
+10/18 ,,,11:00 ,1125 ,15 ,,T ,X ,0 ,S ,
+10/18 ,,,1135 ,1150 ,15 ,,T ,X ,0 ,S ,
+10/18 ,,,1150 ,1205 ,15 ,,T ,X ,,S ,
+918 ,,,1205 ,1220 ,15 ,,T ,X ,g ,S ,
+10/18 ,,,1245 ,155 ,10 ,,T ,X ,n ,S ,
+1019 ,,,1255 ,10 ,15 ,,T ,X ,0 ,S ,
+0/18 ,,,110 ,125 ,15 ,,T ,X ,O ,S ,
+10/18 ,,,125 ,140 ,15 ,,I ,X ,,S ,
+0/18 ,,,150 ,210 ,20 ,,T ,X ,@ ,S ,
+0/22 ,,,1240 ,1255 ,15 ,,,X ,0 ,S ,
+,,,,,,,,,,,
+0/22 ,,,1255 ,110 ,15 ,,T ,X ,D ,S ,
+10/27 ,,,110 ,II ,7 ,,T ,X ,D ,S ,
+
+
+
+
+

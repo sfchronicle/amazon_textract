@@ -9,6 +9,13 @@ configparser = "*"
 pandas = "*"
 camelot-py = {extras = ["cv"], version = "*"}
 climage = "*"
+tabulate = "*"
+trp = "*"
+textract-trp = "*"
+amazon-textract-helper = "*"
+amazon-textract-caller = "*"
+amazon-textract-prettyprinter = "*"
+amazon-textract-overlayer = "*"
 
 [dev-packages]
 ipykernel = "*"

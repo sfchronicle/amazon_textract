@@ -1,0 +1,785 @@
+,,,,,,,,Table: Table_1,id
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_022
+,113 ,8:15 ,8.45 ,IS ,SI ,,,,MON2_SI_01_table_Page_022
+,26 ,1.50 ,11 : 58 ,IS ,SI ,,Ate lunch ,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+,,,,,,,,,MON2_SI_01_table_Page_022
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_040
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_040
+4/18 ,,12:30 ,12:50 ,X ,,unsetted after ,Ps ,,MON2_SI_01_table_Page_040
+1/18 ,,1:00 ,1:22 ,X ,,went to support area see ,notes ,,MON2_SI_01_table_Page_040
+1/13 ,,12:30 ,1240 ,X ,,adoltrooa unsettled in PE - see - notes ,,,MON2_SI_01_table_Page_040
+?/14 ,,,,,,ISS due Wetoday) to ,,,MON2_SI_01_table_Page_040
+,,,,,,,,,MON2_SI_01_table_Page_040
+,,,,,,,,,MON2_SI_01_table_Page_040
+,,,,,,,,,MON2_SI_01_table_Page_040
+,,,,,,,,,MON2_SI_01_table_Page_040
+,,,,,,,,,MON2_SI_01_table_Page_040
+,,,,,,,,,MON2_SI_01_table_Page_040
+,25 ,,,,,,,,MON2_SI_01_table_Page_040
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_050
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_050
+2/13 ,,8:26- 8:30 ,X X ,,,Asked to go for a walk ,,,MON2_SI_01_table_Page_050
+1/14 ,,9:56- 9:58 ,X X ,,,Asked for a break ,,,MON2_SI_01_table_Page_050
+/14 ,,11:44- 11:48 ,X X ,,,Asked for a walk ,,,MON2_SI_01_table_Page_050
+14 ,,11:20 - 11.23 ,X x ,,,Asked for a break ,,,MON2_SI_01_table_Page_050
+15 ,,8- 9:30 ,,,,got off bus upset and asked to go to support area for morning work ,X X ,,MON2_SI_01_table_Page_050
+is ,,9:45- 9:50 ,X x ,,,As ked to go for a break ,,,MON2_SI_01_table_Page_050
+1/15 ,,10.05 - 10:12 ,X X ,,,Asked to go for a walk ,,,MON2_SI_01_table_Page_050
+/15 ,,10:45- 10:50 ,X X ,,,Asked to go f or a break ,,,MON2_SI_01_table_Page_050
+/ 15 ,,11:00 - 11:03 ,X X ,,,Asked for a break ,,,MON2_SI_01_table_Page_050
+,,11:10 11 17 ,X Y ,,,wain ,,,MON2_SI_01_table_Page_050
+,,,,,,,,,MON2_SI_01_table_Page_050
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_004
+,9/16/16 ,12:45 ,1:00 ,VE ,AD ,,,,MON2_SI_01_table_Page_004
+,10/13/16 ,12:30 ,12:45 ,VE ,AD ,,,,MON2_SI_01_table_Page_004
+,10/25/16 ,12:45 ,1:00 ,PE ,AD ,,,,MON2_SI_01_table_Page_004
+,10/28/16 ,10:00 ,1020 ,PE ,AD ,,,,MON2_SI_01_table_Page_004
+,11/7/16 ,12:40 ,12:50 ,VE ,AD ,,,,MON2_SI_01_table_Page_004
+,11/8/16 ,12:45 ,1.00 ,VE ,AD ,,,,MON2_SI_01_table_Page_004
+,11/9/16 ,12.45 ,1:00 ,VE ,AD ,,,,MON2_SI_01_table_Page_004
+,12/21/16 ,12:15 ,12:25 ,VE ,AD ,,,,MON2_SI_01_table_Page_004
+,1/27/17 ,10.15 ,10.20 ,VE ,S1 ,,,,MON2_SI_01_table_Page_004
+,2/10/11 ,8:30 ,8:40 ,VEIPE ,SI ,,,,MON2_SI_01_table_Page_004
+,2/13/12 ,10:45 ,10.55 ,VE IPE ,51 ,,,,MON2_SI_01_table_Page_004
+,3/22/17 ,10:30 ,11.00 ,F ,AD ,,,,MON2_SI_01_table_Page_004
+,3/29/17 ,9:30 ,9 45 ,VEIPE ,SI ,,,,MON2_SI_01_table_Page_004
+,3/30/17 ,900 ,CID ,* E ,SI ,,,,MON2_SI_01_table_Page_004
+,4/23/03 ,9.00 ,9.15 ,VE 1 DE ,S ,,,,MON2_SI_01_table_Page_004
+,5/1/17 ,12:15 ,12:30 ,VE 1 PE ,SI ,,,,MON2_SI_01_table_Page_004
+,5/3/17 ,9:00 ,9:20 ,PE ,AP ,,,,MON2_SI_01_table_Page_004
+Date ,,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,,MON2_SI_01_table_Page_059
+,,,,student initiated ,adult initiated ,permission ,reason ,,MON2_SI_01_table_Page_059
+,,,,,,,,,MON2_SI_01_table_Page_059
+3/20 ,,,9:30 ,920 ,X X ,,,,MON2_SI_01_table_Page_059
+3/23 ,,,8:30 ,X X ,,,walk ,,MON2_SI_01_table_Page_059
+3/23 ,,,9:00 ,93- ,X X ,,walk ,,MON2_SI_01_table_Page_059
+,,,,,,,,,MON2_SI_01_table_Page_059
+,,,,,,,,,MON2_SI_01_table_Page_059
+,,,,,,,,,MON2_SI_01_table_Page_059
+,,,,,,,,,MON2_SI_01_table_Page_059
+,,,,,,,,,MON2_SI_01_table_Page_059
+,,,,,,,,,MON2_SI_01_table_Page_059
+,,,,,,,,,MON2_SI_01_table_Page_059
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_049
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_049
+1/29 ,,8:10 ,X X ,X ,X ,,X - ,,MON2_SI_01_table_Page_049
+ARD ,,11:10 ,X X ,X ,X ,X ,X ,,MON2_SI_01_table_Page_049
+1/30 ,,12:40- 12:44 ,X X ,,,asked to go for a break ,,,MON2_SI_01_table_Page_049
+2/1 ,,9:55- 90:59 ,X X ,X / ,X ,asked fer a walk ,X ,,MON2_SI_01_table_Page_049
+2/7 ,,8:25 ,X y ,X / ,- ,ualk ,X ,,MON2_SI_01_table_Page_049
+2/9 ,,9:15- 9:20 ,X X ,,,Asked to go on a break ,,,MON2_SI_01_table_Page_049
+2/12 ,,8:15- 8:20 ,X X ,,,stated he was in- medicated and needed a walk ,,,MON2_SI_01_table_Page_049
+2/12 ,,8.22- 8:40 ,X X ,,,Asked to eat breakfast out of the room ,X X ,,MON2_SI_01_table_Page_049
+2/12 ,,9.20 - 9:26 ,X X ,,,Asked for a walk ,,,MON2_SI_01_table_Page_049
+2/12 ,,11:13- 11:30 ,X X ,,,Asked for a walk and turned into going to support ,X X area to ,,MON2_SI_01_table_Page_049
+2/12 ,,12:45- endof ,,,,Wallves at of Ckss and was upset that ,X X ,,MON2_SI_01_table_Page_049
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_082
+,1/21/20 ,1:00 ,1:05 ,PE ,SI ,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+,,,,,,,,,MON2_SI_01_table_Page_082
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Studeut Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,4/25/18 ,1.02 ,i: 20 ,PE ,AD ,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+,,,,,,,,,MON2_SI_01_table_Page_092
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_077
+,5/20/17 ,8:15 ,1:00 ,IS ,Student ,,walked into colmoor ,,MON2_SI_01_table_Page_077
+,5/17/17 ,8:15 ,12:30 ,IS ,student ,,,,MON2_SI_01_table_Page_077
+,4/26/17 ,8:05 ,12:45 ,IS ,student ,,,,MON2_SI_01_table_Page_077
+,4/13/01 ,8:00 ,11:15 ,IS ,student ,,,,MON2_SI_01_table_Page_077
+,4/4/17 ,8-00 ,11.15 ,IS ,student ,,,,MON2_SI_01_table_Page_077
+,3/28/5 ,9:00 ,10:30 ,IS ,Student ,,,,MON2_SI_01_table_Page_077
+,,10:30 ,2:15 ,IS ,student ,,,,MON2_SI_01_table_Page_077
+,3/1/12 ,10:30 ,11:00 ,IS ,Student ,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+,,,,,,,,,MON2_SI_01_table_Page_077
+Student $ ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_005
+,9/21/16 ,15 ,1.45 ,PE ,AD ,,,,MON2_SI_01_table_Page_005
+,11/7/16 ,11.30 ,12:00 ,PE ,AD ,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+,,,,,,,,,MON2_SI_01_table_Page_005
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Aduli Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_083
+,6/4 ,2:00 ,2:20 ,PE ,AD ,,threatening sta ft and self ,,MON2_SI_01_table_Page_083
+,6111 ,10:15 ,10:25 ,VE ISC ,SI ,,disresposition to staff. ,,MON2_SI_01_table_Page_083
+,6111 ,2:00 ,3:45 ,VE ,SI ,,inable to self-regulare ,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+,,,,,,,,,MON2_SI_01_table_Page_083
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_051
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_051
+1/30 ,,10:35- 10:40 ,,X ,,ras hyper before science was asked to take break ,went ,,MON2_SI_01_table_Page_051
+1/31 ,,10:30 ,,,,ISS complete day ,,,MON2_SI_01_table_Page_051
+2/5 ,,8-9:30 ,,,,start morning out of class ,X X ,,MON2_SI_01_table_Page_051
+2/5 ,,10:30- ID:36 ,X ,,,Asked to go on OT break. ,,,MON2_SI_01_table_Page_051
+2/5 ,,105 - 1:10 ,,X ,,was starting to be hyper + distract classmates was asked if he wanted a break ,,,MON2_SI_01_table_Page_051
+2/6 ,,8:00- 8:25 ,,,,starting morning out of class ,X X ,,MON2_SI_01_table_Page_051
+2/7 ,,8:00 - 8:30 ,,,,morning but Class of starting ,X X ,,MON2_SI_01_table_Page_051
+2/7 ,,11:40- 11:45 ,X I ,,,asked to go for or break ,,,MON2_SI_01_table_Page_051
+2/14 ,,8- 8:45 ,,,,out of Startingnclass ,X X ,,MON2_SI_01_table_Page_051
+2/14 ,,10: 18 - - 10:24 ,X J ,,,Asked to go for a walk/break ,,,MON2_SI_01_table_Page_051
+2/15 ,X ,8- 9:21 ,,,,started morning out of class ,X X ,,MON2_SI_01_table_Page_051
+Date ,,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,,MON2_SI_01_table_Page_041
+,,,,student initiated ,adult initiated ,permission ,reason ,,MON2_SI_01_table_Page_041
+,,,,,,,,,MON2_SI_01_table_Page_041
+/25 ,,,9:00 915 ,X V ,,,stayed in classroom ,,MON2_SI_01_table_Page_041
+130 ,,,9:00 930 ,,X ,,walk to settle ,,MON2_SI_01_table_Page_041
+11 ,,,10:00 ,X ,,,walk hall to settle ,,MON2_SI_01_table_Page_041
+8 ,,,0520 9:40 950 ,X V ,,,took walk to settle ,,MON2_SI_01_table_Page_041
+8 ,,,,,,,,,MON2_SI_01_table_Page_041
+/13 ,,,9:00 910 ,X ,,,extra energy ,,MON2_SI_01_table_Page_041
+14 ,,,900842 ,,X ,,case ,,MON2_SI_01_table_Page_041
+d ,,,060 1144 ,,X ,,,,MON2_SI_01_table_Page_041
+15 ,,,9:45 ,1000 ,X V ,,fogety / walled ,,MON2_SI_01_table_Page_041
+,,,,,,,,,MON2_SI_01_table_Page_041
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_007
+,11/20 ,10:45 ,2.30 ,IS ,SI ,,Refused tiscome to 512453 xikes 2x ,,MON2_SI_01_table_Page_007
+,,,,,,,,,MON2_SI_01_table_Page_007
+,,,,,,,,,MON2_SI_01_table_Page_007
+,,,,,,,,,MON2_SI_01_table_Page_007
+,,,,,,,,,MON2_SI_01_table_Page_007
+,1/12/17 ,8:30 ,9:00 ,IS ,SI ,,came infram bus Sal in affected ,,MON2_SI_01_table_Page_007
+,,,,,,,main ,,MON2_SI_01_table_Page_007
+,1/24/17 ,12:05pm ,1:30 ,IS ,SI ,,Walked oyn of roum Angry didn't ,,MON2_SI_01_table_Page_007
+,,,,,,r ,,,MON2_SI_01_table_Page_007
+,1/25/17 ,10:35 ,10:50 ,IS ,SI ,,Anury @@ Start ,,MON2_SI_01_table_Page_007
+,8/4/17 ,8:45 ,1:30 ,IS ,S.I ,,avoiding Accienus ,,MON2_SI_01_table_Page_007
+,,,,,,,,,MON2_SI_01_table_Page_007
+,4/15 ,10:50 ,225 ,IS ,SI ,,Slept unti I bus ,,MON2_SI_01_table_Page_007
+,4/16 ,8:00 ,8:20 ,CS ,SL ,,came inform bus. ,,MON2_SI_01_table_Page_007
+,1/30 ,8:00 ,1:30 ,IS ,SI ,,judent wentinto to room ,,MON2_SI_01_table_Page_007
+,,,,,,,and hid. He wasn't ,,MON2_SI_01_table_Page_007
+,,,,,,,approximately I ,,MON2_SI_01_table_Page_007
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_017
+,11/7/110 ,10:30 ,10:50 ,PE ,AD ,,,,MON2_SI_01_table_Page_017
+,12/12/16 ,11:30 ,12:00 ,PE ,AD ,,,,MON2_SI_01_table_Page_017
+,i/10/17 ,12:45 ,1:00 ,is ,SI ,,,,MON2_SI_01_table_Page_017
+,2/2/17 ,12:40 ,12.50 ,is VE ,81 ,,,,MON2_SI_01_table_Page_017
+,3/2/17 ,8.45 ,9-15 ,VE 1 PE ,AD ,,,,MON2_SI_01_table_Page_017
+,4/11/17 ,10:00 ,11:15 ,PE ,81 ,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+,,,,,,,,,MON2_SI_01_table_Page_017
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_091
+,3-7-18 ,9:15 ,9:18 ,,SI ,,n break went up & ,,MON2_SI_01_table_Page_091
+,3-18 ,145 ,1:55 ,,AD ,,Not being safe ,,MON2_SI_01_table_Page_091
+,16-18 ,2:05 ,2:25 ,,AP ,,Not being.safe ,,MON2_SI_01_table_Page_091
+,3-1$ ,2:10 ,2:25 ,refers ,AD ,,Throwing stjects pushing ,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+,,,,,,,,,MON2_SI_01_table_Page_091
+Date ,Student ,,Time ,Break ,,Left w/o ,Directed to leave room ,,MON2_SI_01_table_Page_043
+,,,,student initiated ,adult initiated ,permission ,reason ,,MON2_SI_01_table_Page_043
+1/3 ,,,1030 ,1040 ,X ,,unsafe ,,MON2_SI_01_table_Page_043
+1/3 ,,,11:20 ,1150 ,X X ,,unsetted ,,MON2_SI_01_table_Page_043
+1/22 ,,,2:30 ,280 ,X X ,,took about ,,MON2_SI_01_table_Page_043
+1/23 ,,,10:00 ,10 130 to ,,,walk ,,MON2_SI_01_table_Page_043
+1/23 ,,,11:00 ,1115 ,X X ,,unsitted ,,MON2_SI_01_table_Page_043
+1/23 ,,,100 ,125 ,X X ,,asked to take ,,MON2_SI_01_table_Page_043
+1/24 ,,,12:00 ,1215 ,X ,,unsafe ,,MON2_SI_01_table_Page_043
+1/30 ,,,2:45- ,250 ,X ,,unsettled ,,MON2_SI_01_table_Page_043
+2/8 ,,,2:30 ,28 ,X X ,,unsellled ,,MON2_SI_01_table_Page_043
+2/27 ,,,8:30 ,842 ,X X ,,unsettled ,,MON2_SI_01_table_Page_043
+3/1 ,,,12:00 ,123 ,X X ,,unsate ,,MON2_SI_01_table_Page_043
+Date ,,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,,MON2_SI_01_table_Page_053
+,,,,student initlated ,adult initiated ,permission ,reason ,,MON2_SI_01_table_Page_053
+2/16 ,,,9:15- 9:20 ,,X X ,,Asked peter if he wanted a break before art. ,,MON2_SI_01_table_Page_053
+2/26 ,,,8:00- $1:11 ,,,,Started morning out of class fell asseep ,,MON2_SI_01_table_Page_053
+127 25 ,,,8:00- 8:30 ,,,,started morning out of class ,,MON2_SI_01_table_Page_053
+137 is ,,,10:24 - 10:30 ,X X ,,,Asked to go for a break ,,MON2_SI_01_table_Page_053
+/27 ,,,11:18- 11:24 ,X X ,,,Asked to go for a break ,,MON2_SI_01_table_Page_053
+3/1 ,,,11:24- 11:33 ,X X ,,,Asked to go on a break -hyper and disruptive ,,MON2_SI_01_table_Page_053
+3/5 ,,,8- 8:34 ,K ,,,started morning out of class. ,,MON2_SI_01_table_Page_053
+3/5 ,,,2:30 ,,X ,,agitated ,,MON2_SI_01_table_Page_053
+3/6 ,,,10:00 ,,X X ,,unsetted ,,MON2_SI_01_table_Page_053
+3 9 ,,,1:00 ,,X X ,,unsetted ,,MON2_SI_01_table_Page_053
+3/13 50 ,,,10:00 ,X x ,,,Walk ,,MON2_SI_01_table_Page_053
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_088
+,11218 ,I.S ,1.25 ,VE / PE ,Adut directed ,,art alteration in PE ,,MON2_SI_01_table_Page_088
+,12/14 ,1:45 ,1.52 ,VE/PE ,Student ,Initiated ,,,MON2_SI_01_table_Page_088
+,1/12/18 ,1:30 ,1:40 ,PS/S6 ,Adult directed ,,Negative pour Icenak ,,MON2_SI_01_table_Page_088
+,,,,,,,issepting ,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+,,,,,,,,,MON2_SI_01_table_Page_088
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_021
+,121 ,130 ,GLIO ,VI ,01 ,,,,MON2_SI_01_table_Page_021
+,9/21 ,12:34 ,12.36 ,VE ,ST ,,,,MON2_SI_01_table_Page_021
+,9/21 ,12:37 ,12:57 ,VE ,SI ,,,,MON2_SI_01_table_Page_021
+,9/27 ,,11.22 ,IS ,SI ,,,,MON2_SI_01_table_Page_021
+,1444 ,IIII ,,,it ,,,,MON2_SI_01_table_Page_021
+,9159 ,9.20 ,9.20 ,is ,Si ,,,,MON2_SI_01_table_Page_021
+,9Dr ,9.40 ,9.45 ,15 ,01 ,,,,MON2_SI_01_table_Page_021
+,1013 ,855 ,9.00 ,15 ,AS ,,,,MON2_SI_01_table_Page_021
+,10/4 ,8:15) ,8-12 ,Is ,S.I ,,,,MON2_SI_01_table_Page_021
+,10/4 ,845 ,a ,is ,EAD ,,,,MON2_SI_01_table_Page_021
+,,,,,,,,,MON2_SI_01_table_Page_021
+,,,,,,,,,MON2_SI_01_table_Page_021
+,,,,,,,,,MON2_SI_01_table_Page_021
+,,,,,,,,,MON2_SI_01_table_Page_021
+,,,,,,,,,MON2_SI_01_table_Page_021
+,,,,,,,,,MON2_SI_01_table_Page_021
+,,,,,,,,,MON2_SI_01_table_Page_021
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_052
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_052
+11/8 ,,,X ,,,,,,MON2_SI_01_table_Page_052
+10/25 ,,9:00 - 10 00 ,,X V ,,staff asked to take break ,,,MON2_SI_01_table_Page_052
+11/20 ,,11:30 ,140 ,X ,,asked to take Break ,,,MON2_SI_01_table_Page_052
+12/11 ,,1:15- 1.30 ,,X ,,Disruptive and loud during read gloud. ,,,MON2_SI_01_table_Page_052
+1/29 ,,8-8:40 ,,,,starting morning out of class ,,,MON2_SI_01_table_Page_052
+1/29 ,,9.20- 9:30 ,X V ,,,asked for a brrak to get drink and do or break throw weighted ball ,,,MON2_SI_01_table_Page_052
+1/29 ,,10-10:07 ,X ,,,Asked for OT break ,,,MON2_SI_01_table_Page_052
+1/29 ,,10:15- end of day ,,,X ,walked out of cuss after situation W/ batterly sat in restibue until moved to support area ,,,MON2_SI_01_table_Page_052
+1/29 ,,1:40 - - end of day ,,,,Put self into support room and Shut door ,,,MON2_SI_01_table_Page_052
+1/30 ,,8:15- 9:08 ,,,,Starting morning out of classroom ,,,MON2_SI_01_table_Page_052
+1/30 ,,10:06- 10:15 ,,X ,,could see peter was getting hyper said lets go and we went ,,,MON2_SI_01_table_Page_052
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_042
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_042
+11/27 ,,,,X ,,,,,MON2_SI_01_table_Page_042
+12/1 ,,8:30 ,840 ,X X ,,esculated ,,,MON2_SI_01_table_Page_042
+12/4 ,,11:00 ,1520 ,X ,,very agrated ,,,MON2_SI_01_table_Page_042
+12/4 ,,11:30 ,1151 ,X ,,remained esculated ,,,MON2_SI_01_table_Page_042
+12/7 ,,8:30 ,852 ,X X ,,agitated ,,,MON2_SI_01_table_Page_042
+12/7 ,,12:00 ,12 10 ,X X ,,unsafe ,,,MON2_SI_01_table_Page_042
+12/7 ,,1:00 ,1 30 ,X ,,unsettled ,,,MON2_SI_01_table_Page_042
+12/12 ,,9:00 ,915 ,X ,,a gitated ,,,MON2_SI_01_table_Page_042
+12/13 ,,10:00 ,10 30 ,X X ,,unsettled ,,,MON2_SI_01_table_Page_042
+12/21 ,,11:00 ,11 20 ,X X ,,,staff ,,MON2_SI_01_table_Page_042
+1/3 ,,12:00 ,1230 ,X X ,,treating uns are ,,,MON2_SI_01_table_Page_042
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,5/18 ,1:05 ,1:20 ,PE ,AD ,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+,,,,,,,,,MON2_SI_01_table_Page_030
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_020
+,20 ,2.15 ,2:22 ,VE ,SI ,,,,MON2_SI_01_table_Page_020
+,9121 ,955 ,10 ,10 ,01 ,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+,,,,,,,,,MON2_SI_01_table_Page_020
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_089
+,1-3-18 ,9.42 ,946 ,PE ,Student ,,tuctent needed to ,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,1-16-B ,1:35 ,2.00 ,FE SC ,Ain it ,,Huntring to tight ,,MON2_SI_01_table_Page_089
+,1-25 ,9:30 ,9:50 ,PE P.S ,Student ,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+,,,,,,,,,MON2_SI_01_table_Page_089
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_029
+,3-7-18 ,9:15 ,9.18 ,,SI ,,On break went in d ,,MON2_SI_01_table_Page_029
+,3-6-18 ,145 ,1:55 ,,AD ,,Not being safe ,,MON2_SI_01_table_Page_029
+,3-6-18 ,2:05 ,2:25 ,,AP ,,Not being safe ,,MON2_SI_01_table_Page_029
+,3-23-18 ,2:10 ,2:25 ,VEPEPS ,AD ,,Throwing onjects pushing ,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+,,,,,,,,,MON2_SI_01_table_Page_029
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_085
+,9/8 ,1:30 pr ,,Sc ,Stude ,,stu gradbuty 1.4. ,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+,,,,,,,,,MON2_SI_01_table_Page_085
+Student ,Date ,Time In ,Time Out ,Antecedent ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_095
+,4% ,,15 ,P ,A ,1 ,,,MON2_SI_01_table_Page_095
+,9/12 ,2:00 ,2:20 ,SC ,SI ,,,,MON2_SI_01_table_Page_095
+,1/19 ,9:00 ,9:15 ,SC ,SI ,,,,MON2_SI_01_table_Page_095
+,9/24 ,8:50 ,8:55 ,PE ,SI ,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+,,,,,,,,,MON2_SI_01_table_Page_095
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_126
+,10/16/17 ,1050 ,1110 ,PE ,AD ,,was trying to fight a ,,MON2_SI_01_table_Page_126
+,10/16/17 ,11:16 ,1145 ,PS ,ADult ,,,,MON2_SI_01_table_Page_126
+,90/14 ,1:38 ,1:38 ,PE SC ,,,elopement ,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,10/24 ,11:45 ,11:54 ,,,,,,MON2_SI_01_table_Page_126
+,10/24 ,11:55 ,,PE ,adult ,x ,am ,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+,,,,,,,,,MON2_SI_01_table_Page_126
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_061
+,,,student initiated ,aduit initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_061
+5/21 ,X ,,,,,,,,MON2_SI_01_table_Page_061
+5/21 ,,9:00 ,900 ,X ,,needed walk ,,,MON2_SI_01_table_Page_061
+5/22 ,,9.45. ,so ,X ,,a bit unselted ,,,MON2_SI_01_table_Page_061
+5/23 ,,9:00 ,1030 ,X ,,took break ,,,MON2_SI_01_table_Page_061
+5/23 ,,100 ,20 ,X ,,walk ,,,MON2_SI_01_table_Page_061
+5/24 ,,9:25 ,930 ,X ,,walk ,,,MON2_SI_01_table_Page_061
+5/24 ,,10:00 ,1000 ,X ,,walk ,,,MON2_SI_01_table_Page_061
+5/29 ,,9:00 ,10/10 ,X ,,walk ,,,MON2_SI_01_table_Page_061
+5/29 ,,10:30 ,issult ,X ,,walk/astad ,,,MON2_SI_01_table_Page_061
+6/12 ,,10:00 ,1100 ,X ,,Walk ,,,MON2_SI_01_table_Page_061
+6/13 ,5 ,10:00 ,113. ,X ,,walk ,,,MON2_SI_01_table_Page_061
+Student ,Date 11/30 ,Time In 1115 ,Time Out 1:35 ,Antecedent* PE ,Adult Directed/Student ,,Staff Memben ,,MON2_SI_01_table_Page_109
+,11/36 ,1:50 ,2:36 ,SC,PSFOVE ,Adult ,,,MON2_SI_01_table_Page_109
+,1211 ,9:54 ,10:07 ,,,A ,,,MON2_SI_01_table_Page_109
+/ ,12-1 ,11:07 ,11:2 ,PEiSCipS ,Adult ,,,,MON2_SI_01_table_Page_109
+,2-1 ,1:28 ,1:33 ,PENVE, ,Adult ,,,MON2_SI_01_table_Page_109
+) ,12-3 ,8:28 ,8 34 ,PE,VE,50 ,Adult ,,MON2_SI_01_table_Page_109
+A ,12-3 ,10:15 ,10-18 ,PE,PSVE ,Adult ,,,MON2_SI_01_table_Page_109
+,1033 ,10:30 ,10:36 ,65I ,Ad-11 ,,,,MON2_SI_01_table_Page_109
+,1213 ,12:01 ,12-06 ,PF PS ,Adult ,A ,,,MON2_SI_01_table_Page_109
+,3 ,1:40 ,12240 ,BS ,Student ,,,,MON2_SI_01_table_Page_109
+,12-03 ,1262 ,12:46 ,DP ,student ,,,,MON2_SI_01_table_Page_109
+,1299 ,1:42 ,2:30 ,DISS,F ,Student ,,,MON2_SI_01_table_Page_109
+,127220 ,11:35 ,11.40 ,VE,PE PS ,student ALUPH ,,,MON2_SI_01_table_Page_109
+,12/17 ,1:37 ,1:41 ,PE.SC ,Adult ,,,,MON2_SI_01_table_Page_109
+,12/8 ,10:53 ,11:00 ,DP, ,student ,,,MON2_SI_01_table_Page_109
+,,,,,,,,,MON2_SI_01_table_Page_109
+,,,,,,,,,MON2_SI_01_table_Page_109
+,,,,,,,,,MON2_SI_01_table_Page_109
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_047
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_047
+,,tat ,,,,,,,MON2_SI_01_table_Page_047
+9/28 ,,2:00pm ,2 cc ,X X ,,transiesroom ,X X ,,MON2_SI_01_table_Page_047
+,,,,,,,,,MON2_SI_01_table_Page_047
+,,,,,,,,,MON2_SI_01_table_Page_047
+,,,,,,,,,MON2_SI_01_table_Page_047
+,,,,,,,,,MON2_SI_01_table_Page_047
+,,,,,,,,,MON2_SI_01_table_Page_047
+,,,,,,,,,MON2_SI_01_table_Page_047
+,,,,,,,,,MON2_SI_01_table_Page_047
+,,,,,,,,,MON2_SI_01_table_Page_047
+,X ,,,,,,,,MON2_SI_01_table_Page_047
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_025
+,1-6-17 ,855 ,9.08 ,PESC ,Student ,,kicking walls ,,MON2_SI_01_table_Page_025
+,11-1-17 ,8:28 ,8:40 ,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+,,,,,,,,,MON2_SI_01_table_Page_025
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_056
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_056
+11/9 ,,19:40-90 ,,TIS ,,Break/Getting lowdy ,,,MON2_SI_01_table_Page_056
+11/9 ,,10:50 ,X 11/00 ,,,Needed 9 walk ,,,MON2_SI_01_table_Page_056
+11/9 ,,11:27 ,X 1152 I ,,,3 91K ,,,MON2_SI_01_table_Page_056
+11/9 ,,11:45 ,X 11/80/ ,,,walk/Drink ,,,MON2_SI_01_table_Page_056
+11/15 ,,9:45 ,10 00 ,X ,,walk ,,,MON2_SI_01_table_Page_056
+1/16 ,Absent ,,,,,,,,MON2_SI_01_table_Page_056
+1/17 ,,9:00 9 3° ,,X V ,,walk ,,,MON2_SI_01_table_Page_056
+1/17 ,(no meds) student veported ,9:45 ,10 00 ,X V ,,walk ,,,MON2_SI_01_table_Page_056
+1/17 ,,10:15 ,1036 ,X V ,,walk ,,,MON2_SI_01_table_Page_056
+1/20 ,,9:0090s ,,X ,,walk ,,,MON2_SI_01_table_Page_056
+11/20 ,X ,9:45 ,10° ,X V ,,walk / Break ,,,MON2_SI_01_table_Page_056
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_046
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_046
+11/9 ,,9:00ags ,X ,,,TOOK walk to Settle ,,,MON2_SI_01_table_Page_046
+11/15 ,,9:00a 9:0 ,,X V ,,settle Halk very off ,,,MON2_SI_01_table_Page_046
+11/27 ,,10:00.0025 ,X ,,,talk ,,,MON2_SI_01_table_Page_046
+11/29 ,,10'610 10 ,30 ,X V ,,tale ,,,MON2_SI_01_table_Page_046
+2/15 ,,9:50 985 ,,,,Asked to go to support area & then went to nurse ,X ,,MON2_SI_01_table_Page_046
+3/12 ,,10:00 ,,X X ,,Break / walk ,,,MON2_SI_01_table_Page_046
+,,1005 ,,,,,,,MON2_SI_01_table_Page_046
+,,,,,,,,,MON2_SI_01_table_Page_046
+,,,,,,,,,MON2_SI_01_table_Page_046
+,,,,,,,,,MON2_SI_01_table_Page_046
+,,,,,,,,,MON2_SI_01_table_Page_046
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_069
+L ,10-23 ,12:04 ,12:10 ,SC ,AD ,,ASKED BY STAFF ,,MON2_SI_01_table_Page_069
+,,,,,,,TO LEAVE TO REGRIN ,,MON2_SI_01_table_Page_069
+,,,,,,,SEZF-CONTROL. ,,MON2_SI_01_table_Page_069
+,,,,,,,,,MON2_SI_01_table_Page_069
+,10.28 ,11:00 ,11:17 ,SC ,AD ,,,,MON2_SI_01_table_Page_069
+,,,,,,,,,MON2_SI_01_table_Page_069
+,10.28 ,1:12 ,1:33 ,Sc ,AD ,,is UNABLE ,,MON2_SI_01_table_Page_069
+,,,,,,,TO REGASN SELF- CONTROL ,,MON2_SI_01_table_Page_069
+,,,,,,,AKER P.E. ,,MON2_SI_01_table_Page_069
+,,,,,,,,,MON2_SI_01_table_Page_069
+,10.28 ,1:38 ,2:25 ,30 ,AD ,,AS UNSORE ,,MON2_SI_01_table_Page_069
+,,,,,,,TO REARN TO CLASS ,,MON2_SI_01_table_Page_069
+,,,,,,,,,MON2_SI_01_table_Page_069
+,,,,,,,,,MON2_SI_01_table_Page_069
+,,,,,,,,,MON2_SI_01_table_Page_069
+,,,,,,,,,MON2_SI_01_table_Page_069
+,,,,,,,,,MON2_SI_01_table_Page_069
+Student ,Date ,Time In ,Time Out ,Antecedent ,Aduit Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_101
+,113 ,10 co ,ic:(3 ,PE. SC ,31 ,,,,MON2_SI_01_table_Page_101
+,121 ,12:55 ,12:58 ,PE.SC ,SI ,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+,,,,,,,,,MON2_SI_01_table_Page_101
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_094
+,3/14/19 ,1:55 ,235 ,,,,Adt cussion info ,,MON2_SI_01_table_Page_094
+,,910 ,,,,,11:15 Will ,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+,,,,,,,,,MON2_SI_01_table_Page_094
+Student ,Date ,Time in ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_026
+,12/8 ,1.5 ,1:25 ,VE / PE ,Adut directed ,,fter altercation in PE ,,MON2_SI_01_table_Page_026
+,2/14 ,1:45 ,1.52 ,VE/PE ,Student ,Initiated ,Negative peer ,,MON2_SI_01_table_Page_026
+,(118 ,1:30 ,1:40 ,PS/56 ,Adult directed ,,Trouble ,,MON2_SI_01_table_Page_026
+,,,,,,,accepting ,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+,,,,,,,,,MON2_SI_01_table_Page_026
+Date ,,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,,MON2_SI_01_table_Page_044
+,,,,student initiated ,adult initiated ,permission ,reason ,,MON2_SI_01_table_Page_044
+,,,,,,,,,MON2_SI_01_table_Page_044
+1/6 ,,,8:30 ,,X X ,,unsetted BS ,,MON2_SI_01_table_Page_044
+3/6 ,,,,,,,,,MON2_SI_01_table_Page_044
+3/6 ,,,,,,ISS ,,,MON2_SI_01_table_Page_044
+>/6 ,,,12:00 ,123° ,,,,,MON2_SI_01_table_Page_044
+3/7 ,,,9:00 ,990 ,X ,,unsetted ,,MON2_SI_01_table_Page_044
+17 ,,,10:00 ,10 00 ,X ,,esculated ,,MON2_SI_01_table_Page_044
+,,,,,,,,,MON2_SI_01_table_Page_044
+,,,,,,,,,MON2_SI_01_table_Page_044
+,,,,,,,,,MON2_SI_01_table_Page_044
+,,,,,,,,,MON2_SI_01_table_Page_044
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_096
+,,,,,,,SI ,,MON2_SI_01_table_Page_096
+,,,,,,,51 ,,MON2_SI_01_table_Page_096
+,,,,,,,,,MON2_SI_01_table_Page_096
+,,,100 ,,Studes ,,,,MON2_SI_01_table_Page_096
+,,,12 ,,,,,,MON2_SI_01_table_Page_096
+,,2 ,,,,,,,MON2_SI_01_table_Page_096
+,,,4 ,,,,,,MON2_SI_01_table_Page_096
+,,1006 ,,,,,,,MON2_SI_01_table_Page_096
+,10/11 ,8 ,12 ,,student leutlate ,,Slept ,,MON2_SI_01_table_Page_096
+,,,,,,,,,MON2_SI_01_table_Page_096
+,20 ,80 ,K.CO ,,price Ienard ,,Stept ,,MON2_SI_01_table_Page_096
+,2/20 ,1215 ,120 ,,cridint instruct ,,slept ,,MON2_SI_01_table_Page_096
+,2.1 ,8.00 ,12 ,,Sinden intrited ,,slept ,,MON2_SI_01_table_Page_096
+,,12.15 ,2.10 ,,SI ,,sleft ,,MON2_SI_01_table_Page_096
+,,,,,,,,,MON2_SI_01_table_Page_096
+,,,,,,,,,MON2_SI_01_table_Page_096
+,,,,,,,,,MON2_SI_01_table_Page_096
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_072
+,3-4 ,12:32 ,2:40 ,SC ,,,WAS ES CALATED ,,MON2_SI_01_table_Page_072
+,,,,,,,ABOUT HAVING TO ,,MON2_SI_01_table_Page_072
+,,,,,,,FINISH WORK AT THE ,,MON2_SI_01_table_Page_072
+,,,,,,,END OF THE DAY ,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+,,,,,,,,,MON2_SI_01_table_Page_072
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Aduli Durected/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_097
+,10/2 ,11:30 ,1:33 ,DC ,SI ,,,,MON2_SI_01_table_Page_097
+,10/4 ,2:10 ,2:35 ,PE ,ADISI ,,,,MON2_SI_01_table_Page_097
+,0/7 ,10:55 ,11:25 ,PE ,AO ,,,,MON2_SI_01_table_Page_097
+,10/7 ,11:50 ,12:15 ,PE ,ED ,,,,MON2_SI_01_table_Page_097
+,10/17 ,9:50 ,0000 ,PE ,S. ,,,,MON2_SI_01_table_Page_097
+,10/17 ,10:10 ,10:20 ,PE ,SL ,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+,,,,,,,,,MON2_SI_01_table_Page_097
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_087
+,11-14-17 ,8.55 ,9.08 ,PE SC ,Student ,,kicking walls Sinnging ,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+,,,,,,,,,MON2_SI_01_table_Page_087
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_073
+,3-8-19 ,1:12PM ,1:20 PM ,IS ,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+,,,,,,,,,MON2_SI_01_table_Page_073
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_001
+,1/20/16 ,12:45 ,1:00 ,DE ,AP ,,,,MON2_SI_01_table_Page_001
+,1/26/17 ,12:40 ,12:50 ,VE ,AD ,,,,MON2_SI_01_table_Page_001
+,2/17/17 ,12.30 ,12:40 ,VELPE ,AD ,,,,MON2_SI_01_table_Page_001
+,3/28/17 ,2:00 ,2:10 ,VEI PE ,AD ,,,,MON2_SI_01_table_Page_001
+,5/1/17 ,9:30 ,10:00 ,VE/PE ,AD ,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+,,,,,,,,,MON2_SI_01_table_Page_001
+Date ,Student ,Time ,Break ,,Left w/o ,Directed to leave room ,support ,,MON2_SI_01_table_Page_055
+,,,student initiated ,adult initiated ,permission ,reason ,student initiated ,,MON2_SI_01_table_Page_055
+,,9:30-D ,X x ,,,,,,MON2_SI_01_table_Page_055
+1/9 ,,10.00 ,10 10 ,X V ,,asked for a wall ,,,MON2_SI_01_table_Page_055
+11/29 ,,11:00 11 30 ,,X ,,walk ,,,MON2_SI_01_table_Page_055
+2/4 ,,10:45 ,X 1050 ,,,walk ,,,MON2_SI_01_table_Page_055
+2/1 ,,12:30- evidofday ,,,,spent the daysend in supportaver due to unsule in PE ,,,MON2_SI_01_table_Page_055
+2/2 ,,8:00-8:30Am ,,,,started day in supporturea to follow up(Ls1) re 21 ,,,MON2_SI_01_table_Page_055
+2/6 ,,9.15-9120 ,,X ,,ag. tated ,,,MON2_SI_01_table_Page_055
+E/C ,,101 00 - 1100 ,,X ,,Showing Chairs knocking tables ,,,MON2_SI_01_table_Page_055
+2/12 ,,10:33- 10 37 ,X / ,,,Asked to go for a walk ,,,MON2_SI_01_table_Page_055
+2/13 ,,,,X X ,,unsafe ,,,MON2_SI_01_table_Page_055
+93/1 ,,,,X X ,,started in support ,,,MON2_SI_01_table_Page_055
+Student ,Date ,Time In ,Time Out ,Antecedent* ,Adult Directed/Student Initiated ,Staff Member ,Details ,,MON2_SI_01_table_Page_018
+,12/6/16 ,9:30 ,950 ,PE ,AD ,,,,MON2_SI_01_table_Page_018
+,2/6/17 ,1:45 ,2:00 ,PE ,AD ,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018
+,,,,,,,,,MON2_SI_01_table_Page_018

@@ -1,0 +1,25 @@
+Table: Table_1
+
+Date ,Student Name ,,Time entered room ,Time exited room ,Total length of time* ,Supervised by: ,(T)eacher (S)tudent directed ,Complia Ince with BIP ,Imminent risk of harm to (S)elf (0) thers ,Antecedent (S)elf-regulation (A) cademic frustration (P) eer Issues (G) Juided break ,
+10/23 ,,,855 ,910 ,15 ,,T ,in process ,0 ,5 ,
+10/23 ,,,910 ,912 ,2 ,,T ,in process ,0 ,S ,
+0/23 ,,,914 ,930 ,16 ,,T ,il ,0 ,S ,
+10/23 ,,,930 ,943 ,13 ,,T ,is ,0 ,S ,
+10/23 ,,,9460 ,1000 ,14 ,,S/T ,11 ,0 ,S ,
+10/23 ,,,1245 ,1247 ,2 ,,S ,X ,S ,A ,
+10/23 ,,,1248 ,102 ,14 ,,T ,X ,0 ,S ,
+0/23 ,,,10 ,125 ,15 ,,T ,X ,,S ,
+10/23 ,,,125 ,150 ,15 ,,T ,X ,@ ,S ,
+10/24 ,,,830 ,845 ,15 ,,T ,in process ,O ,S ,
+10/24 ,,,845 ,900 ,15 ,,T - ,11 ,O ,S ,
+10/24 ,,,915 ,930 ,15 ,,T ,il ,0 ,S ,
+10/22 ,,,930 ,942 ,12 ,,T ,il ,0 ,S ,
+10/20 ,,,1045 ,1100 ,15 ,,T ,il ,0 ,S ,
+,,,,,,,,,,,
+10/21 ,,,1100 ,1115 ,15 ,,T ,ii ,0 ,S ,
+,,,,,,,,,,,
+
+
+
+
+
