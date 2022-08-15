@@ -2,7 +2,7 @@
 to extract text!
 This is the one of the repos for restrain and seclusion project. 
 
-Here we use Amazon Textract to scrape hand-written numbers and words from over 30,000 restrain and seclusion incidents,mostly in pdf forms, in New York State. 
+Here we use Amazon Textract to scrape hand-written numbers and words from over 30,000 restrain and seclusion incidents,most of which are pdfs, in New York State. 
 
 Each school district has their own ways to document incidents, so, we customed scripts for each district (Sounds like a lot, right? But we did it!) 
 
